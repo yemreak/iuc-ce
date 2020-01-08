@@ -31,7 +31,7 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği tüm ders notlar�
 
 ## 💡 İçerik Desteğinde Bulunma veya Fikir Belirtme
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#snapshot/ef0b0b48-4770-4c2c-9b7e-fc502ef953f8)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/YEmreAk/IstanbulUniversity-CE8)
 
 - [💖 Katkıda Bulunma Rehberi](CONTRIBUTING.md) alanından projeye **katkıda** bulunabilirsin
 - **Ders notu istekleri** için [🦋 Issue](https://github.com/YEmreAk/IstanbulUniversity-CE/issues/new/choose) alanından dersin adını belirtebilirsin.

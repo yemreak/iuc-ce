@@ -11,7 +11,7 @@ description: Projeye katkı sağlamak isteyenler için detaylı bilgilendirme ya
 - 📚 Tüm dersleri [YEmreAk/IstanbulUniversity-CE](https://github.com/YEmreAk/IstanbulUniversity-CE) adıyla GitHub üzerinde *açık olarak* derlenmektedir
 - 🤝 Katkı sağlama işlemleri de GitHub üzerinden yapılmaktadır
 - 🏹 Sağ üst köşedeki  **Edit on Github** alanından da proje sayfasına yönelebilirsin
-- 🌃 [Open in Gitpod](https://gitpod.io#snapshot/ef0b0b48-4770-4c2c-9b7e-fc502ef953f8) aracılığıyla sanal makinede tüm dosyaları yönetebilirsin
+- 🌃 [Open in Gitpod](https://gitpod.io/#https://github.com/YEmreAk/IstanbulUniversity-CE) aracılığıyla sanal makinede tüm dosyaları yönetebilirsin
 
 > 📹 IUCE ~ YEmreAk sitesi sadece sunum aracıdır
 
@@ -64,11 +64,11 @@ Açık kaynaklı projeye ders notların ile katkı sağlamak için:
 
 ## 🚀 Web Üzerinden Katkıda Bulunma <a name="web-uzerinden-katkida-bulunma"></a>
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#snapshot/ef0b0b48-4770-4c2c-9b7e-fc502ef953f8)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/YEmreAk/IstanbulUniversity-CE)
 
 - 🌍 GitHub projelerini `clone` edip, internetini harcamak yerine projeye web üzerinden katkıda bulunabilirsin.
 - ✨ Güncel bilgiler için [🌍 GitHub Web](https://lib.yemreak.com/proje-yoenetimi/github/github-web) yazıma bakabilirsin
-- 🌃 [Open in Gitpod](https://gitpod.io#snapshot/ef0b0b48-4770-4c2c-9b7e-fc502ef953f8) aracılığıyla sanal makinede işlemlerinizi yapabilirsiniz
+- 🌃 [Open in Gitpod](https://gitpod.io/#https://github.com/YEmreAk/IstanbulUniversity-CE) aracılığıyla sanal makinede işlemlerinizi yapabilirsiniz
 - ⚠️ Katkı sağlama işlemi GitHub hesabı gerektirir.
 
 > 💁‍♂️ Videolar faydalı olmadıysa bana WhatsApp veya Mail üzerinden atabilirsin.
