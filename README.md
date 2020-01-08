@@ -27,6 +27,8 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği tüm ders notlar�
   - [👀 Neler Değişti](./CHANGELOG.md)
   - [✨ Commits](https://github.com/yedhrab/IstanbulUniversity-CE/commits/master)
 
+> 👁️ Eski değişikliklere [buradan](./CHANGELOG-old.md) erişebilirsin
+
 ## 💡 İçerik Desteğinde Bulunma veya Fikir Belirtme
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#snapshot/ef0b0b48-4770-4c2c-9b7e-fc502ef953f8)
