@@ -83,14 +83,18 @@ def renew(path, lvl):
     lesson_header = read_first_header(lesson_path)
     lesson_header = lesson_header[lesson_header.find(" ") + 1:]  # Emojiyi kaldırma
 
+    index = None
+    for regex in [r' \| ', r" | "]:
+        if regex in header:
+            index = header.find(regex)
+
+    header = header[:index]
+
     pattern = ""
     for name in lesson_header.split(" "):
         pattern += name[0]
 
     pattern = r" \| " + pattern
-    if r" \| " in header:
-        header = header[:header.find(r" \| ")]
-
     header += pattern
 
     filestr = ""
