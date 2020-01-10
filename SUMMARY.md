@@ -186,6 +186,7 @@
         - [📖 Genel Notlar \| SP](donem5/sistem-programlama/ders-icerigi/genel-notlar/README.md)
         - [👨‍💻 Kodlar \| SP](donem5/sistem-programlama/ders-icerigi/kodlar/README.md)
         - [📜 PDF \| SP](donem5/sistem-programlama/ders-icerigi/pdf/README.md)
+        - [🏗️ Proje | SP \| SP](donem5/sistem-programlama/ders-icerigi/proje/README.md)
       - [📕 Öğrenci Notları \| SP](donem5/sistem-programlama/ogrenci-notlari/README.md)
       - [📃 Sınav Soruları \| SP](donem5/sistem-programlama/sinav-sorulari/README.md)
     - [📂 Veritabanı Yönetim Sistemleri](donem5/veritabani-yonetim-sistemleri/README.md)

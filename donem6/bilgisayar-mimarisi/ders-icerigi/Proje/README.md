@@ -1,6 +1,6 @@
 ---
 description: >-
-  Bilgisayar Mimarisi için  Proje notları
+  Bilgisayar Mimarisi dersindeki proje ödevleri, proje konuları, içeriği veya notları
 ---
 
 # 🏗️ Proje \| BM

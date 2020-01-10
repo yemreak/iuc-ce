@@ -1,6 +1,6 @@
 ---
 description: >-
-  Mobile Programming için  Proje notları
+  Mobile Programming dersindeki proje ödevleri, proje konuları, içeriği veya notları
 ---
 
 # 🏗️ Proje \| MP
