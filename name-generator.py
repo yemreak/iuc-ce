@@ -9,6 +9,12 @@ description: >-
 ---
 
 """
+DESC_PROJE = r"""---
+description: >-
+  {} dersindeki proje ödevleri, proje konuları, içeriği veya notları
+---
+
+"""
 DESC_SINAV = r"""---
 description: >-
   {} için sınav soruları, çıkmış sorular, çıkmışlar veya önceki senelerde çıkan sorular
@@ -99,6 +105,8 @@ def renew(path, lvl):
         description = DESC_KARMA
     elif "Genel" in header:
         description = DESC_GENEL
+    elif "Proje" in header:
+        description = DESC_PROJE
     else:
         description = DESC_DEFAULT.format("{}", header[2:header.find(r" \|")])
     filestr = description.format(lesson_header)
