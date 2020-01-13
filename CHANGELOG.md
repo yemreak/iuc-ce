@@ -2,6 +2,7 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 13/01/2020 - 10:03:23 - [📃 VYS final çözümleri eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/5890b43dc22263a3a63326fdb20abc889d7f327c?diff=split) ~ Yunus Emre
 - 10/01/2020 - 11:08:51 - [👨‍🔧 | ve \| farkından kaynaklanan sorun giderildi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d44aa648c633ba55d898c2a46b66262636b9cdfd?diff=split) ~ Yunus Emre
 - 10/01/2020 - 10:57:40 - [📕 SP notları artırıldı](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ed981492386fc16a64c543694ebe7568f2c08ec2?diff=split) ~ Yunus Emre
 - 10/01/2020 - 10:57:14 - [📝 Açıklama ekleyici yenilendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/da536124e19ca338a0d7d3c037dbe09c73b4f791?diff=split) ~ Yunus Emre
