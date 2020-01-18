@@ -2,6 +2,7 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 18/01/2020 - 23:51:28 - [📗 Mobil için ek notlar](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9f96dc8fd7aea69beeddc802ba1319368801d5eb?diff=split) ~ Yunus Emre
 - 14/01/2020 - 00:42:50 - [➕ BM vize sonrası notları eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/40db36a9309cc0097ef94df28729c99d62dd26d0?diff=split) ~ Yunus Emre
 - 13/01/2020 - 10:03:23 - [📃 VYS final çözümleri eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/5890b43dc22263a3a63326fdb20abc889d7f327c?diff=split) ~ Yunus Emre
 - 10/01/2020 - 11:08:51 - [👨‍🔧 | ve \| farkından kaynaklanan sorun giderildi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d44aa648c633ba55d898c2a46b66262636b9cdfd?diff=split) ~ Yunus Emre
