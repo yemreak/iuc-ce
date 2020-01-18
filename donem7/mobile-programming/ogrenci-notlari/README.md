@@ -9,7 +9,8 @@ description: >-
 
 * ⚠️ Notlarda her konu olmayabilir, lütfen dikkatli bakınız. ~ YEmreAk
 * ✍ Mobil çalışırken aldığım notları [Android ~ YEmreAk](https://android.yemreak.com/) üzerinde derlemekteyim
-* 🌟 Android için faydalı kaynakları [Learn ~ YEmreAk](https://learn.yemreak.com/android) üzerinde derlemekteyi**z**nakları [Learn ~ YEmreAk](https://learn.yemreak.com/android) üzerinde derlemekteyi**z**
+* 👨‍🎓 Mobile çalışmak için [🚩 Çalışma Yolu ~ Android YEmreAk](https://android.yemreak.com/calisma-yolu) sayfası faydalı olacaktır
+* 🌟 Android için faydalı kaynakları [Learn ~ YEmreAk](https://learn.yemreak.com/android) üzerinde derlemekteyi**z**
 
 ## 📗 Final için YEmreAk Notları
 
