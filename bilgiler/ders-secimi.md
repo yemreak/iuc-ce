@@ -28,15 +28,13 @@ Başlık altında da belli ettiğim gibi **kişisel** tavsiyelerim olduğundan, 
 
 > Çok sağlıklı bir tavsiye olmayabilir 🙄
 
-## 💭 Neden Diğer Dersleri Önermedim
-
-### 🤔 Artifical Intelligent neden önerilmedi
+### ✖️ Artifical Intelligent neden önerilmedi
 
 - Fazla teorik
 - Yüzeysel konular olduğun biraz sıkıcı
 - Günümüzdeki Machine Learning , Deep Neural Network gibi alanlardan bahsetmiyor
 
-### 🤔 Data Communication neden önerilmedi
+### ✖️ Data Communication neden önerilmedi
 
 - Sadece 2 kelime “Ahmet Hoca” 😅
   - Monoton anlatım (sürekli aynı tonda olan ses, uyku getiriyor)
@@ -60,6 +58,12 @@ Başlık altında da belli ettiğim gibi **kişisel** tavsiyelerim olduğundan, 
 - 🤖 AI, ML gibi konularda da Image Processing önemli bir notktadır, ön bilgin olması fayda sağlayacaktır
 
 > 🚀 AI, günümüzün yeni elektriğidir
+
+### ✖️ Software Testing Neden Önerilmedi
+
+- 🕊️ Kolay geçme adına bu dersi seçebilirsin
+- 👨‍🔬 Testing adına yüzeysel bilgi verilmekte, sektörde bir fayda sağlar mı emin değilim
+- ⛅ Konular biraz havada kalmakta
 
 <!-- Diğer kişilerin fikirleri olursa en alta kısma eklenecek -->
 
