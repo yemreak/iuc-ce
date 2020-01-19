@@ -45,6 +45,22 @@ Başlık altında da belli ettiğim gibi **kişisel** tavsiyelerim olduğundan, 
 
 > Çok sağlıklı bir tavsiye olmayabilir 🙄
 
+## 👨‍🏫 3. Sınıf 2. Dönem Ders Tavsiyeleri
+
+### 🕸️ Web Programlama
+
+- ⭐ Özgür Hoca bölüm içerisinde anlatımı çok iyi olan nadir hocalardandır
+- 📈 Ders verimli ve gelitirici seviyededir
+- 💸 Web teknolojileri piyasada çok yaygın kullanılmakta
+
+### 🖼️ Görüntü İşleme
+
+- 🕊️ Rahat, anlaşılabilir ve kolay bir derstir
+- 🖼️ Image Processing (Görüntü işleme) ve Computer Vision (bilgisayar görü) alanları ilgini çekiyorsa kesinlikle tavsiye edilir
+- 🤖 AI, ML gibi konularda da Image Processing önemli bir notktadır, ön bilgin olması fayda sağlayacaktır
+
+> 🚀 AI, günümüzün yeni elektriğidir
+
 <!-- Diğer kişilerin fikirleri olursa en alta kısma eklenecek -->
 
 <!-- ## Diğer Tavsiyeler -->
