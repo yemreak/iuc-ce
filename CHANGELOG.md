@@ -2,6 +2,7 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 20/01/2020 - 00:30:46 - [✖️ Software Testing Neden Önerilmedi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/cc7ce216432ea6ef735a537ec5617b8ee4c02b29?diff=split) ~ Yunus Emre
 - 20/01/2020 - 00:27:58 - [👨‍🏫 3. Sınıf 2. Dönem Ders Tavsiyelerim](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1dc8ea612a99b0209121ec0b26c5654038c6e691?diff=split) ~ Yunus Emre
 - 18/01/2020 - 23:51:28 - [📗 Mobil için ek notlar](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9f96dc8fd7aea69beeddc802ba1319368801d5eb?diff=split) ~ Yunus Emre
 - 14/01/2020 - 00:42:50 - [➕ BM vize sonrası notları eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/40db36a9309cc0097ef94df28729c99d62dd26d0?diff=split) ~ Yunus Emre
