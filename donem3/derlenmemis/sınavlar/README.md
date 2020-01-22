@@ -1,6 +1,61 @@
 ---
 description: >-
-  2019 için 2. Sınıf 1. Dönem sınavları
+  Derlenmemiş Notlar için sınav soruları, çıkmış sorular, çıkmışlar veya önceki senelerde çıkan sorular
 ---
 
-# 🗃️ Sınavlar
+# 🗃️ Sınavlar \| DN
+
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+
+- [1.jpg](1.jpg)
+- [10.jpg](10.jpg)
+- [11.jpg](11.jpg)
+- [12.jpg](12.jpg)
+- [13.jpg](13.jpg)
+- [14.jpg](14.jpg)
+- [15.jpg](15.jpg)
+- [16.jpg](16.jpg)
+- [17.jpg](17.jpg)
+- [18.jpg](18.jpg)
+- [19.jpg](19.jpg)
+- [2.jpg](2.jpg)
+- [20.jpg](20.jpg)
+- [21.jpg](21.jpg)
+- [22.jpg](22.jpg)
+- [23.jpg](23.jpg)
+- [26.jpg](26.jpg)
+- [29.jpg](29.jpg)
+- [3.jpg](3.jpg)
+- [30.jpg](30.jpg)
+- [31.jpg](31.jpg)
+- [32.jpg](32.jpg)
+- [33.jpg](33.jpg)
+- [34.jpg](34.jpg)
+- [35.jpg](35.jpg)
+- [36.jpg](36.jpg)
+- [37.jpg](37.jpg)
+- [4.jpg](4.jpg)
+- [5.jpg](5.jpg)
+- [6.jpg](6.jpg)
+- [7.jpg](7.jpg)
+- [7923a814-cb2c-4a89-92e9-30f8880d2d62.jpg](7923a814-cb2c-4a89-92e9-30f8880d2d62.jpg)
+- [8.jpg](8.jpg)
+- [9.jpg](9.jpg)
+- [devrelersistemler.jpg](devrelersistemler.jpg)
+- [diferansiyel2020but.jpg](diferansiyel2020but.jpg)
+- [diferansiyel2020final.jpg](diferansiyel2020final.jpg)
+- [index.jpg](index.jpg)
+- [lojik.jpg](lojik.jpg)
+- [lojik2014 2.jpg](lojik2014%202.jpg)
+- [nesne.jpg](nesne.jpg)
+- [nesnee.jpg](nesnee.jpg)
+- [nesneee.jpg](nesneee.jpg)
+- [nesnefinal1.jpg](nesnefinal1.jpg)
+- [nesnefinal2.jpg](nesnefinal2.jpg)
+- [olasilik2020but.jpg](olasilik2020but.jpg)
+- [olasilikfinal2020.jpg](olasilikfinal2020.jpg)
+- [olasilil.jpg](olasilil.jpg)
+- [veriyapilarifinal.jpg](veriyapilarifinal.jpg)
+- [vy.jpg](vy.jpg)
+
+<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
