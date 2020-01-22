@@ -93,6 +93,7 @@
       - [📚 Ders İçeriği \| VY](donem3/veri-yapilari/ders-icerigi/README.md)
         - [📖 Genel Notlar \| VY](donem3/veri-yapilari/ders-icerigi/genel-notlar/README.md)
         - [👩‍🔬 Lab \| VY](donem3/veri-yapilari/ders-icerigi/lab/README.md)
+        - [⭐ Ödevler \| VY](donem3/veri-yapilari/ders-icerigi/odevler/README.md)
       - [📕 Öğrenci Notları \| VY](donem3/veri-yapilari/ogrenci-notlari/README.md)
       - [📃 Sınav Soruları \| VY](donem3/veri-yapilari/sinav-sorulari/README.md)
   - [📚 2. Sınıf 2. Dönem Notları](donem4/README.md)

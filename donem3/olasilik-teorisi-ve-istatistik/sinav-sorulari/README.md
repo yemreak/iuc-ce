@@ -8,6 +8,7 @@ description: >-
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [Ayrık olasılık daılım.pdf](Ayr%C4%B1k%20olas%C4%B1l%C4%B1k%20da%C4%B1l%C4%B1m.pdf)
+- [Final 2019 OTvI.pdf](Final%202019%20OTvI.pdf)
 - [olasilik-2010-final-cozumler.pdf](olasilik-2010-final-cozumler.pdf)
 - [olasilik-2010-final.pdf](olasilik-2010-final.pdf)
 - [olasilik-2010-yilici-cozumler.pdf](olasilik-2010-yilici-cozumler.pdf)

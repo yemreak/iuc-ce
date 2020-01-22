@@ -2,6 +2,9 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 22/01/2020 - 20:12:07 - [📃 Final 2019 OTvI](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/50a7ddf760af20706dd8d291ca9665041f168da7?diff=split) ~ Yunus Emre
+- 22/01/2020 - 20:10:29 - [⭐ VY ödevleri eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/414cded3fbdbd6e847ddd27081dc1fbed0ca5ff3?diff=split) ~ Yunus Emre
+- 22/01/2020 - 20:10:06 - [⭐ Ödevler](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/403ed4cd4470da166d6a3e3ccc9a09c69e2c1f70?diff=split) ~ Yunus Emre
 - 20/01/2020 - 00:30:46 - [✖️ Software Testing Neden Önerilmedi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/cc7ce216432ea6ef735a537ec5617b8ee4c02b29?diff=split) ~ Yunus Emre
 - 20/01/2020 - 00:27:58 - [👨‍🏫 3. Sınıf 2. Dönem Ders Tavsiyelerim](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1dc8ea612a99b0209121ec0b26c5654038c6e691?diff=split) ~ Yunus Emre
 - 18/01/2020 - 23:51:28 - [📗 Mobil için ek notlar](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9f96dc8fd7aea69beeddc802ba1319368801d5eb?diff=split) ~ Yunus Emre
