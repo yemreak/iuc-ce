@@ -89,6 +89,7 @@
         - [📅 Vize \| OTvİ](donem3/olasilik-teorisi-ve-istatistik/ders-icerigi/Vize/README.md)
       - [📕 Öğrenci Notları \| OTvİ](donem3/olasilik-teorisi-ve-istatistik/ogrenci-notlari/README.md)
       - [📃 Sınav Soruları \| OTvİ](donem3/olasilik-teorisi-ve-istatistik/sinav-sorulari/README.md)
+    - [🗃️ Sınavlar](donem3/s%C4%B1navlar/README.md)
     - [💾 Veri Yapıları](donem3/veri-yapilari/README.md)
       - [📚 Ders İçeriği \| VY](donem3/veri-yapilari/ders-icerigi/README.md)
         - [📖 Genel Notlar \| VY](donem3/veri-yapilari/ders-icerigi/genel-notlar/README.md)

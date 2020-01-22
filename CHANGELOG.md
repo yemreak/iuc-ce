@@ -2,6 +2,7 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 22/01/2020 - 20:14:49 - [🗃️ 2019 için 2. Sınıf 1. Dönem sınavları](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/0171278009516795c4f85fa3a41d2f012a146be1?diff=split) ~ Yunus Emre
 - 22/01/2020 - 20:12:07 - [📃 Final 2019 OTvI](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/50a7ddf760af20706dd8d291ca9665041f168da7?diff=split) ~ Yunus Emre
 - 22/01/2020 - 20:10:29 - [⭐ VY ödevleri eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/414cded3fbdbd6e847ddd27081dc1fbed0ca5ff3?diff=split) ~ Yunus Emre
 - 22/01/2020 - 20:10:06 - [⭐ Ödevler](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/403ed4cd4470da166d6a3e3ccc9a09c69e2c1f70?diff=split) ~ Yunus Emre
