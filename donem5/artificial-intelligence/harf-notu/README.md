@@ -1,4 +1,9 @@
-# harf-notu
+---
+description: >-
+  Artificial Intelligence için rf-notu notları
+---
+
+# harf-notu \| AI
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

@@ -1,4 +1,9 @@
-# harf-notu
+---
+description: >-
+  Operating Systems için rf-notu notları
+---
+
+# harf-notu \| OS
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
