@@ -2,6 +2,7 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 25/01/2020 - 01:20:05 - [🗂 Çanlar ve sınav soruları eklendi (#3)](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1c768b75f7b388d9ec1e61055ac96220b32b82c9?diff=split) ~ Asmaa Mirkhan
 - 22/01/2020 - 18:35:10 - [👨‍🔧 Sınavların gözükmemesi düzeltildi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1b53263e8012a2ca7a05c98ee0359535f6fb8de3?diff=split) ~ Yunus Emre
 - 22/01/2020 - 20:17:12 - [🗃️ 2019 yılı 2. Sınıf 1. Dönem sınavları eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/cf89d2a7e023786c97808a950a33c927e121dfb2?diff=split) ~ Yunus Emre
 - 22/01/2020 - 20:14:49 - [🗃️ 2019 için 2. Sınıf 1. Dönem sınavları](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/0171278009516795c4f85fa3a41d2f012a146be1?diff=split) ~ Yunus Emre

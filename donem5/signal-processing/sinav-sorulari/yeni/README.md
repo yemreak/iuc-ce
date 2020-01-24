@@ -7,6 +7,7 @@ description: >-
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
+- [Final 2019 SP Çözümlü.pdf](Final%202019%20SP%20%C3%87%C3%B6z%C3%BCml%C3%BC.pdf)
 - [Final 2019 SP.pdf](Final%202019%20SP.pdf)
 - [Fİnal 2018 SP.pdf](F%C4%B0nal%202018%20SP.pdf)
 - [Vize 0218 SP.pdf](Vize%200218%20SP.pdf)
