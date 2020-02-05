@@ -3,7 +3,7 @@ description: >-
   Programming Applicaiton için rf-notu notları
 ---
 
-# harf-notu \| PA
+# 🆎 Harf Notu \| PA
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

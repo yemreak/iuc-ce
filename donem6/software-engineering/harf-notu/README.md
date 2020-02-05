@@ -3,7 +3,7 @@ description: >-
   Software Engineering için rf-notu notları
 ---
 
-# harf-notu \| SE
+# 🆎 Harf Notu \| SE
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

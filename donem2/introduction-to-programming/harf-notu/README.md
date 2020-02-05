@@ -3,7 +3,7 @@ description: >-
   Introduction to Programming için rf-notu notları
 ---
 
-# harf-notu \| ItP
+# 🆎 Harf Notu \| ItP
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

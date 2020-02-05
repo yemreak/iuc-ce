@@ -3,7 +3,7 @@ description: >-
   Algorithm Analysis için rf-notu notları
 ---
 
-# harf-notu \| AA
+# 🆎 Harf Notu \| AA
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

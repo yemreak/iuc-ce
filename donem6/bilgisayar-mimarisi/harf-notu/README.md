@@ -3,7 +3,7 @@ description: >-
   Bilgisayar Mimarisi için rf-notu notları
 ---
 
-# harf-notu \| BM
+# 🆎 Harf Notu \| BM
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

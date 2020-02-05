@@ -3,7 +3,7 @@ description: >-
   Bilgisayar Organizasyonu ve Tasarımı için rf-notu notları
 ---
 
-# harf-notu \| BOvT
+# 🆎 Harf Notu \| BOvT
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

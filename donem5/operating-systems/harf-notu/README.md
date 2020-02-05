@@ -3,7 +3,7 @@ description: >-
   Operating Systems için rf-notu notları
 ---
 
-# harf-notu \| OS
+# 🆎 Harf Notu \| OS
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

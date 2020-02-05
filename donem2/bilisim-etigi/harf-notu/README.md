@@ -3,7 +3,7 @@ description: >-
   Bilişim Etiği için rf-notu notları
 ---
 
-# harf-notu \| BE
+# 🆎 Harf Notu \| BE
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

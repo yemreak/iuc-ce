@@ -3,7 +3,7 @@ description: >-
   Artificial Intelligence için rf-notu notları
 ---
 
-# harf-notu \| AI
+# 🆎 Harf Notu \| AI
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
