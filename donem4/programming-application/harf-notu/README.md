@@ -1,6 +1,6 @@
 ---
 description: >-
-  Programming Applicaiton için rf-notu notları
+  Programming Applicaiton için Harf Notu notları
 ---
 
 # 🆎 Harf Notu \| PA

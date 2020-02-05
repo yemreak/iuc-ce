@@ -1,6 +1,6 @@
 ---
 description: >-
-  Artificial Intelligence için rf-notu notları
+  Artificial Intelligence için Harf Notu notları
 ---
 
 # 🆎 Harf Notu \| AI

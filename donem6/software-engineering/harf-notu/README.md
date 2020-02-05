@@ -1,6 +1,6 @@
 ---
 description: >-
-  Software Engineering için rf-notu notları
+  Software Engineering için Harf Notu notları
 ---
 
 # 🆎 Harf Notu \| SE

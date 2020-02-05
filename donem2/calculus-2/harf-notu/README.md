@@ -1,6 +1,6 @@
 ---
 description: >-
-  Calculus 2 için rf-notu notları
+  Calculus 2 için Harf Notu notları
 ---
 
 # 🆎 Harf Notu \| C2

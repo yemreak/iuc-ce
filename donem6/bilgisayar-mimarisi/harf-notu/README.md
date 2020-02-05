@@ -1,6 +1,6 @@
 ---
 description: >-
-  Bilgisayar Mimarisi için rf-notu notları
+  Bilgisayar Mimarisi için Harf Notu notları
 ---
 
 # 🆎 Harf Notu \| BM

@@ -1,6 +1,6 @@
 ---
 description: >-
-  Introduction to Programming için rf-notu notları
+  Introduction to Programming için Harf Notu notları
 ---
 
 # 🆎 Harf Notu \| ItP

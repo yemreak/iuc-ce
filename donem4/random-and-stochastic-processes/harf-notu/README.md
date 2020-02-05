@@ -1,6 +1,6 @@
 ---
 description: >-
-  Random and Stochastic Processes için rf-notu notları
+  Random and Stochastic Processes için Harf Notu notları
 ---
 
 # 🆎 Harf Notu \| RaSP

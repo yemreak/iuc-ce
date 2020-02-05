@@ -1,6 +1,6 @@
 ---
 description: >-
-  Operating Systems için rf-notu notları
+  Operating Systems için Harf Notu notları
 ---
 
 # 🆎 Harf Notu \| OS

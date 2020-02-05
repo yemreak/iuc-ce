@@ -1,6 +1,6 @@
 ---
 description: >-
-  Bilişim Etiği için rf-notu notları
+  Bilişim Etiği için Harf Notu notları
 ---
 
 # 🆎 Harf Notu \| BE

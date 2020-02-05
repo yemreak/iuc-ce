@@ -1,6 +1,6 @@
 ---
 description: >-
-  Bilgisayar Organizasyonu ve Tasarımı için rf-notu notları
+  Bilgisayar Organizasyonu ve Tasarımı için Harf Notu notları
 ---
 
 # 🆎 Harf Notu \| BOvT

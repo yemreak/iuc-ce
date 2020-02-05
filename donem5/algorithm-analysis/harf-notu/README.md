@@ -1,6 +1,6 @@
 ---
 description: >-
-  Algorithm Analysis için rf-notu notları
+  Algorithm Analysis için Harf Notu notları
 ---
 
 # 🆎 Harf Notu \| AA
