@@ -2,6 +2,7 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 09/02/2020 - 17:21:01 - [⚙ Karşılama sayfısındaki sorunlu bağlantılar düzeltildi (#5)](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/853e060b489b4560980a375d2b7fd16154ef80eb?diff=split) ~ Asmaa Mirkhan
 - 05/02/2020 - 18:17:33 - [👨‍🔧 Hatalar düzeltildi #4](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/2b825e9ee1f7407382c759cb89c7d46f559555ee?diff=split) ~ Yunus Emre
 - 05/02/2020 - 11:53:16 - [➕ Bütünleme soruları eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/fa0eab67a23cbd5ea700ad3cd7d770f64629419a?diff=split) ~ Yunus Emre
 - 25/01/2020 - 01:20:05 - [🗂 Çanlar ve sınav soruları eklendi (#3)](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1c768b75f7b388d9ec1e61055ac96220b32b82c9?diff=split) ~ Asmaa Mirkhan
