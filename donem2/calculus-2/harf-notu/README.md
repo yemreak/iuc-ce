@@ -1,9 +1,9 @@
 ---
 description: >-
-  Calculus 2 için rf-notu notları
+  Calculus 2 için Harf Notu notları
 ---
 
-# harf-notu \| C2
+# 🆎 Harf Notu \| C2
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

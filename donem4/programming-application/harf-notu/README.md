@@ -1,9 +1,9 @@
 ---
 description: >-
-  Programming Applicaiton için rf-notu notları
+  Programming Applicaiton için Harf Notu notları
 ---
 
-# harf-notu \| PA
+# 🆎 Harf Notu \| PA
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

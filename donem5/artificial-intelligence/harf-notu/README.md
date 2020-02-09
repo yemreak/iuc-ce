@@ -1,12 +1,12 @@
 ---
 description: >-
-  Introduction to Programming için Harf Notu notları
+  Artificial Intelligence için Harf Notu notları
 ---
 
-# 🆎 Harf Notu \| ItP
+# 🆎 Harf Notu \| AI
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-- [Çan 2018 İtP.PNG](%C3%87an%202018%20%C4%B0tP.PNG)
+- [AI Çan 2019 Bitirme.png](AI%20%C3%87an%202019%20Bitirme.png)
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

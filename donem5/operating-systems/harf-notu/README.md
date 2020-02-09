@@ -1,12 +1,12 @@
 ---
 description: >-
-  Introduction to Programming için Harf Notu notları
+  Operating Systems için Harf Notu notları
 ---
 
-# 🆎 Harf Notu \| ItP
+# 🆎 Harf Notu \| OS
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-- [Çan 2018 İtP.PNG](%C3%87an%202018%20%C4%B0tP.PNG)
+- [OS Çan 2019 Bitirme.png](OS%20%C3%87an%202019%20Bitirme.png)
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->

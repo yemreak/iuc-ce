@@ -1,9 +1,9 @@
 ---
 description: >-
-  Bilişim Etiği için rf-notu notları
+  Bilişim Etiği için Harf Notu notları
 ---
 
-# harf-notu \| BE
+# 🆎 Harf Notu \| BE
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 

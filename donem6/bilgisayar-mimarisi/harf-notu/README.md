@@ -1,9 +1,9 @@
 ---
 description: >-
-  Bilgisayar Mimarisi için rf-notu notları
+  Bilgisayar Mimarisi için Harf Notu notları
 ---
 
-# harf-notu \| BM
+# 🆎 Harf Notu \| BM
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
