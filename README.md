@@ -12,7 +12,7 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği tüm ders notlar�
     - ⭐ "calculus 1 ders", "c1 ders", "fizik 2 sınav", "f2 sınav" ...
   - 🏹 Sağ üst köşededir, tıklandığında yeni pencere ile tepki verecektir
 - [📂 Düzenlenmemiş eski ders notlar arşivi](https://drive.google.com/open?id=1JPZH6Z_K59UeO-A79H0pcBIsAJlw40Y-) de ilgini çekebilir
-- [🏫 Okul Hakkında Bilgiler](./1%20-%20Okul%20Hakk%C4%B1nda%20Bilgiler/README.md) alanına göz atmayı unutma
+- [🏫 Okul Hakkında Bilgiler](./bilgiler/README.md) alanına göz atmayı unutma
 
 > Her sayfanın en altında bulunan memnuniyet anketi ile ✨ gelişime ortak olabilirsin.
 
@@ -25,7 +25,7 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği tüm ders notlar�
 - 📋 Sitedeki tüm değişiklik **raporlanmaktadır**
 - 🗑️ **Kirlilk oluşturmaması** adına alttaki linkler üzerinde derlenmektedir.
   - [👀 Neler Değişti](./CHANGELOG.md)
-  - [✨ Commits](https://github.com/yedhrab/IstanbulUniversity-CE/commits/master)
+  - [✨ Commits](https://github.com/YEmreAk/IstanbulUniversity-CE/commits/master)
 
 > 👁️ Eski değişikliklere [buradan](./CHANGELOG-old.md) erişebilirsin
 
@@ -68,7 +68,7 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği tüm ders notlar�
 
 ## 🤝 Katkı Sağlayanlar
 
-✨ Katkı sağlayan arkadaşlara ([collabrator](https://github.com/YEmreAk/IstanbulUniversity-CE/graphs/contributors)) çok teşekkürler (🏆🥇🥈🥉)
+✨ Katkı sağlayan arkadaşlara ([collaborator](https://github.com/YEmreAk/IstanbulUniversity-CE/graphs/contributors)) çok teşekkürler (🏆🥇🥈🥉)
 
 - 🏆 Asmaa Mirkhan
 - 🥇 Eda Nur Var
