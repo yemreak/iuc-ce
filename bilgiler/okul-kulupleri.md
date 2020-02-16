@@ -1,8 +1,8 @@
 ---
-description: Okuldaki, bizim bölüm ile alakalı veya alakasız olan klüpler ile ilgili bilgiler buraya eklenecektir.
+description: Okuldaki, bizim bölüm ile alakalı veya alakasız olan kulüpler ile ilgili bilgiler buraya eklenecektir.
 ---
 
-# 👯 Okul Klüpleri
+# 👯 Okul Kulüpleri
 
 ## 💻 İÜCBK
 İsatnbul Üniversitesi - Cerrahpaşa Bilgisayar Kulübü:
