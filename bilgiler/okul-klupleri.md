@@ -4,7 +4,7 @@ description: Okuldaki, bizim bölüm ile alakalı veya alakasız olan klüpler i
 
 # 👯 Okul Klüpleri
 
-## 💻 İÜCBK | İsatnbul Üniversitesi Bilgisayar Kulübü
+## 💻 İÜCBK | İsatnbul Üniversitesi - Cerrahpaşa Bilgisayar Kulübü
 İÜC Bilgisayar Kulübü; 
 - 💡 Bilgisayar ve teknoloji alanlarında üyelerinin gereksinimleri ışığında ders içi ve dışı faaliyetlere destek olmak, 
 - 🎉 Sektörden ve akademiden uzman kişileri öğrencilerle buluşturmak,
