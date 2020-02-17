@@ -3,7 +3,7 @@
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
 - [🏫 İstanbul Üniversitesi Bilgisayar Mühendisliği](README.md)
-  - [👀 Neler değişti](CHANGELOG.md)
+  - [👀 Neler değişti](changelog.md)
   - [💖 Katkıda Bulunma Rehberi](CONTRIBUTING.md)
   - [🏫 Okul Hakkında Bilgiler](bilgiler/README.md)
     - [👨‍🏫 Akademik Kadro](bilgiler/akademik-kadro.md)
