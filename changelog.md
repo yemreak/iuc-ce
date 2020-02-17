@@ -2,6 +2,7 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 18/02/2020 - 01:54:29 - [💦](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/3f18c6521b491e3e10bdc3b49e4e71062e88caea?diff=split) ~ Yunus Emre
 - 18/02/2020 - 01:51:59 - [👨‍🔧](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/efa37dfbef61a8776c0f3c58a682c74ba285a30d?diff=split) ~ Yunus Emre
 - 18/02/2020 - 01:15:16 - [✨](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a61a35e1a1e450fb8df77093a2676194c569eb17?diff=split) ~ Yunus Emre
 - 18/02/2020 - 00:57:04 - [📰 BAG ve OOA notları yenilendi (#7)](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/58ede0ae805df25dc23583e69ad80e06ee5f6d91?diff=split) ~ Asmaa Mirkhan
