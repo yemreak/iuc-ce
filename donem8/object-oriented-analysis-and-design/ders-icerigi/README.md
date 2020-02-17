@@ -4,3 +4,10 @@ description: >-
 ---
 
 # 📚 Ders İçeriği \| OOAaD
+
+## 📅 2020 Bilgileri
+- Devamsılıktan kalınmıyor ama devamlılık bir artıdır
+
+### 🆎 Ders Değerlendirmesi
+- Sunum
+- Vize
