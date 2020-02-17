@@ -1,4 +1,9 @@
-# 👮‍♂️ Bilgisayar Ağlarında Güvenlik
+---
+description: >-
+  Bilgisayar Ağlarında Güvenlik için ders konuları, içeriği veya notları
+---
+
+# 📚 Ders İçeriği \| BAG
 
 ## 📅 2020 Bilgileri
 - Devamsılıktan kalınmıyor ama devamlılık bir artıdır
