@@ -2,6 +2,7 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 18/02/2020 - 12:49:10 - [📃 Ders Programları linki eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/14d7257328f0826d87403d01c2657e56bd6c93a8?diff=split) ~ Yunus Emre
 - 18/02/2020 - 02:03:28 - [💦](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f1cc32c4f0f21d37ccc314d161fb23ff4eb5a80c?diff=split) ~ Yunus Emre
 - 18/02/2020 - 02:02:57 - [👨‍🔧](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/541196220f49821d34ea7b69c44d3fba779608eb?diff=split) ~ Yunus Emre
 - 18/02/2020 - 01:54:29 - [💦](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/3f18c6521b491e3e10bdc3b49e4e71062e88caea?diff=split) ~ Yunus Emre
