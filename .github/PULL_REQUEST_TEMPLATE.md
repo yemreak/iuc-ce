@@ -1,5 +1,11 @@
 <!-- Yardımın ve desteğin için teşekkürler. Detaylı bilgiler için  contributing dosyasına bakabilirsin. -->
 
+<!--
+- [ ] [💖 Katkıda Bulunma Rehberi](https://iuce.yemreak.com/contributing) yazısını okuyunuz
+- [ ] 👮‍♂️ Adlandırma ve dosya konumlandırma kurallarına uygun yerleştiriniz
+- [ ] 👀 İsteğinize 1 tane reviewer atayınız
+-->
+
 ## 🎈 Başlık
 <!-- Değişikliği özetleyen başlık, hangi issue'ye çözüm buluyorsa onunu ID'si (Örn: #12) -->
 
@@ -28,10 +34,3 @@ Alttakilerden satırlardan birini kopyalayın:
 - Eğer kişilere yönelik bir vurgu yapacaksan @kisi yapısı ile bunu yapabilirsin
 - Önemli olduğunu belirmek istediğin özel notları yazabilirsin
 -->
-
-## ✔️ Yaptıklarım
-
-<!-- PR isteğinden önce yaptıklarını işaretle -->
-- [ ] [💖 Katkıda Bulunma Rehberi](https://iuce.yemreak.com/contributing) yazısını okudum
-- [ ] 👮‍♂️ Adlandırma ve dosya konumlandırma kurallarına uygun yerleştirdim
-- [ ] 🎉 Merge edilmeye hazır pozisyonda olduğunu onaylarım
