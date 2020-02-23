@@ -9,5 +9,5 @@ description: >-
 - Devamsılıktan kalınmıyor ama devamlılık bir artıdır
 
 ### 🆎 Ders Değerlendirmesi
-- Sunum
 - Vize
+- Final
