@@ -2,6 +2,15 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 18/02/2020 - 12:49:10 - [📃 Ders Programları linki eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/14d7257328f0826d87403d01c2657e56bd6c93a8?diff=split) ~ Yunus Emre
+- 18/02/2020 - 02:03:28 - [💦](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f1cc32c4f0f21d37ccc314d161fb23ff4eb5a80c?diff=split) ~ Yunus Emre
+- 18/02/2020 - 02:02:57 - [👨‍🔧](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/541196220f49821d34ea7b69c44d3fba779608eb?diff=split) ~ Yunus Emre
+- 18/02/2020 - 01:54:29 - [💦](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/3f18c6521b491e3e10bdc3b49e4e71062e88caea?diff=split) ~ Yunus Emre
+- 18/02/2020 - 01:51:59 - [👨‍🔧](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/efa37dfbef61a8776c0f3c58a682c74ba285a30d?diff=split) ~ Yunus Emre
+- 18/02/2020 - 01:15:16 - [✨](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a61a35e1a1e450fb8df77093a2676194c569eb17?diff=split) ~ Yunus Emre
+- 18/02/2020 - 00:57:04 - [📰 BAG ve OOA notları yenilendi (#7)](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/58ede0ae805df25dc23583e69ad80e06ee5f6d91?diff=split) ~ Asmaa Mirkhan
+- 16/02/2020 - 18:18:45 - [💻 İÜCBK bilgileri eklendi (#6)](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/4e4e24ec1febc1725d68fcf1cdf4ee907d258fef?diff=split) ~ Asmaa Mirkhan
+- 15/02/2020 - 15:45:34 - [✨ Kişisel sayfalarım yenilendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/cb6c0eb0e640971e0d5f7574180a89372f36a1ce?diff=split) ~ Yunus Emre
 - 09/02/2020 - 17:21:01 - [⚙ Karşılama sayfısındaki sorunlu bağlantılar düzeltildi (#5)](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/853e060b489b4560980a375d2b7fd16154ef80eb?diff=split) ~ Asmaa Mirkhan
 - 05/02/2020 - 18:17:33 - [👨‍🔧 Hatalar düzeltildi #4](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/2b825e9ee1f7407382c759cb89c7d46f559555ee?diff=split) ~ Yunus Emre
 - 05/02/2020 - 11:53:16 - [➕ Bütünleme soruları eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/fa0eab67a23cbd5ea700ad3cd7d770f64629419a?diff=split) ~ Yunus Emre

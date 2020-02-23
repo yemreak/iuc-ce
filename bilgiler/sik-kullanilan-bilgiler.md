@@ -3,6 +3,7 @@
 ## 🌳 Temel Bilgiler
 
 - [⭐ Bölümün resmi sitesi](https://bilgisayarmuhendislik.istanbulc.edu.tr/tr/_)
+- [📃 Ders Programları](https://bilgisayarmuhendislik.istanbulc.edu.tr/tr/content/egitim/ders-programlari)
 - [📢 Okulun resmi duyurularının olduğu sayfa][i̇ü - cerrahpaşa duyurular]
 - [📝 Aksis Cerrahpaşa][aksis cerrahpaşa] üzerinden ders bilgilerine erişebilirsin
 - [👨‍🏫 Akademik Kadro](https://bilgisayarmuhendislik.istanbulc.edu.tr/tr/akademikkadro)
