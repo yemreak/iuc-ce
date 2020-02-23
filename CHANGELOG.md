@@ -2,6 +2,7 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 23/02/2020 - 12:01:28 - [💦 Gereksizler kaldırıldı](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9f886681d6355090be8cfbce3e11a7ea5ab904b8?diff=split) ~ Yunus Emre
 - 23/02/2020 - 11:58:25 - [🆎 OOAD değerlendirme hatası giderildi (#9)](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/c4eb1294acf89d0842cf7430ef0227952fa1b236?diff=split) ~ Asmaa Mirkhan
 - 18/02/2020 - 12:49:10 - [📃 Ders Programları linki eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/14d7257328f0826d87403d01c2657e56bd6c93a8?diff=split) ~ Yunus Emre
 - 18/02/2020 - 02:03:28 - [💦](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f1cc32c4f0f21d37ccc314d161fb23ff4eb5a80c?diff=split) ~ Yunus Emre
