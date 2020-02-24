@@ -1,8 +1,8 @@
 ---
-description: İstanbul Üniversitesi Bilgisayar Mühendisliği tüm ders notlarını içerir.
+description: İstanbul Üniversitesi - Cerrahpaşa Bilgisayar Mühendisliği tüm ders notlarını içerir.
 ---
 
-# 🏫 İstanbul Üniversitesi Bilgisayar Mühendisliği
+# 🏫 İstanbul Üniversitesi - Cerrahpaşa Bilgisayar Mühendisliği
 
 ## 🙋‍♂️ Hoş Geldin
 
