@@ -15,7 +15,7 @@ description: İstanbul Üniversitesi - Cerrahpaşa Bilgisayar Mühendisliği tü
 - [🏫 Okul Hakkında Bilgiler](./bilgiler/README.md) alanına göz atmayı unutma
 - 🤝 Her sayfanın en altında bulunan memnuniyet anketi ile ✨ gelişime ortak olabilirsin.
 
-> 💡 Domain adresinin `iuce` olma sebebi `Istanubl University - Computer Engineering` anlamına gelmektedir.
+> 💡 Domain adresindeki `iuce` metni `Istanubl University - Computer Engineering` anlamına gelmektedir.
 
 ## 👀 Değişiklikleri Görme
 
