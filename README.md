@@ -13,8 +13,9 @@ description: İstanbul Üniversitesi - Cerrahpaşa Bilgisayar Mühendisliği tü
   - 🏹 Sağ üst köşededir, tıklandığında yeni pencere ile tepki verecektir
 - [📂 Düzenlenmemiş eski ders notlar arşivi](https://drive.google.com/open?id=1JPZH6Z_K59UeO-A79H0pcBIsAJlw40Y-) de ilgini çekebilir
 - [🏫 Okul Hakkında Bilgiler](./bilgiler/README.md) alanına göz atmayı unutma
+- 🤝 Her sayfanın en altında bulunan memnuniyet anketi ile ✨ gelişime ortak olabilirsin.
 
-> Her sayfanın en altında bulunan memnuniyet anketi ile ✨ gelişime ortak olabilirsin.
+> 💡 Domain adresinin `iuce` olma sebebi `Istanubl University - Computer Engineering` anlamına gelmektedir.
 
 ## 👀 Değişiklikleri Görme
 
