@@ -2,6 +2,9 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 24/02/2020 - 23:10:58 - [👨‍🔧 Yazım hatası giderildi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/8e5845373b5c89db4ae9d9975f54960bcca61eee?diff=split) ~ Yunus Emre
+- 24/02/2020 - 23:10:11 - [👨‍🔧 Anlatım bozukluğu giderildi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ac0ce6e3f52e369567cfe4999297d6a606b9dd53?diff=split) ~ Yunus Emre
+- 24/02/2020 - 23:09:41 - [💡 Domain açıklaması eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f592acd7fb9b292a216d705a5abe78eb1c278a63?diff=split) ~ Yunus Emre
 - 24/02/2020 - 23:01:43 - [👨‍🔧 Okul ismi düzeltildi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/caee196778dba9f19034fb37a4baeb5d1b65abd4?diff=split) ~ Yunus Emre
 - 23/02/2020 - 12:01:28 - [💦 Gereksizler kaldırıldı](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9f886681d6355090be8cfbce3e11a7ea5ab904b8?diff=split) ~ Yunus Emre
 - 23/02/2020 - 11:58:25 - [🆎 OOAD değerlendirme hatası giderildi (#9)](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/c4eb1294acf89d0842cf7430ef0227952fa1b236?diff=split) ~ Asmaa Mirkhan
