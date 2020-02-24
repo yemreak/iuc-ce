@@ -2,7 +2,7 @@
 
 <!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-- [🏫 İstanbul Üniversitesi Bilgisayar Mühendisliği](README.md)
+- [🏫 İstanbul Üniversitesi - Cerrahpaşa Bilgisayar Mühendisliği](README.md)
   - [👀 Neler değişti](CHANGELOG.md)
   - [💖 Katkıda Bulunma Rehberi](CONTRIBUTING.md)
   - [🏫 Okul Hakkında Bilgiler](bilgiler/README.md)
