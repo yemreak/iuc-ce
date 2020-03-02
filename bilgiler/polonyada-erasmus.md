@@ -4,6 +4,12 @@ description: Polonya Lodz Üniversitesi'nde erasmus programı ile okuma
 
 # 🛫 Polonya'da Erasmus
 
+## 📢 Önemli Duyurular
+
+- Bu yazının devamı niteliğinde olan [✈️ Polonyada Erasmus - Lib ~ YEmreAk](https://lib.yemreak.com/yazilarim/polonyada-erasmus) yazıma bakmanı tavsiye ederim
+- 🍴 Hayatta kalmak için gerekil notlar da yukarıda yazıda derlenmektedir
+- 💡 Bu yazı sadece İstanbul Üniversitesi - Cerrahpaşa'yı ilgilendiren notları içerir
+
 ## 👣‍ Yapman Gerekenler
 
 [📃 2019-2020 resmi açıklamasına](../res/2019-2020-erasmus-izlenecek-yollar.pdf) bakmanda da da fayda var.
@@ -37,6 +43,7 @@ description: Polonya Lodz Üniversitesi'nde erasmus programı ile okuma
 
 Ders içeriklerinin uyuşması durumunda derleri alıp, saydırabilirsin.
 
+- 2019 - 2020 yılı için Lodz University of Technology ders listesine [✈️ Polonyada Erasmus - Lib ~ YEmreAk](https://lib.yemreak.com/yazilarim/polonyada-erasmus) üzerindeki yazımdan erişebilirsin.
 - [Lodz'un ders içerikleri](https://programy.p.lodz.pl/ectslabel-web/?s=glowna&l=en)
 - [Okulun ders içerikleri](https://ebs.istanbulc.edu.tr/home/dersprogram?id=1092&yil=2019)
   - Eğer eksik dersler varsa 2018 senesine bakabilirsin
@@ -73,7 +80,7 @@ Ders içeriklerinin uyuşması durumunda derleri alıp, saydırabilirsin.
 
 ## ❔ İhtiyacın Olacaklar
 
-- Yurt (9. yurt en sakin ve okula yakın olan imiş 😅)
+- Yurt (9. yurt en sakin ve AVM'lere uzak olan yurt 😅)
 - İklim bilgisi (soğuktur 🍃)
 
 ## 🕵️‍ Ufak Analizler
