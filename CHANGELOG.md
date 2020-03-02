@@ -2,6 +2,8 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 02/03/2020 - 13:52:55 - [💦 Gereksiz bilgiler kaldırıldı](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/8a5181a80aebdeeeac9e162354e484343ae7bbfb?diff=split) ~ Yunus Emre
+- 02/03/2020 - 13:51:43 - [✨ Erasmus bilgileri güncellendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9138f9a5da07b1463ab1034daf13ea9b8d1bba67?diff=split) ~ Yunus Emre
 - 24/02/2020 - 23:10:58 - [👨‍🔧 Yazım hatası giderildi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/8e5845373b5c89db4ae9d9975f54960bcca61eee?diff=split) ~ Yunus Emre
 - 24/02/2020 - 23:10:11 - [👨‍🔧 Anlatım bozukluğu giderildi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/ac0ce6e3f52e369567cfe4999297d6a606b9dd53?diff=split) ~ Yunus Emre
 - 24/02/2020 - 23:09:41 - [💡 Domain açıklaması eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f592acd7fb9b292a216d705a5abe78eb1c278a63?diff=split) ~ Yunus Emre
