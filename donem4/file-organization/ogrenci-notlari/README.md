@@ -13,5 +13,5 @@ description: >-
 
 ## 🔸 Ders Bilgileri
 
-- Ders slaytlarının **türkçeleri** için [bu sayfaya][File Org] bakabilirsin
-- 2018 Proje ödevime [buradan][2018 Proje Ödevim] erişebilirsin
+- ~Ders slaytlarının **türkçeleri** için [bu sayfaya][File Org] bakabilirsin~
+- 2018 Proje ödevime [buradan](https://github.com/yedhrab/CplusCalismalarim/tree/master/FileOrganizationHomework) erişebilirsin
