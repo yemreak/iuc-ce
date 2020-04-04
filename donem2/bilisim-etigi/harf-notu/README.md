@@ -5,8 +5,8 @@ description: >-
 
 # 🆎 Harf Notu \| BE
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Çan 2018 BE.PNG](%C3%87an%202018%20BE.PNG)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

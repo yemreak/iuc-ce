@@ -73,7 +73,7 @@ function print() {
 
 ## 📂 Dosyalar
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [4.3 Menus and pickers GitBook.pdf](4.3%20Menus%20and%20pickers%20GitBook.pdf)
 - [Final 2019 MP ~ YEmreAk.pdf](Final%202019%20MP%20~%20YEmreAk.pdf)
@@ -81,4 +81,4 @@ function print() {
 - [Vize 2019 MP ~ YEmreAk.pdf](Vize%202019%20MP%20~%20YEmreAk.pdf)
 - [Vize 2019 Sınav Kağıdı.pdf](Vize%202019%20S%C4%B1nav%20Ka%C4%9F%C4%B1d%C4%B1.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

@@ -5,8 +5,8 @@ description: >-
 
 # 📕 Öğrenci Notları \| İSvG
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Vize Notları ISG ~ YEmreAk.pdf](Vize%20Notlar%C4%B1%20ISG%20~%20YEmreAk.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

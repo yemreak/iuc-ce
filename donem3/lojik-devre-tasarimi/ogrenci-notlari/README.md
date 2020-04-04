@@ -5,11 +5,11 @@ description: >-
 
 # 📕 Öğrenci Notları \| LDT
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [2018 Tam LDT~ YEmreAk.pdf](2018%20Tam%20LDT~%20YEmreAk.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 ## 📅 Final için Referanslar
 

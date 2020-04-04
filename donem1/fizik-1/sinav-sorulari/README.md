@@ -8,9 +8,9 @@ description: >-
 
 ## 📂 Dosyalar
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Büt 2017 F1.pdf](B%C3%BCt%202017%20F1.pdf)
 - [Final 2019 F1.pdf](Final%202019%20F1.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

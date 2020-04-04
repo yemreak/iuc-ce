@@ -5,7 +5,7 @@ description: >-
 
 # 👨‍💻 Kodlar \| SP
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Hello-2.c](Hello-2.c)
 - [Hello-3.c](Hello-3.c)
@@ -26,4 +26,4 @@ description: >-
 - [testebbchar.c](testebbchar.c)
 - [writedev.c](writedev.c)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

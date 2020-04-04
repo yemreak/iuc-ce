@@ -5,7 +5,7 @@ description: >-
 
 # 📅 2018 \| BM
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [1_Bulanik_Mantik.pdf](1_Bulanik_Mantik.pdf)
 - [2_Bulanik_Mantik.pdf](2_Bulanik_Mantik.pdf)
@@ -17,4 +17,4 @@ description: >-
 - [8_Bulanik_Mantik.pdf](8_Bulanik_Mantik.pdf)
 - [9_Bulanik_Mantik.pdf](9_Bulanik_Mantik.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

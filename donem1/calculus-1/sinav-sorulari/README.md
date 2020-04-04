@@ -5,7 +5,7 @@ description: >-
 
 # 📃 Sınav Soruları \| C1
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [2016 C1.pdf](2016%20C1.pdf)
 - [2017 C1.pdf](2017%20C1.pdf)
@@ -20,4 +20,4 @@ description: >-
 - [Vize 2016 C1.pdf](Vize%202016%20C1.pdf)
 - [Vize 2017 C1.pdf](Vize%202017%20C1.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

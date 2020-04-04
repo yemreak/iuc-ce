@@ -5,8 +5,8 @@ description: >-
 
 # 📚 Ders İçeriği \| Aİvİ2
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Atatürk ilkeleri ve inkılap.pdf](Atat%C3%BCrk%20ilkeleri%20ve%20ink%C4%B1lap.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

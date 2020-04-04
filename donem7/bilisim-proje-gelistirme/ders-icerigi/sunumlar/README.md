@@ -5,7 +5,7 @@ description: >-
 
 # 📹 Ders Sunumları \| BPG
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [BPG1- Giris.pdf](BPG1-%20Giris.pdf)
 - [BPG2- Proje_Yasam_Dongusu.pdf](BPG2-%20Proje_Yasam_Dongusu.pdf)
@@ -16,4 +16,4 @@ description: >-
 - [BPG7- Proje_Gelistirme_PlanKalitesi.pdf](BPG7-%20Proje_Gelistirme_PlanKalitesi.pdf)
 - [BPG8- Proje_Gelistirme_Tahmin_Ilan.pdf](BPG8-%20Proje_Gelistirme_Tahmin_Ilan.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

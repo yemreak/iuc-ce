@@ -14,7 +14,7 @@ description: >-
 
 ## 📂 Dosyalar
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [NN_Ch1_2019.pdf](NN_Ch1_2019.pdf)
 - [NN_Ch5_2019.pdf](NN_Ch5_2019.pdf)
@@ -22,4 +22,4 @@ description: >-
 - [NN_Ch8.pdf](NN_Ch8.pdf)
 - [NN_Ch9.pdf](NN_Ch9.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

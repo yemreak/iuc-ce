@@ -5,8 +5,8 @@ description: >-
 
 # 🎲 Karma İçerikler \| FBT
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Finansta Bilişim Teknolojileri.rar](Finansta%20Bili%C5%9Fim%20Teknolojileri.rar)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

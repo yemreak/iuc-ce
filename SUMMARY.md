@@ -1,6 +1,6 @@
 # Table of contents
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [🏫 İstanbul Üniversitesi - Cerrahpaşa Bilgisayar Mühendisliği](README.md)
   - [👀 Neler değişti](CHANGELOG.md)
@@ -332,7 +332,7 @@
       - [🎲 Karma İçerikler \| UG](donem8/uygulamali-girisimcilik/karma-icerikler/README.md)
   - [📚 Karışık Notlar](karisik/README.md)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 ## Tüm Kişisel Notlarım
 

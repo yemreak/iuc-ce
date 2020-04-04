@@ -5,7 +5,7 @@ description: >-
 
 # 📃 Sınav Soruları \| ItP
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Büt 2018 ItP.pdf](B%C3%BCt%202018%20ItP.pdf)
 - [Büt 2019 ItP.pdf](B%C3%BCt%202019%20ItP.pdf)
@@ -13,4 +13,4 @@ description: >-
 - [Final 2019 ItP.pdf](Final%202019%20ItP.pdf)
 - [Vize 2017 IP.pdf](Vize%202017%20IP.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

@@ -11,8 +11,8 @@ description: >-
 
 ## 📂 Dosyalar
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Final 2019 Ülkeler BH.pdf](Final%202019%20%C3%9Clkeler%20BH.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

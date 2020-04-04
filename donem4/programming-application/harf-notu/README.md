@@ -5,8 +5,8 @@ description: >-
 
 # 🆎 Harf Notu \| PA
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Çan 2018 PA.PNG](%C3%87an%202018%20PA.PNG)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

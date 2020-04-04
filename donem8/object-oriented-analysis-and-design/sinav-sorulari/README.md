@@ -5,8 +5,8 @@ description: >-
 
 # 📃 Sınav Soruları \| OOAaD
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Final 2018 OOAD.JPG](Final%202018%20OOAD.JPG)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

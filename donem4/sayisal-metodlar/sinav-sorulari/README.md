@@ -5,8 +5,8 @@ description: >-
 
 # 📃 Sınav Soruları \| SM
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Eski Sorular.pdf](Eski%20Sorular.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

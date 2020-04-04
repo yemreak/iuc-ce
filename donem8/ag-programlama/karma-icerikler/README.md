@@ -5,8 +5,8 @@ description: >-
 
 # 🎲 Karma İçerikler \| AP
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Ağ Programlama.rar](A%C4%9F%20Programlama.rar)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

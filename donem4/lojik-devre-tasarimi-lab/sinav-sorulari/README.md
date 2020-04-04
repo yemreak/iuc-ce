@@ -5,8 +5,8 @@ description: >-
 
 # 📃 Sınav Soruları \| LDT-L
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Final 2019 LDT Lab.pdf](Final%202019%20LDT%20Lab.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

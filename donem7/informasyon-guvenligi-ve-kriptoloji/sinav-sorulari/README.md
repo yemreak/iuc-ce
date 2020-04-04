@@ -21,7 +21,7 @@ description: >-
 
 ## 📂 Dosyalar
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Final 2 Kriptoloji.pdf](Final%202%20Kriptoloji.pdf)
 - [Final 2015 Kripto ~ Fotokopici.pdf](Final%202015%20Kripto%20~%20Fotokopici.pdf)
@@ -32,4 +32,4 @@ description: >-
 - [Vize 2017 Kripto.pdf](Vize%202017%20Kripto.pdf)
 - [Vize 2018 Kripto.pdf](Vize%202018%20Kripto.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

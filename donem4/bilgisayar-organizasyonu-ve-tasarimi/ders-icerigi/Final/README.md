@@ -5,7 +5,7 @@ description: >-
 
 # 📅 Final \| BOvT
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [BOT10.pdf](BOT10.pdf)
 - [BOT11.pdf](BOT11.pdf)
@@ -14,4 +14,4 @@ description: >-
 - [BOT8.pdf](BOT8.pdf)
 - [BOT9.pdf](BOT9.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

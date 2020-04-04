@@ -5,12 +5,12 @@ description: >-
 
 # 📃 Sınav Soruları \| NN
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Final 2015 NN ~ Çözümlü.pdf](Final%202015%20NN%20~%20%C3%87%C3%B6z%C3%BCml%C3%BC.pdf)
 - [Final 2015 NN.pdf](Final%202015%20NN.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 ## 📅 Vize 2019 Sınavı
 

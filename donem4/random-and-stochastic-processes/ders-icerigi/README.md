@@ -5,7 +5,7 @@ description: >-
 
 # 📚 Ders İçeriği \| RaSP
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [rsp 1.pdf](rsp%201.pdf)
 - [rsp 2.pdf](rsp%202.pdf)
@@ -14,4 +14,4 @@ description: >-
 - [rsp 5.pdf](rsp%205.pdf)
 - [rsp 6.pdf](rsp%206.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

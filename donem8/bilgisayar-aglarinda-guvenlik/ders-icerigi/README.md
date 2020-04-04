@@ -21,7 +21,7 @@ description: >-
 - Konu ile ilgili kısa bir uygulama yapılmalı
 - Değerlendirme: Sunum + Rapor
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [BAG Kablosuz Ağlarda Güvenlik.pdf](BAG%20Kablosuz%20A%C4%9Flarda%20G%C3%BCvenlik.pdf)
 - [BAG SQLInj.pdf](BAG%20SQLInj.pdf)
@@ -29,4 +29,4 @@ description: >-
 - [BAG Tempest2.pdf](BAG%20Tempest2.pdf)
 - [BAG abgs2_Ipv6.pdf](BAG%20abgs2_Ipv6.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

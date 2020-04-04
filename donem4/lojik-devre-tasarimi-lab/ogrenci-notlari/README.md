@@ -5,7 +5,7 @@ description: >-
 
 # 📕 Öğrenci Notları \| LDT-L
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [1 - OR İşlevi.pdf](1%20-%20OR%20%C4%B0%C5%9Flevi.pdf)
 - [2 - NOR İşelvi.pdf](2%20-%20NOR%20%C4%B0%C5%9Felvi.pdf)
@@ -17,4 +17,4 @@ description: >-
 - [Öğrenci Çözümü-1.tif](%C3%96%C4%9Frenci%20%C3%87%C3%B6z%C3%BCm%C3%BC-1.tif)
 - [Öğrenci Çözümü-2.tif](%C3%96%C4%9Frenci%20%C3%87%C3%B6z%C3%BCm%C3%BC-2.tif)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

@@ -7,12 +7,12 @@ description: >-
 
 ## 📂 Dosyalar
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Final 2018 Notu BM ~ YEmreAk.pdf](Final%202018%20Notu%20BM%20~%20YEmreAk.pdf)
 - [Vize 2018 Notları BM ~ YEmreAk.pdf](Vize%202018%20Notlar%C4%B1%20BM%20~%20YEmreAk.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 ## ⭐ 2019 Proje Ödevi
 

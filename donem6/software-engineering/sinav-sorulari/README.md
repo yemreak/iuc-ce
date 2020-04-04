@@ -5,7 +5,7 @@ description: >-
 
 # 📃 Sınav Soruları \| SE
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Final 2017 Örgün.pdf](Final%202017%20%C3%96rg%C3%BCn.pdf)
 - [Final 2017 İkili.pdf](Final%202017%20%C4%B0kili.pdf)
@@ -14,7 +14,7 @@ description: >-
 - [Vize 2017 Örgün.pdf](Vize%202017%20%C3%96rg%C3%BCn.pdf)
 - [Vize 2017 İkili.pdf](Vize%202017%20%C4%B0kili.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 ### 📅 Vize Bilgileri
 

@@ -5,11 +5,11 @@ description: >-
 
 # 📕 Öğrenci Notları \| FO
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Tam 2018 FO ~ YEmreAk.pdf](Tam%202018%20FO%20~%20YEmreAk.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 ## 🔸 Ders Bilgileri
 

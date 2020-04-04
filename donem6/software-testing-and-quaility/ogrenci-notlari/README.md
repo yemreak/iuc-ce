@@ -5,11 +5,11 @@ description: >-
 
 # 📕 Öğrenci Notları \| STaQ
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Final Notları STQ ~ YEmreAk.pdf](Final%20Notlar%C4%B1%20STQ%20~%20YEmreAk.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 ## 🔸 Ders Bilgisi
 

@@ -5,7 +5,7 @@ description: >-
 
 # 📕 Öğrenci Notları \| İGvK
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Final 2019 Kriptoloji ~ Fotokopici.pdf](Final%202019%20Kriptoloji%20~%20Fotokopici.pdf)
 - [Kripto 2.hafta ~ YEmreAk.pdf](Kripto%202.hafta%20~%20YEmreAk.pdf)
@@ -13,7 +13,7 @@ description: >-
 - [Vize 2017 Kripto ~ Copy.pdf](Vize%202017%20Kripto%20~%20Copy.pdf)
 - [Vize 2019 Kripto (Eksik) ~YEmreAk.pdf](Vize%202019%20Kripto%20%28Eksik%29%20~YEmreAk.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 > [Vize 2019 Kripto (Eksik) ~YEmreAk](./2019%20Vize%20Kripto%20%28Eksik%29%20~YEmreAk.pdf) notumu çalıştıkça güncelleyeceğim ✨
 

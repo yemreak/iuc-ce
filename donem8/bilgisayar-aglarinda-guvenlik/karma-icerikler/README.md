@@ -5,7 +5,7 @@ description: >-
 
 # 🎲 Karma İçerikler \| BAG
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [ARP.pdf](ARP.pdf)
 - [Bilgisayar Ağlarında Güvenlik.rar](Bilgisayar%20A%C4%9Flar%C4%B1nda%20G%C3%BCvenlik.rar)
@@ -18,4 +18,4 @@ description: >-
 - [siber_guvenlik_siber_savaslar.pdf](siber_guvenlik_siber_savaslar.pdf)
 - [sosyal ağlar güvenliği.pdf](sosyal%20a%C4%9Flar%20g%C3%BCvenli%C4%9Fi.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

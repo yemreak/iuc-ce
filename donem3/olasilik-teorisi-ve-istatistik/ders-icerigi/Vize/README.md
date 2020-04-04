@@ -5,7 +5,7 @@ description: >-
 
 # 📅 Vize \| OTvİ
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [olasilik-2017-09-22.pdf](olasilik-2017-09-22.pdf)
 - [olasilik-2017-09-27.pdf](olasilik-2017-09-27.pdf)
@@ -13,4 +13,4 @@ description: >-
 - [olasilik-2017-10-13.pdf](olasilik-2017-10-13.pdf)
 - [olasilik-2017-10-20.pdf](olasilik-2017-10-20.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

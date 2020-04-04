@@ -5,7 +5,7 @@ description: >-
 
 # 📅 Vize \| NYP
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [BufferedReader.pdf](BufferedReader.pdf)
 - [Ders 1.pdf](Ders%201.pdf)
@@ -14,4 +14,4 @@ description: >-
 - [Ders 4.pdf](Ders%204.pdf)
 - [Ders 5.pdf](Ders%205.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

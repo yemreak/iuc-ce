@@ -5,7 +5,7 @@ description: >-
 
 # 📅 Vize \| Gİ
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [GI01.pdf](GI01.pdf)
 - [GI02_1.pdf](GI02_1.pdf)
@@ -18,4 +18,4 @@ description: >-
 - [MATLAB 4-5.pdf](MATLAB%204-5.pdf)
 - [python101.pdf](python101.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

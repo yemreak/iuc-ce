@@ -5,7 +5,7 @@ description: >-
 
 # 📅 Final \| AA
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [1-INTRODUCTION.pdf](1-INTRODUCTION.pdf)
 - [2- FUNDAMENTALS OF THE ANALYSIS OF ALGORITHM EFFICIENCY.pdf](2-%20FUNDAMENTALS%20OF%20THE%20ANALYSIS%20OF%20ALGORITHM%20EFFICIENCY.pdf)
@@ -18,4 +18,4 @@ description: >-
 - [GREEDY ALGORITHMS.pdf](GREEDY%20ALGORITHMS.pdf)
 - [GREEDY ALGORITMS 2.pdf](GREEDY%20ALGORITMS%202.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

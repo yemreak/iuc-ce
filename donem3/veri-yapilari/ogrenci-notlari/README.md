@@ -7,7 +7,7 @@ description: >-
 
 ## 📂 Dosyalar
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Binary Tree.c](Binary%20Tree.c)
 - [Graph MinSpanningTree Kruksal Algo.c](Graph%20MinSpanningTree%20Kruksal%20Algo.c)
@@ -20,7 +20,7 @@ description: >-
 - [Stackten Queue'ye Eleman Taşıma.c](Stackten%20Queue%27ye%20Eleman%20Ta%C5%9F%C4%B1ma.c)
 - [İkili Ağaç Oluşturma ve Gezme.c](%C4%B0kili%20A%C4%9Fa%C3%A7%20Olu%C5%9Fturma%20ve%20Gezme.c)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 ## 🔗 Faydalı Bağlantılar
 

@@ -5,8 +5,8 @@ description: >-
 
 # 📕 Öğrenci Notları \| C2
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Ders Notları ~ Asma Mirkhan.pdf](Ders%20Notlar%C4%B1%20~%20Asma%20Mirkhan.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
