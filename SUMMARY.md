@@ -1,10 +1,12 @@
-# Table of contents
+# 📋 Tüm İçerikler
+
 
 <!--Auto generated with YPackage Integration tool-->
 
 - [🏫 İstanbul Üniversitesi - Cerrahpaşa Bilgisayar Mühendisliği](README.md)
   - [👀 Neler değişti](CHANGELOG.md)
   - [💖 Katkıda Bulunma Rehberi](CONTRIBUTING.md)
+  - [📋 Tüm İçerikler](SUMMARY.md)
   - [🏫 Okul Hakkında Bilgiler](bilgiler/README.md)
     - [👨‍🏫 Akademik Kadro](bilgiler/akademik-kadro.md)
     - [📙 Ders Seçimi](bilgiler/ders-secimi.md)
@@ -198,7 +200,6 @@
     - [📂 Veritabanı Yönetim Sistemleri](donem5/veritabani-yonetim-sistemleri/README.md)
       - [📚 Ders İçeriği \| VYS](donem5/veritabani-yonetim-sistemleri/ders-icerigi/README.md)
         - [📅 Final \| VYS](donem5/veritabani-yonetim-sistemleri/ders-icerigi/Final/README.md)
-        - [📅 Vize \| VYS](donem5/veritabani-yonetim-sistemleri/ders-icerigi/Vize/README.md)
         - [📖 Ödevler \| VYS](donem5/veritabani-yonetim-sistemleri/ders-icerigi/odevler/README.md)
           - [📕 Odev1](donem5/veritabani-yonetim-sistemleri/ders-icerigi/odevler/odev1/README.md)
           - [📗 Odev2](donem5/veritabani-yonetim-sistemleri/ders-icerigi/odevler/odev2/README.md)
@@ -207,6 +208,7 @@
           - [📘 Odev3](donem5/veritabani-yonetim-sistemleri/ders-icerigi/odevler/odev3/README.md)
           - [📙 Odev4](donem5/veritabani-yonetim-sistemleri/ders-icerigi/odevler/odev4/README.md)
           - [📕 Odev5](donem5/veritabani-yonetim-sistemleri/ders-icerigi/odevler/odev5/README.md)
+        - [📅 Vize \| VYS](donem5/veritabani-yonetim-sistemleri/ders-icerigi/Vize/README.md)
       - [📕 Öğrenci Notları \| VYS](donem5/veritabani-yonetim-sistemleri/ogrenci-notlari/README.md)
       - [📃 Sınav Soruları \| VYS](donem5/veritabani-yonetim-sistemleri/sinav-sorulari/README.md)
   - [📚 3. Sınıf 2. Dönem Notları](donem6/README.md)
@@ -223,8 +225,8 @@
     - [🕸️ Computer Networks and Technologies](donem6/computer-networks-and-technologies/README.md)
       - [📚 Ders İçeriği \| CNaT](donem6/computer-networks-and-technologies/ders-icerigi/README.md)
         - [📅 Final \| CNaT](donem6/computer-networks-and-technologies/ders-icerigi/Final/README.md)
-        - [📅 Vize \| CNaT](donem6/computer-networks-and-technologies/ders-icerigi/Vize/README.md)
         - [📖 Genel Notlar \| CNaT](donem6/computer-networks-and-technologies/ders-icerigi/genel-notlar/README.md)
+        - [📅 Vize \| CNaT](donem6/computer-networks-and-technologies/ders-icerigi/Vize/README.md)
       - [📕 Öğrenci Notları \| CNaT](donem6/computer-networks-and-technologies/ogrenci-notlari/README.md)
       - [📃 Sınav Soruları \| CNaT](donem6/computer-networks-and-technologies/sinav-sorulari/README.md)
     - [🖼️ Görüntü İşleme](donem6/goruntu-isleme/README.md)
@@ -331,6 +333,7 @@
     - [💰 Uygulamalı Girişimcilik](donem8/uygulamali-girisimcilik/README.md)
       - [🎲 Karma İçerikler \| UG](donem8/uygulamali-girisimcilik/karma-icerikler/README.md)
   - [📚 Karışık Notlar](karisik/README.md)
+
 
 <!--Auto generated with YPackage Integration tool-->
 
