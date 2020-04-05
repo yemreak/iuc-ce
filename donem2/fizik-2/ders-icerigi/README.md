@@ -7,7 +7,7 @@ description: >-
 
 ## Ders Bilgileri
 
-* Derse alternatif bir kaynak için [buraya](https://github.com/YEmreAk/IstanbulUniversity-CE/tree/57d01cf850fc57ba7f74ca59ca4e3daf5c1e9777/res/fizik_2_genel.pdf) bakabilirsin.
+* Derse alternatif bir kaynak için [buraya](https://github.com/YEmreAk/IstanbulUniversity-CE/tree/57d01cf850fc57ba7f74ca59ca4e3daf5c1e9777/.github/assets/fizik_2_genel.pdf) bakabilirsin.
 
 ## 📅 Final Bilgileri
 

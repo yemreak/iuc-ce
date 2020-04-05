@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
-from ypackage.markdown import read_first_header
 
+from ypackage.core.markdown import find_first_header
 
 DESC_DERS = r"""---
 description: >-
@@ -73,15 +73,16 @@ def repeat(func):
 
 def renew(path, lvl):
     path = Path(path)
-    header = read_first_header(path)
+    header = find_first_header(path)
 
     lesson_path = path
     for i in range(2, lvl):
         lesson_path = lesson_path.parent
     lesson_path = lesson_path / "README.md"
 
-    lesson_header = read_first_header(lesson_path)
-    lesson_header = lesson_header[lesson_header.find(" ") + 1:]  # Emojiyi kaldırma
+    lesson_header = find_first_header(lesson_path)
+    lesson_header = lesson_header[lesson_header.find(
+        " ") + 1:]  # Emojiyi kaldırma
 
     index = None
     for regex in [r' \| ', r" | "]:

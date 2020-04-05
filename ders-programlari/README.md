@@ -6,15 +6,15 @@ description: Güz dönemi ders programlarını içerir
 
 ## 1.Sınıf Ders Programı
 
-![](../res/dp_1_sinif.png)
+![](../.github/assets/dp_1_sinif.png)
 
 ## 2.Sınıf Ders Programı
 
-![](../res/dp_2_sinif.png)
+![](../.github/assets/dp_2_sinif.png)
 
 ## 3.Sınıf Ders Programı
 
-![](../res/dp_3_sinif.png)
+![](../.github/assets/dp_3_sinif.png)
 
 ## 4.Sınıf Ders Programı
 
@@ -23,4 +23,4 @@ description: Güz dönemi ders programlarını içerir
 
 > Aksiten duyurulmuştur (08.10.2019)
 
-![](../res/dp_4_sinif.png)
+![](../.github/assets/dp_4_sinif.png)

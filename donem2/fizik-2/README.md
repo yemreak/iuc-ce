@@ -12,4 +12,4 @@
 - 1 tane rc devreleri (kondansatör dolum boşalma)
 - 1 tane soru hakkında bilgi verilmedi
 
-[Fizik 2 Genel]: ../../res/fizik_2_genel.pdf
+[Fizik 2 Genel]: ../../.github/assets/fizik_2_genel.pdf

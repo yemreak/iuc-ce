@@ -16,7 +16,7 @@
 
 ## 📞 Öğrenci İşleri Telefon Numaraları
 
-![](../res/ogrenci_isleri.png)
+![](../.github/assets/ogrenci_isleri.png)
 
 ## 📕 Ders Bilgileri
 
@@ -37,15 +37,15 @@
 - [IU Coders][iu coders]
 - Algoritma mantığını görselleştiren site ([Visioalgo][visioalgo])
 
-[akademik takvim]: ../res/2019-2020%20Akademik%20takvim.pdf
+[akademik takvim]: ../.github/assets/2019-2020%20Akademik%20takvim.pdf
 [eğitim bilgileri]: https://bilgisayarmuhendislik.istanbulc.edu.tr/tr/content/egitim
-[ders planı]: ../res/2019-2020%20Lisans%20Ders%20Plan%C4%B1.pdf
+[ders planı]: ../.github/assets/2019-2020%20Lisans%20Ders%20Plan%C4%B1.pdf
 [i̇ü - cerrahpaşa duyurular]: http://www.istanbulc.edu.tr/tr/duyurular/1/1
 [aksis cerrahpaşa]: https://aksis.istanbulc.edu.tr/Account/LogOn
 [akademisyenler]: http://avesis.istanbulc.edu.tr/
 [aksis not kartı]: http://obs.istanbulc.edu.tr/OgrenimBilgileri/NotKarti/Index
 [drive]: https://drive.google.com/drive/folders/1JPZH6Z_K59UeO-A79H0pcBIsAJlw40Y-
-[erasmus]: res/2019-2020-erasmus-izlenecek-yollar.pdf
+[erasmus]: .github/assets/2019-2020-erasmus-izlenecek-yollar.pdf
 [ders i̇çerikleri]: res%2FBilgisayar%20M%C3%BChendisli%C4%9Fi%20Ders%20%C4%B0%C3%A7eri%C4%9Fi.pdf
 [lisans programı ders listesi 2018]: https://ebs.istanbulc.edu.tr/home/dersprogram?id=1092&yil=2018
 [lisans programı ders listesi 2019]: https://ebs.istanbulc.edu.tr/home/dersprogram?id=1092&yil=2019

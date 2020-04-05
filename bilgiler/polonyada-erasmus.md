@@ -12,7 +12,7 @@ description: Polonya Lodz Üniversitesi'nde erasmus programı ile okuma
 
 ## 👣‍ Yapman Gerekenler
 
-[📃 2019-2020 resmi açıklamasına](../res/2019-2020-erasmus-izlenecek-yollar.pdf) bakmanda da da fayda var.
+[📃 2019-2020 resmi açıklamasına](../.github/assets/2019-2020-erasmus-izlenecek-yollar.pdf) bakmanda da da fayda var.
 
 - Erasmus hareketliliği için [Mobility Lodz](https://mobility.p.lodz.pl/in/)'u takip etmelisin
   - Lodz University **Date Line**'a bakmalısın

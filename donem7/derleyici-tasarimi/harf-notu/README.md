@@ -7,8 +7,8 @@ description: >-
 
 ### 📅 2017 - 2018
 
-![](../../../res/can_derleyici.png)
+![](../../../.github/assets/can_derleyici.png)
 
 ### 📅 2018 - 2019
 
-![](../../../res/can_derleyici2.png)
+![](../../../.github/assets/can_derleyici2.png)

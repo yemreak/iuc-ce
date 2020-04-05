@@ -17,7 +17,7 @@ description: >-
 
 ### 📅 Vize 2018
 
-![](../../../res/kripto_vize.png)
+![](../../../.github/assets/kripto_vize.png)
 
 ## 📂 Dosyalar
 

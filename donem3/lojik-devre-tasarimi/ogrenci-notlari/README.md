@@ -24,8 +24,8 @@ description: >-
 
 > ⚠ Hatalı bilgi içerebilir.
 
-![lojik_state_diagram](../../../res/lojik_state_diagram.png)
-![lojik_state_diagram_answer](../../../res/lojik_state_diagram_answer.png)
+![lojik_state_diagram](../../../.github/assets/lojik_state_diagram.png)
+![lojik_state_diagram_answer](../../../.github/assets/lojik_state_diagram_answer.png)
 
 - İlk A B C D istenen durum için tasarlanıyor.
 - 101 için A B C D

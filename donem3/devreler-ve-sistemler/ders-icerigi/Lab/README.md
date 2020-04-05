@@ -14,7 +14,7 @@ Lab dersinde **LTspice** uygulaması kullanılmaktadır.
 
 ### 👩‍🔬 Lab-1 Notları
 
-![devre](../../../../res/devre.png)
+![devre](../../../../.github/assets/devre.png)
 
 #### Yapılacaklar
 
@@ -30,29 +30,29 @@ Lab dersinde **LTspice** uygulaması kullanılmaktadır.
 
 `Simulate -> Edit Simulation CMD -> Dc Swift` açılarak alttaki resimdeki değerler girilmeli ve devranın herhangi bir kenarındaki boş yere eklenmeli (devre üstüne değil)
 
-![dc_ayarlama](../../../../res/dc%20ayarlanma.png)
+![dc_ayarlama](../../../../.github/assets/dc%20ayarlanma.png)
 
 R1 R2 akım değerleri:
 
-![Akım R1,R2](../../../../res/Ak%C4%B1m%20R1,R2.png)
+![Akım R1,R2](../../../../.github/assets/Ak%C4%B1m%20R1,R2.png)
 
 A, B, C arasındaki gerilim:
 
-![Volt A,B,C](../../../../res/Volt%20A,B,C.png)
+![Volt A,B,C](../../../../.github/assets/Volt%20A,B,C.png)
 
 #### Transient Analiz
 
 `Simulate -> Edit Simulation CMD -> Transient` açılarak alttaki resimdeki değerler girilmeli ve devranın herhangi bir kenarındaki boş yere eklenmeli (devre üstüne değil)
 
-![transient1](../../../../res/transient1.png)
+![transient1](../../../../.github/assets/transient1.png)
 
 R1 R2 akım değerleri:
 
-![trans_r1_r2](../../../../res/trans_r1_r2.png)
+![trans_r1_r2](../../../../.github/assets/trans_r1_r2.png)
 
 A, B, C arasındaki gerilim:
 
-![trans_a_b_volt](../../../../res/trans_a_b_vold.png)
+![trans_a_b_volt](../../../../.github/assets/trans_a_b_vold.png)
 
 ### 👩‍🔬 Lab-2 Notları
 
@@ -60,18 +60,18 @@ A, B, C arasındaki gerilim:
 
 Adım adım devreninin çizilimi için aşağıdaki resimleri takip edebilirsin (💡 soldan sağa doğru ilerler):
 
-![lab2_1.adım](../../../../res/lab2_1.adım.jpg)
-![lab2_2.adım](../../../../res/lab2_2.adım.png)
-![lab2_3.adım](../../../../res/lab2_3.adım.png)
-![lab2_4.adım](../../../../res/lab2_4.adım.png)
-![lab2_5.adım](../../../../res/lab2_5.adım.png)
-![lab2_6.adım](../../../../res/lab2_6.adım.png)
-![lab2_7.adım](../../../../res/lab2_7.adım.png)
-![lab2_8.adım](../../../../res/lab2_8.adım.png)
-![lab2_9.adım](../../../../res/lab2_9.adım.png)
-![lab2_10.adım](../../../../res/lab2_10_adim.png)
-![lab2_11.adım](../../../../res/lab2_11.adim.png)
-![lab2_12.adım](../../../../res/lab2_12.adım.png)
+![lab2_1.adım](../../../../.github/assets/lab2_1.adım.jpg)
+![lab2_2.adım](../../../../.github/assets/lab2_2.adım.png)
+![lab2_3.adım](../../../../.github/assets/lab2_3.adım.png)
+![lab2_4.adım](../../../../.github/assets/lab2_4.adım.png)
+![lab2_5.adım](../../../../.github/assets/lab2_5.adım.png)
+![lab2_6.adım](../../../../.github/assets/lab2_6.adım.png)
+![lab2_7.adım](../../../../.github/assets/lab2_7.adım.png)
+![lab2_8.adım](../../../../.github/assets/lab2_8.adım.png)
+![lab2_9.adım](../../../../.github/assets/lab2_9.adım.png)
+![lab2_10.adım](../../../../.github/assets/lab2_10_adim.png)
+![lab2_11.adım](../../../../.github/assets/lab2_11.adim.png)
+![lab2_12.adım](../../../../.github/assets/lab2_12.adım.png)
 
 [LTspice Website]: http://www.linear.com/designtools/software/
 [LTspice Windows]: http://ltspice.linear-tech.com/software/LTspiceXVII.exe

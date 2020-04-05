@@ -7,7 +7,7 @@ description: >-
 
 ## 🔔 Çan Bilgisi
 
-![can_kripto](../../../res/can_kripto.jpeg)
+![can_kripto](../../../.github/assets/can_kripto.jpeg)
 
 <!--Auto generated with YPackage Integration tool-->
 

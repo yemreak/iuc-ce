@@ -18,9 +18,9 @@ description: >-
 
 ### 🗽 Açıklama
 
-Proje ödevinin PDF'ine [buradan](../../../res/2019_bilgisayar_mimarisi_proje.pdf) ulaşabilirsin.
+Proje ödevinin PDF'ine [buradan](../../../.github/assets/2019_bilgisayar_mimarisi_proje.pdf) ulaşabilirsin.
 
-- Proje için hazırladığımız [PDF](../../../res/16BitMipsVHDL.pdf)'e ve [repository][16bit Mips VHDL - Repo]'e yazılara tıklayarak erişebilirsin
+- Proje için hazırladığımız [PDF](../../../.github/assets/16BitMipsVHDL.pdf)'e ve [repository][16bit Mips VHDL - Repo]'e yazılara tıklayarak erişebilirsin
 - Grup sayısı 5 kişiliktir
 - Son teslim tarihi: 20 Mayıs 2019 Pazartesi
 - Proje'yi yapabilmek için **XILINX ISE Design Studio kurulumu** yapmanız gerekmekte

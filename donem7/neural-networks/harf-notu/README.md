@@ -7,11 +7,11 @@ description: >-
 
 ## 📅 2018 - 2019
 
-![can\_nn2](../../../res/can_nn2.png)
+![can\_nn2](../../../.github/assets/can_nn2.png)
 
 ## 📅 2017 - 2018
 
-![can\_nn1](../../../res/can_nn1.png)
+![can\_nn1](../../../.github/assets/can_nn1.png)
 
 <!--Auto generated with YPackage Integration tool-->
 

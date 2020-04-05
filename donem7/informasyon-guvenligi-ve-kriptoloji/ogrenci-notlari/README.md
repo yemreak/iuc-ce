@@ -19,7 +19,7 @@ description: >-
 
 ## 🆚 3-DES vs 2-DES
 
-![](../../../res/3_2_des.png)
+![](../../../.github/assets/3_2_des.png)
 
 Triple des 3 anahtarlama seçeneği ile gelir. Keying option olarak geçer literatürde.
 1. Anahtarlama seçeneğinde 3 geçiş için de ayrı anahtar kullanılır ve anahtar boyutu 168’dir. (parity bitler hariç, dahil olması durumunda 64 x 3 = 192 bit uzunluğundadır)
