@@ -2,6 +2,9 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 05/04/2020 - 21:53:25 - [👨‍🔧 Versiyon uyumsuzlukları düzeltildi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/79a740907edb972890c41593e854cec76b7b3203?diff=split) ~ Yunus Emre
+- 05/04/2020 - 21:30:33 - [👨‍🔧 red yapısından assets yapısına geçildi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/02bac23cd9f0bb67f91d7b65262f55ef85201f01?diff=split) ~ Yunus Emre
+- 05/04/2020 - 21:25:27 - [🚀 Yeni YPackage yapısına geçildi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e974cba48554f056bf5f34331e175b1ae5daf4b3?diff=split) ~ Yunus Emre
 - 04/04/2020 - 13:15:13 - [👨‍🔧 İndeksler yenilendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/af771567c5a3238dcc9ad70bdedf6c85840e1a63?diff=split) ~ Yunus Emre
 - 11/03/2020 - 18:32:00 - [👨‍🔧 Hatalı alanlar düzeltildi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d9a9ced4fd3f6de023d1e21ccf019b8ed26fe5a0?diff=split) ~ Yunus Emre
 - 02/03/2020 - 13:52:55 - [💦 Gereksiz bilgiler kaldırıldı](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/8a5181a80aebdeeeac9e162354e484343ae7bbfb?diff=split) ~ Yunus Emre
