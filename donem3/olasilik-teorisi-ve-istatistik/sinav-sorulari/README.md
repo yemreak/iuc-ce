@@ -5,7 +5,7 @@ description: >-
 
 # 📃 Sınav Soruları \| OTvİ
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Ayrık olasılık daılım.pdf](Ayr%C4%B1k%20olas%C4%B1l%C4%B1k%20da%C4%B1l%C4%B1m.pdf)
 - [Final 2019 OTvI.pdf](Final%202019%20OTvI.pdf)
@@ -32,7 +32,7 @@ description: >-
 - [olasilik-vize-2009.pdf](olasilik-vize-2009.pdf)
 - [surekli-rdler-ornek-sorular.pdf](surekli-rdler-ornek-sorular.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 ## Sınav Bilgileri
 

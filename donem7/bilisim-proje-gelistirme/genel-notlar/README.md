@@ -20,9 +20,9 @@ description: >-
 
 ## 💯 Puanlama Sistemi
 
-![](../../../res/bpg%20puanlama%20sistemi.jpeg)
+![](../../../.github/assets/bpg%20puanlama%20sistemi.jpeg)
 
 ## ⏰ Ödev Teslim Takvimi
 
-![](../../../res/bpg_homework.png)
+![](../../../.github/assets/bpg_homework.png)
 

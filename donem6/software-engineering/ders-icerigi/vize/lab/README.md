@@ -1,6 +1,6 @@
 # 👩‍🔬 Lab Notları
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [3.hafta sequence d.pdf](3.hafta%20sequence%20d.pdf)
 - [HW1_Solution.pdf](HW1_Solution.pdf)
@@ -8,4 +8,4 @@
 - [SoftwareLab1Hafta.pdf](SoftwareLab1Hafta.pdf)
 - [SoftwareLab2Hafta.pdf](SoftwareLab2Hafta.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

@@ -1,6 +1,6 @@
 # ☪️ Slaytların Türkçesi
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Ch5.pdf](Ch5.pdf)
 - [ch1.pdf](ch1.pdf)
@@ -11,4 +11,4 @@
 - [ch7.pdf](ch7.pdf)
 - [ch8.pdf](ch8.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

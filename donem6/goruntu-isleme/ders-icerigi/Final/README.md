@@ -5,9 +5,9 @@ description: >-
 
 # 📅 Final \| Gİ
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [GI06_1.pdf](GI06_1.pdf)
 - [GI07.pdf](GI07.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

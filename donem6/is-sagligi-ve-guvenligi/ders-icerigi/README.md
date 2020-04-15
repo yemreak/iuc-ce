@@ -5,12 +5,12 @@ description: >-
 
 # 📚 Ders İçeriği \| İSvG
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Final ISG.pdf](Final%20ISG.pdf)
 - [Vize ISG.pdf](Vize%20ISG.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 ## 🔸 Ders Bilgileri
 

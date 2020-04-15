@@ -7,20 +7,20 @@ description: >-
 
 ## 📂 Dosyalar
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Final 2018 Notu BM ~ YEmreAk.pdf](Final%202018%20Notu%20BM%20~%20YEmreAk.pdf)
 - [Vize 2018 Notları BM ~ YEmreAk.pdf](Vize%202018%20Notlar%C4%B1%20BM%20~%20YEmreAk.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 ## ⭐ 2019 Proje Ödevi
 
 ### 🗽 Açıklama
 
-Proje ödevinin PDF'ine [buradan](../../../res/2019_bilgisayar_mimarisi_proje.pdf) ulaşabilirsin.
+Proje ödevinin PDF'ine [buradan](../../../.github/assets/2019_bilgisayar_mimarisi_proje.pdf) ulaşabilirsin.
 
-- Proje için hazırladığımız [PDF](../../../res/16BitMipsVHDL.pdf)'e ve [repository][16bit Mips VHDL - Repo]'e yazılara tıklayarak erişebilirsin
+- Proje için hazırladığımız [PDF](../../../.github/assets/16BitMipsVHDL.pdf)'e ve [repository][16bit Mips VHDL - Repo]'e yazılara tıklayarak erişebilirsin
 - Grup sayısı 5 kişiliktir
 - Son teslim tarihi: 20 Mayıs 2019 Pazartesi
 - Proje'yi yapabilmek için **XILINX ISE Design Studio kurulumu** yapmanız gerekmekte

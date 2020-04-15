@@ -7,11 +7,11 @@ description: >-
 
 ## 📂 Ek Dosyalar
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Final 2020 OS.pdf](Final%202020%20OS.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 ## 📅 Final 2019 Bilgileri
 - En son _"Shared Libraries"_ konusu işlendi

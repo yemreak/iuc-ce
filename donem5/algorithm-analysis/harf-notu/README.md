@@ -5,8 +5,8 @@ description: >-
 
 # 🆎 Harf Notu \| AA
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [AA Çan 2019 Bitirme.png](AA%20%C3%87an%202019%20Bitirme.png)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

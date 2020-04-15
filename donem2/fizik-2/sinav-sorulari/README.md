@@ -5,9 +5,9 @@ description: >-
 
 # 📃 Sınav Soruları \| F2
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Bitirme 2018 ~ F2.pdf](Bitirme%202018%20~%20F2.pdf)
 - [Final 2019 F2.pdf](Final%202019%20F2.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

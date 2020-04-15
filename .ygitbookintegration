@@ -1,2 +1,2 @@
 [integration "pre"]
-args = -rgcd -ll 2 -ru https://github.com/YEmreAk/IstanbulUniversity-CE -ic "💫 GitBook entegrasyonu yapıldı" "Merge branch 'master' of https://github.com/YEmreAk/IstanbulUniversity-CE" -cm "💫 GitBook entegrasyonu yapıldı"
+args = -rgcd -dl 2 -ru https://github.com/YEmreAk/IstanbulUniversity-CE -ic "💫 GitBook entegrasyonu yapıldı" "Merge branch 'master' of https://github.com/YEmreAk/IstanbulUniversity-CE" -cm "💫 GitBook entegrasyonu yapıldı" -ig res CHANGELOG-old.md CODE_OF_CONDUCT.md

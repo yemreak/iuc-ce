@@ -5,7 +5,7 @@ description: >-
 
 # 📃 Sınav Soruları \| RaSP
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [midterm_solutions.pdf](midterm_solutions.pdf)
 - [rsp-2013-final.pdf](rsp-2013-final.pdf)
@@ -33,4 +33,4 @@ description: >-
 - [rsp-orgun-2015-final-solutions.pdf](rsp-orgun-2015-final-solutions.pdf)
 - [rsp-orgun-2015-final.pdf](rsp-orgun-2015-final.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

@@ -5,9 +5,9 @@ description: >-
 
 # ⭐ Ödevler \| BPG
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [BilisimProjeGelistirmeOdevKonusu.pdf](BilisimProjeGelistirmeOdevKonusu.pdf)
 - [OdevTeslimTakvimi.pdf](OdevTeslimTakvimi.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

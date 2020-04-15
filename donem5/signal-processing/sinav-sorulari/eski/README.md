@@ -5,7 +5,7 @@ description: >-
 
 # 🕐 Eski \| SP
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [signal-io-2015-final-solutions.pdf](signal-io-2015-final-solutions.pdf)
 - [signal-io-2015-final.pdf](signal-io-2015-final.pdf)
@@ -42,4 +42,4 @@ description: >-
 - [signal-orgun-2017-midterm-solutions.pdf](signal-orgun-2017-midterm-solutions.pdf)
 - [signal-orgun-2017-midterm.pdf](signal-orgun-2017-midterm.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

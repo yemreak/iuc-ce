@@ -5,14 +5,14 @@ description: >-
 
 # 📃 Sınav Soruları \| BOvT-L
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Final 2016 BOTL.pdf](Final%202016%20BOTL.pdf)
 - [Final 2018 BOTL.pdf](Final%202018%20BOTL.pdf)
 - [Final Karma BOTL.pdf](Final%20Karma%20BOTL.pdf)
 - [Fİnal 2019 BOTL.pdf](F%C4%B0nal%202019%20BOTL.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 ## 💡 Final için Ufak Bilgi
 

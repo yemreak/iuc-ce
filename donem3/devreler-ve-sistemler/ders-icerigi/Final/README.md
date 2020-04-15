@@ -5,11 +5,11 @@ description: >-
 
 # 📅 Final \| DvS
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Ds6.pdf](Ds6.pdf)
 - [Ds7.pdf](Ds7.pdf)
 - [Ds8.pdf](Ds8.pdf)
 - [Ds9.pdf](Ds9.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

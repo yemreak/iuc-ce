@@ -5,8 +5,8 @@ description: >-
 
 # 📕 Öğrenci Notları \| OOAaD
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Final Notları.pdf](Final%20Notlar%C4%B1.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

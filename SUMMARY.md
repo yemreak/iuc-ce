@@ -1,10 +1,12 @@
-# Table of contents
+# 📋 Tüm İçerikler
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
 
-- [🏫 İstanbul Üniversitesi Bilgisayar Mühendisliği](README.md)
+<!--Auto generated with YPackage Integration tool-->
+
+- [🏫 İstanbul Üniversitesi - Cerrahpaşa Bilgisayar Mühendisliği](README.md)
   - [👀 Neler değişti](CHANGELOG.md)
   - [💖 Katkıda Bulunma Rehberi](CONTRIBUTING.md)
+  - [📋 Tüm İçerikler](SUMMARY.md)
   - [🏫 Okul Hakkında Bilgiler](bilgiler/README.md)
     - [👨‍🏫 Akademik Kadro](bilgiler/akademik-kadro.md)
     - [📙 Ders Seçimi](bilgiler/ders-secimi.md)
@@ -332,7 +334,8 @@
       - [🎲 Karma İçerikler \| UG](donem8/uygulamali-girisimcilik/karma-icerikler/README.md)
   - [📚 Karışık Notlar](karisik/README.md)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+
+<!--Auto generated with YPackage Integration tool-->
 
 ## Tüm Kişisel Notlarım
 

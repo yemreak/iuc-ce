@@ -1,6 +1,6 @@
 # 📃 PDF
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Ch1.pdf](Ch1.pdf)
 - [Ch2.pdf](Ch2.pdf)
@@ -10,4 +10,4 @@
 - [Ch7.pdf](Ch7.pdf)
 - [Ch8.pdf](Ch8.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

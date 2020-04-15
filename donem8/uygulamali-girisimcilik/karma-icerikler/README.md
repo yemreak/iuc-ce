@@ -5,8 +5,8 @@ description: >-
 
 # 🎲 Karma İçerikler \| UG
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Uygulamalı Girişimcilik.rar](Uygulamal%C4%B1%20Giri%C5%9Fimcilik.rar)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

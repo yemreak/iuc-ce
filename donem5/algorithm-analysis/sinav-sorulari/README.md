@@ -5,7 +5,7 @@ description: >-
 
 # 📃 Sınav Soruları \| AA
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Final 2017 AA.pdf](Final%202017%20AA.pdf)
 - [Final 2018 AA.pdf](Final%202018%20AA.pdf)
@@ -14,7 +14,7 @@ description: >-
 - [Vize 2019 AA.pdf](Vize%202019%20AA.pdf)
 - [Örnek Vize AA.pdf](%C3%96rnek%20Vize%20AA.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 ## 📅 Vize 2019 Bilgileri
 

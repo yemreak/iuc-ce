@@ -5,11 +5,11 @@ description: >-
 
 # 📚 Ders İçeriği \| AA
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Ders Kitabı AA.pdf](Ders%20Kitab%C4%B1%20AA.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 ## Sunum Bilgileri
 

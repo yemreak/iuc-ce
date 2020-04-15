@@ -5,11 +5,11 @@ description: >-
 
 # 📕 Öğrenci Notları \| LDT
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [2018 Tam LDT~ YEmreAk.pdf](2018%20Tam%20LDT~%20YEmreAk.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 ## 📅 Final için Referanslar
 
@@ -24,8 +24,8 @@ description: >-
 
 > ⚠ Hatalı bilgi içerebilir.
 
-![lojik_state_diagram](../../../res/lojik_state_diagram.png)
-![lojik_state_diagram_answer](../../../res/lojik_state_diagram_answer.png)
+![lojik_state_diagram](../../../.github/assets/lojik_state_diagram.png)
+![lojik_state_diagram_answer](../../../.github/assets/lojik_state_diagram_answer.png)
 
 - İlk A B C D istenen durum için tasarlanıyor.
 - 101 için A B C D

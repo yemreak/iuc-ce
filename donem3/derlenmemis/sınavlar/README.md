@@ -5,7 +5,7 @@ description: >-
 
 # 🗃️ Sınavlar \| DN
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [1.jpg](1.jpg)
 - [10.jpg](10.jpg)
@@ -58,4 +58,4 @@ description: >-
 - [veriyapilarifinal.jpg](veriyapilarifinal.jpg)
 - [vy.jpg](vy.jpg)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

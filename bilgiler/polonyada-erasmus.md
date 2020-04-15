@@ -4,9 +4,15 @@ description: Polonya Lodz Üniversitesi'nde erasmus programı ile okuma
 
 # 🛫 Polonya'da Erasmus
 
+## 📢 Önemli Duyurular
+
+- Bu yazının devamı niteliğinde olan [✈️ Polonyada Erasmus - Lib ~ YEmreAk](https://lib.yemreak.com/yazilarim/polonyada-erasmus) yazıma bakmanı tavsiye ederim
+- 🍴 Hayatta kalmak için gerekil notlar da yukarıda yazıda derlenmektedir
+- 💡 Bu yazı sadece İstanbul Üniversitesi - Cerrahpaşa'yı ilgilendiren notları içerir
+
 ## 👣‍ Yapman Gerekenler
 
-[📃 2019-2020 resmi açıklamasına](../res/2019-2020-erasmus-izlenecek-yollar.pdf) bakmanda da da fayda var.
+[📃 2019-2020 resmi açıklamasına](../.github/assets/2019-2020-erasmus-izlenecek-yollar.pdf) bakmanda da da fayda var.
 
 - Erasmus hareketliliği için [Mobility Lodz](https://mobility.p.lodz.pl/in/)'u takip etmelisin
   - Lodz University **Date Line**'a bakmalısın
@@ -37,6 +43,7 @@ description: Polonya Lodz Üniversitesi'nde erasmus programı ile okuma
 
 Ders içeriklerinin uyuşması durumunda derleri alıp, saydırabilirsin.
 
+- 2019 - 2020 yılı için Lodz University of Technology ders listesine [✈️ Polonyada Erasmus - Lib ~ YEmreAk](https://lib.yemreak.com/yazilarim/polonyada-erasmus) üzerindeki yazımdan erişebilirsin.
 - [Lodz'un ders içerikleri](https://programy.p.lodz.pl/ectslabel-web/?s=glowna&l=en)
 - [Okulun ders içerikleri](https://ebs.istanbulc.edu.tr/home/dersprogram?id=1092&yil=2019)
   - Eğer eksik dersler varsa 2018 senesine bakabilirsin
@@ -61,19 +68,9 @@ Ders içeriklerinin uyuşması durumunda derleri alıp, saydırabilirsin.
 | ----------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
 | Uygulamalı Girişimcilik |      | [Entrepreneurship & Management](https://programy.p.lodz.pl/ectslabel-web/przedmiot_3.jsp?l=pl&idPrzedmiotu=170896&pkId=1227&s=2&j=0&w=advanced%20mechanical%20engineering&v=3) | 2    |  |
 
-## 🤔 Belki Onaylanabilir
-
-| Ders kodu                                                                                                                                                                           | Ders Adı                             | ECTS | Okuldaki karşılığı                   |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ---- | ------------------------------------ |
-| [00 16 0046 00](https://programy.p.lodz.pl/ectslabel-web/przedmiot_3.jsp?l=en&idPrzedmiotu=170838&pkId=1230&s=7&j=0&w=Computer%20Science&v=3)                                       | Final Project - Bachelor level       | 15   | Bilişim Proje Geliştirme             |
-| [07 67 4030 17](https://programy.p.lodz.pl/ectslabel-web/przedmiot_3.jsp?l=pl&idPrzedmiotu=165816&pkId=1233&s=4&j=0&w=information%20technology&v=3)                                 | Embedded Systems                     | 4    | Gömülü sistemler                     |
-| [02 53 5182 00](https://programy.p.lodz.pl/ectslabel-web/przedmiot_3.jsp?l=en&idPrzedmiotu=171235&pkId=1326&s=2&t=1&j=0&w=Computer%20Science%20and%20Information%20Technology_2019) | Advanced Algorithms                  | 2    | Advanced Algorithm Analysis          |
-| [02 52 6441 00](https://programy.p.lodz.pl/ectslabel-web/przedmiot_3.jsp?l=en&idPrzedmiotu=171226&pkId=1326&s=2&t=1&j=0&w=Computer%20Science%20and%20Information%20Technology_2019) | Web Programming Frameworks and Tools | 3    | Web engineering                      |
-| [02 03 5886 00](https://programy.p.lodz.pl/ectslabel-web/przedmiot_3.jsp?l=pl&idPrzedmiotu=169704&pkId=1231&s=2&j=0&w=electronic%20and%20telecommunication%20engineering&v=3)       | Information Technologies 2           | 3    | Information Technology and Standarts |
-
 ## ❔ İhtiyacın Olacaklar
 
-- Yurt (9. yurt en sakin ve okula yakın olan imiş 😅)
+- Yurt (9. yurt en sakin ve AVM'lere uzak olan yurt 😅)
 - İklim bilgisi (soğuktur 🍃)
 
 ## 🕵️‍ Ufak Analizler

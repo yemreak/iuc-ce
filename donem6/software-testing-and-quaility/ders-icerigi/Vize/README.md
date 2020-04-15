@@ -5,7 +5,7 @@ description: >-
 
 # 📅 Vize \| STaQ
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [1- Overview.pdf](1-%20Overview.pdf)
 - [2- Myth.pdf](2-%20Myth.pdf)
@@ -13,4 +13,4 @@ description: >-
 - [TEST AUTOMATION.pdf](TEST%20AUTOMATION.pdf)
 - [TEST TYPES.pdf](TEST%20TYPES.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

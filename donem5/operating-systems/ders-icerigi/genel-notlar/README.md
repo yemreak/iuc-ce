@@ -5,7 +5,7 @@ description: >-
 
 # 📖 Genel Notlar \| OS
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [4_Proses.pdf](4_Proses.pdf)
 - [5_Is_Parcaciklari.pdf](5_Is_Parcaciklari.pdf)
@@ -13,4 +13,4 @@ description: >-
 - [7_Zamalama.pdf](7_Zamalama.pdf)
 - [9_Bellek Yonetimi.pdf](9_Bellek%20Yonetimi.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

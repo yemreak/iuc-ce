@@ -5,9 +5,9 @@ description: >-
 
 # 📕 Öğrenci Notları \| LA
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Final Notları LA.pdf](Final%20Notlar%C4%B1%20LA.pdf)
 - [Vize Notları LA.pdf](Vize%20Notlar%C4%B1%20LA.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

@@ -5,11 +5,11 @@ description: >-
 
 # 📕 Öğrenci Notları \| C1
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [2018 Tam Calculus ~ Asma Mirkhan.pdf](2018%20Tam%20Calculus%20~%20Asma%20Mirkhan.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 ## 🔗 Harici Bağlantılar
 

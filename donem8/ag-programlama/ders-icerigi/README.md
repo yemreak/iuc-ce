@@ -5,7 +5,7 @@ description: >-
 
 # 📚 Ders İçeriği \| AP
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Ders Kitabı AP.pdf](Ders%20Kitab%C4%B1%20AP.pdf)
 - [Ders_BIMU4079_Ders1_20170223_288.pdf](Ders_BIMU4079_Ders1_20170223_288.pdf)
@@ -15,4 +15,4 @@ description: >-
 - [Ders_BIMU4079_Ders5_20170316_863.pdf](Ders_BIMU4079_Ders5_20170316_863.pdf)
 - [Proje Yakar Top.pdf](Proje%20Yakar%20Top.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

@@ -5,7 +5,7 @@ description: >-
 
 # 📅 Final \| BH
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Bilimsel etik ve intihal.pdf](Bilimsel%20etik%20ve%20intihal.pdf)
 - [BİLİŞİM HUKUKU - GENEL.pdf](B%C4%B0L%C4%B0%C5%9E%C4%B0M%20HUKUKU%20-%20GENEL.pdf)
@@ -14,4 +14,4 @@ description: >-
 - [YAZILIM LİSANSLAMA.pdf](YAZILIM%20L%C4%B0SANSLAMA.pdf)
 - [e-Devlet.pdf](e-Devlet.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

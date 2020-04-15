@@ -5,13 +5,13 @@ description: >-
 
 # 📃 Sınav Soruları \| FO
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Belirsiz Sınav FO.pdf](Belirsiz%20S%C4%B1nav%20FO.pdf)
 - [Final 2013 FO.pdf](Final%202013%20FO.pdf)
 - [Vize 2015 FO.pdf](Vize%202015%20FO.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 ## 🔸 Sınav Bilgileri
 

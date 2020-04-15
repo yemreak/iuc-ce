@@ -5,7 +5,7 @@ description: >-
 
 # 📅 Vize \| BOvT
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [BOT 1.pdf](BOT%201.pdf)
 - [BOT 2.pdf](BOT%202.pdf)
@@ -14,4 +14,4 @@ description: >-
 - [BOT5.pdf](BOT5.pdf)
 - [BOT6.pdf](BOT6.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

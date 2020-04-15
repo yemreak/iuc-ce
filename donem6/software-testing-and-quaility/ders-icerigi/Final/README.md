@@ -5,11 +5,11 @@ description: >-
 
 # 📅 Final \| STaQ
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [ALFA-BETA TESTING.pdf](ALFA-BETA%20TESTING.pdf)
 - [SIT.pdf](SIT.pdf)
 - [Usability Testing.pdf](Usability%20Testing.pdf)
 - [Web Testing.pdf](Web%20Testing.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

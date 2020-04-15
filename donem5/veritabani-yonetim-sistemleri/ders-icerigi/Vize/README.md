@@ -5,7 +5,7 @@ description: >-
 
 # 📅 Vize \| VYS
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [ch1.pdf](ch1.pdf)
 - [ch2.pdf](ch2.pdf)
@@ -13,4 +13,4 @@ description: >-
 - [ch4.pdf](ch4.pdf)
 - [ch6.pdf](ch6.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

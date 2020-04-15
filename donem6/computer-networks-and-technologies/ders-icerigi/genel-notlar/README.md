@@ -7,7 +7,7 @@ description: >-
 
 ## ☪️ Slaytların Türkçesi
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [1 Hafta Bilgisayar ağlarına giriş.pdf](1%20Hafta%20Bilgisayar%20a%C4%9Flar%C4%B1na%20giri%C5%9F.pdf)
 - [10. Hafta Kablosuz (Wireless) ve  Mobil Şebekeler.pdf](10.%20Hafta%20Kablosuz%20%28Wireless%29%20ve%20%20Mobil%20%C5%9Eebekeler.pdf)
@@ -25,4 +25,4 @@ description: >-
 - [8 Hafta Bağlantı katmanı ve LANs II.pdf](8%20Hafta%20Ba%C4%9Flant%C4%B1%20katman%C4%B1%20ve%20LANs%20II.pdf)
 - [9. UTP Kablolama.pdf](9.%20UTP%20Kablolama.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

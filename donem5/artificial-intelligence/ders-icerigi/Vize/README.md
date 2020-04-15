@@ -5,7 +5,7 @@ description: >-
 
 # 📅 Vize \| AI
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [AstarExamples.pdf](AstarExamples.pdf)
 - [Lec1.Introduction.pdf](Lec1.Introduction.pdf)
@@ -14,4 +14,4 @@ description: >-
 - [Lec4.Search2.pdf](Lec4.Search2.pdf)
 - [Lec5.InfSearch.pdf](Lec5.InfSearch.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

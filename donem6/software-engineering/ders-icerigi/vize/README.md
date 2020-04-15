@@ -5,7 +5,7 @@ description: >-
 
 # 📅 Vize Kısmı \| SE
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Ch1](Ch1.pdf)
 - [Ch2](Ch2.pdf)
@@ -16,4 +16,4 @@ description: >-
 - [Ch7](Ch7.pdf)
 - [Ch8](Ch8.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

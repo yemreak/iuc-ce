@@ -5,7 +5,7 @@ description: >-
 
 # 📃 Sınav Soruları \| PA
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Büt 2016 PA.jpg](B%C3%BCt%202016%20PA.jpg)
 - [Final 2015 PA.jpg](Final%202015%20PA.jpg)
@@ -16,4 +16,4 @@ description: >-
 - [Vize 2014 PA.jpg](Vize%202014%20PA.jpg)
 - [Öğrenci Çözümleri PA.pdf](%C3%96%C4%9Frenci%20%C3%87%C3%B6z%C3%BCmleri%20PA.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

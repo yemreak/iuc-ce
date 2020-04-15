@@ -5,7 +5,7 @@ description: >-
 
 # 📃 Sınav Soruları \| DM
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Büt 2017 DM.pdf](B%C3%BCt%202017%20DM.pdf)
 - [Final 2017 DM_1.pdf](Final%202017%20DM_1.pdf)
@@ -16,4 +16,4 @@ description: >-
 - [Vize 20142 DM.pdf](Vize%2020142%20DM.pdf)
 - [Vize 2015 DM.pdf](Vize%202015%20DM.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

@@ -7,7 +7,7 @@ description: >-
 
 ❕ Notlarda eksiklikler olabilir. (Hiç yoktan iyidir, diye atıldı 🙄)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Final 2019 NN ~ Büşra Alp.pdf](Final%202019%20NN%20~%20B%C3%BC%C5%9Fra%20Alp.pdf)
 - [Final Çalışma BAM NN ~ YEmreAk.pdf](Final%20%C3%87al%C4%B1%C5%9Fma%20BAM%20NN%20~%20YEmreAk.pdf)
@@ -24,7 +24,7 @@ description: >-
 - [NN 8. Hafta 26.11.2019.pdf](NN%208.%20Hafta%2026.11.2019.pdf)
 - [NN 9. Hafta 3.12.2019.pdf](NN%209.%20Hafta%203.12.2019.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 ## 🔗 Faydalı Bağlantılar
 

@@ -71,5 +71,5 @@ Java, PHP, Ruby, Python, JavaScript, Kotlin, Objective-C, or .NET teknolojileri 
 [jetbrains detay]: https://www.jetbrains.com/shop/eform/students
 [jetbrains kayıt]: https://www.jetbrains.com/shop/eform/students
 [securew2]: https://bilgiislem.istanbulc.edu.tr/tr/content/eduroam-baglanti-ayarlari/windows-isletim-sistemi
-[securew2rar]: ../res/SecureW2_w7.rar
-[securew2 talimatlar]: ../res/securew2.pdf
+[securew2rar]: ../.github/assets/SecureW2_w7.rar
+[securew2 talimatlar]: ../.github/assets/securew2.pdf

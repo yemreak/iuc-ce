@@ -5,12 +5,12 @@ description: >-
 
 # 📃 Sınav Soruları \| İSvG
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Final 2013 ISG.pdf](Final%202013%20ISG.pdf)
 - [Vize ISG.pdf](Vize%20ISG.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 ## 🔸 Sınav Bilgleri
 

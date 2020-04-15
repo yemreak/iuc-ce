@@ -5,7 +5,7 @@ description: >-
 
 # 📅 2018 \| DT
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [derleyici1.pdf](derleyici1.pdf)
 - [derleyici2.pdf](derleyici2.pdf)
@@ -16,4 +16,4 @@ description: >-
 - [derleyici7.pdf](derleyici7.pdf)
 - [derleyici8.pdf](derleyici8.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

@@ -1,8 +1,8 @@
 ---
-description: İstanbul Üniversitesi Bilgisayar Mühendisliği tüm ders notlarını içerir.
+description: İstanbul Üniversitesi - Cerrahpaşa Bilgisayar Mühendisliği tüm ders notlarını içerir.
 ---
 
-# 🏫 İstanbul Üniversitesi Bilgisayar Mühendisliği
+# 🏫 İstanbul Üniversitesi - Cerrahpaşa Bilgisayar Mühendisliği
 
 ## 🙋‍♂️ Hoş Geldin
 
@@ -13,8 +13,9 @@ description: İstanbul Üniversitesi Bilgisayar Mühendisliği tüm ders notlar�
   - 🏹 Sağ üst köşededir, tıklandığında yeni pencere ile tepki verecektir
 - [📂 Düzenlenmemiş eski ders notlar arşivi](https://drive.google.com/open?id=1JPZH6Z_K59UeO-A79H0pcBIsAJlw40Y-) de ilgini çekebilir
 - [🏫 Okul Hakkında Bilgiler](./bilgiler/README.md) alanına göz atmayı unutma
+- 🤝 Her sayfanın en altında bulunan memnuniyet anketi ile ✨ gelişime ortak olabilirsin.
 
-> Her sayfanın en altında bulunan memnuniyet anketi ile ✨ gelişime ortak olabilirsin.
+> 💡 Domain adresindeki `iuce` metni `Istanbul University - Computer Engineering` anlamına gelmektedir.
 
 ## 👀 Değişiklikleri Görme
 

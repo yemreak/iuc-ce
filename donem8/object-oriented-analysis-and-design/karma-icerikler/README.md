@@ -5,8 +5,8 @@ description: >-
 
 # 🎲 Karma İçerikler \| OOAaD
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Object Oriented Analysis and Design.rar](Object%20Oriented%20Analysis%20and%20Design.rar)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

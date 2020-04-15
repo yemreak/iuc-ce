@@ -5,7 +5,7 @@ description: >-
 
 # 📅 Vize \| DvS
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [2. hafta.pdf](2.%20hafta.pdf)
 - [3.hafta.pdf](3.hafta.pdf)
@@ -14,4 +14,4 @@ description: >-
 - [Giriş Dersi.pdf](Giri%C5%9F%20Dersi.pdf)
 - [ds_1_es.pdf](ds_1_es.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

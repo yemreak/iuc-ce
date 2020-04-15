@@ -5,7 +5,7 @@ description: >-
 
 # 📜 PDF \| SP
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [1_COPYRIGHT.pdf](1_COPYRIGHT.pdf)
 - [2_TableOfContents.pdf](2_TableOfContents.pdf)
@@ -31,4 +31,4 @@ description: >-
 - [ch17_Network Drivers.pdf](ch17_Network%20Drivers.pdf)
 - [ch18_TTY Drivers.pdf](ch18_TTY%20Drivers.pdf)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->

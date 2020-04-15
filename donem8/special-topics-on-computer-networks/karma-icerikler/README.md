@@ -5,8 +5,8 @@ description: >-
 
 # 🎲 Karma İçerikler \| SToCN
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
 
 - [Special Topics on Computer Networks.rar](Special%20Topics%20on%20Computer%20Networks.rar)
 
-<!--YPackage.YGitbookIntegration-tarafından-otomatik-oluşturulmuştur-->
+<!--Auto generated with YPackage Integration tool-->
