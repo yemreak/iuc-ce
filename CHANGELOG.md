@@ -2,6 +2,11 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 16/04/2020 - 11:26:51 - [Merge pull request #11 from asmaamirkhan/master](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/52d9dd4a855de986f5cc526918d71aa1bff30090?diff=split) ~ Yunus Emre
+- 16/04/2020 - 10:55:28 - [🐞 Hatalı dosya değiştirildi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1a6ae71eb75798e5cd78f23886496c6b01816561?diff=split) ~ Asmaa Mirkhan
+- 15/04/2020 - 17:01:18 - [📂 FO dosyaları düzenlendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/590b1112872b92cfa9522a4f8f0ed51792342a82?diff=split) ~ Asmaa Mirkhan
+- 15/04/2020 - 16:20:39 - [📂 FO notları eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/8d1d54f8399cb60e0880b4923edc331a63ec7f15?diff=split) ~ Asmaa Mirkhan
+- 15/04/2020 - 16:16:07 - [🔀 Birleştirme](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/03f9e65150a589a2ae3b3f2985e97478c006d73b?diff=split) ~ Asmaa Mirkhan
 - 05/04/2020 - 21:53:25 - [👨‍🔧 Versiyon uyumsuzlukları düzeltildi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/79a740907edb972890c41593e854cec76b7b3203?diff=split) ~ Yunus Emre
 - 05/04/2020 - 21:30:33 - [👨‍🔧 red yapısından assets yapısına geçildi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/02bac23cd9f0bb67f91d7b65262f55ef85201f01?diff=split) ~ Yunus Emre
 - 05/04/2020 - 21:25:27 - [🚀 Yeni YPackage yapısına geçildi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e974cba48554f056bf5f34331e175b1ae5daf4b3?diff=split) ~ Yunus Emre
@@ -15,6 +20,9 @@
 - 24/02/2020 - 23:01:43 - [👨‍🔧 Okul ismi düzeltildi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/caee196778dba9f19034fb37a4baeb5d1b65abd4?diff=split) ~ Yunus Emre
 - 23/02/2020 - 12:01:28 - [💦 Gereksizler kaldırıldı](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9f886681d6355090be8cfbce3e11a7ea5ab904b8?diff=split) ~ Yunus Emre
 - 23/02/2020 - 11:58:25 - [🆎 OOAD değerlendirme hatası giderildi (#9)](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/c4eb1294acf89d0842cf7430ef0227952fa1b236?diff=split) ~ Asmaa Mirkhan
+- 23/02/2020 - 11:39:37 - [🔀 Birleştirme](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/79c8928f145970572da5fc94a7d1b05c2a025c11?diff=split) ~ Asmaa Mirkhan
+- 23/02/2020 - 11:38:05 - [🔀 Birleştirme](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/84dafde939903fc2058425f1924185effb1630d6?diff=split) ~ Asmaa Mirkhan
+- 23/02/2020 - 11:28:19 - [🔄 Sync](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/c460c6e1efe0d99e469ddc5b89db9b6255cb45f3?diff=split) ~ Asmaa Mirkhan
 - 18/02/2020 - 12:49:10 - [📃 Ders Programları linki eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/14d7257328f0826d87403d01c2657e56bd6c93a8?diff=split) ~ Yunus Emre
 - 18/02/2020 - 02:03:28 - [💦](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f1cc32c4f0f21d37ccc314d161fb23ff4eb5a80c?diff=split) ~ Yunus Emre
 - 18/02/2020 - 02:02:57 - [👨‍🔧](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/541196220f49821d34ea7b69c44d3fba779608eb?diff=split) ~ Yunus Emre
@@ -22,12 +30,26 @@
 - 18/02/2020 - 01:51:59 - [👨‍🔧](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/efa37dfbef61a8776c0f3c58a682c74ba285a30d?diff=split) ~ Yunus Emre
 - 18/02/2020 - 01:15:16 - [✨](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a61a35e1a1e450fb8df77093a2676194c569eb17?diff=split) ~ Yunus Emre
 - 18/02/2020 - 00:57:04 - [📰 BAG ve OOA notları yenilendi (#7)](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/58ede0ae805df25dc23583e69ad80e06ee5f6d91?diff=split) ~ Asmaa Mirkhan
+- 17/02/2020 - 23:43:47 - [👩‍🔧 BAG notları kısmen düzenlendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/315b267283853ebf8f31659643c2e0137ee0e59d?diff=split) ~ Asmaa Mirkhan
+- 17/02/2020 - 23:27:18 - [📃 Ders açıklamaları eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/40c6016798a41d59caf0b7151fb3a36c070b5cb6?diff=split) ~ Asmaa Mirkhan
+- 17/02/2020 - 23:12:01 - [🔀 Birleştirme](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e8a5eea4e04f8b974482c01a0e1bc5400d085ec8?diff=split) ~ Asmaa Mirkhan
 - 16/02/2020 - 18:18:45 - [💻 İÜCBK bilgileri eklendi (#6)](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/4e4e24ec1febc1725d68fcf1cdf4ee907d258fef?diff=split) ~ Asmaa Mirkhan
+- 16/02/2020 - 16:23:12 - [👩‍🔧 Yazım hatası giderildi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e24b99dd3becb5d3ff219470014264a294653e69?diff=split) ~ Asmaa Mirkhan
+- 16/02/2020 - 16:21:53 - [🔗 Diğer bağlantılar eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/6357f18aa851eb720cc08f99ac1faaf56cf263ec?diff=split) ~ Asmaa Mirkhan
+- 16/02/2020 - 16:06:01 - [👩‍🔧 Başlık düzeltildi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/2eeba9643cf5f0e0d823b2fd6c37af1b80fa4fa9?diff=split) ~ Asmaa Mirkhan
+- 16/02/2020 - 16:04:57 - [🙄 Okul ismi düzeltildi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/3419a991ca330bf6d03abb0a70fb099635332f6b?diff=split) ~ Asmaa Mirkhan
+- 16/02/2020 - 16:03:42 - [👩‍🔧 MarkDown hatası giderildi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/8a6842b0ebf1924a248a749e26e1234baf68583c?diff=split) ~ Asmaa Mirkhan
+- 16/02/2020 - 16:02:35 - [👩‍💼 İÜCBK açıklaması eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d2dd2b511fe76523c8ff83ec0bd1173a085baf18?diff=split) ~ Asmaa Mirkhan
+- 16/02/2020 - 15:52:50 - [🔀 Birleştirme](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/16638d2aaa925f461ffc953172e370fa20d4e566?diff=split) ~ Asmaa Mirkhan
 - 15/02/2020 - 15:45:34 - [✨ Kişisel sayfalarım yenilendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/cb6c0eb0e640971e0d5f7574180a89372f36a1ce?diff=split) ~ Yunus Emre
 - 09/02/2020 - 17:21:01 - [⚙ Karşılama sayfısındaki sorunlu bağlantılar düzeltildi (#5)](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/853e060b489b4560980a375d2b7fd16154ef80eb?diff=split) ~ Asmaa Mirkhan
+- 09/02/2020 - 14:55:58 - [⚙ Karşılama sayfısındaki sorunlu bağlantılar düzeltildi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/2751480dabec3b88d5fdacb6dbbda54b884aad98?diff=split) ~ Asmaa Mirkhan
+- 09/02/2020 - 14:50:54 - [🔀 Birleştirme](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/504ad3080aa43fbca8eea3dbbd6125d96077f504?diff=split) ~ Asmaa Mirkhan
 - 05/02/2020 - 18:17:33 - [👨‍🔧 Hatalar düzeltildi #4](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/2b825e9ee1f7407382c759cb89c7d46f559555ee?diff=split) ~ Yunus Emre
 - 05/02/2020 - 11:53:16 - [➕ Bütünleme soruları eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/fa0eab67a23cbd5ea700ad3cd7d770f64629419a?diff=split) ~ Yunus Emre
 - 25/01/2020 - 01:20:05 - [🗂 Çanlar ve sınav soruları eklendi (#3)](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1c768b75f7b388d9ec1e61055ac96220b32b82c9?diff=split) ~ Asmaa Mirkhan
+- 24/01/2020 - 13:13:35 - [📃 Sınav soruları eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/c5a5f127fb6385def37f8f0739f61b5e9745703a?diff=split) ~ Asmaa Mirkhan
+- 24/01/2020 - 13:02:29 - [🆎 Güz çanları eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/25d30149508b0c442b85a753085348450f678e71?diff=split) ~ Asmaa Mirkhan
 - 22/01/2020 - 18:35:10 - [👨‍🔧 Sınavların gözükmemesi düzeltildi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1b53263e8012a2ca7a05c98ee0359535f6fb8de3?diff=split) ~ Yunus Emre
 - 22/01/2020 - 20:17:12 - [🗃️ 2019 yılı 2. Sınıf 1. Dönem sınavları eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/cf89d2a7e023786c97808a950a33c927e121dfb2?diff=split) ~ Yunus Emre
 - 22/01/2020 - 20:14:49 - [🗃️ 2019 için 2. Sınıf 1. Dönem sınavları](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/0171278009516795c4f85fa3a41d2f012a146be1?diff=split) ~ Yunus Emre
