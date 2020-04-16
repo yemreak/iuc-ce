@@ -110,7 +110,7 @@
     - [🗃️ File Organization](donem4/file-organization/README.md)
       - [📚 Ders İçeriği \| FO](donem4/file-organization/ders-icerigi/README.md)
         - [📅 Final \| FO](donem4/file-organization/ders-icerigi/Final/README.md)
-        - [Lab](donem4/file-organization/ders-icerigi/Lab/README.md)
+        - [Lab \| FO](donem4/file-organization/ders-icerigi/Lab/README.md)
         - [📅 Vize \| FO](donem4/file-organization/ders-icerigi/Vize/README.md)
       - [📕 Öğrenci Notları \| FO](donem4/file-organization/ogrenci-notlari/README.md)
       - [📃 Sınav Soruları \| FO](donem4/file-organization/sinav-sorulari/README.md)
