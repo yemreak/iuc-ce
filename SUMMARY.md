@@ -322,6 +322,7 @@
     - [📈 Finansta Bilişim Teknolojileri](donem8/finansta-bilisim-teknolojileri/README.md)
       - [🎲 Karma İçerikler \| FBT](donem8/finansta-bilisim-teknolojileri/karma-icerikler/README.md)
     - [🔸 Information Technology Management and Standards](donem8/information-technology-management-and-standards/README.md)
+      - [📚 Ders İçeriği \| ITMaS](donem8/information-technology-management-and-standards/ders-icerigi/README.md)
       - [🎲 Karma İçerikler \| ITMaS](donem8/information-technology-management-and-standards/karma-icerikler/README.md)
     - [🏗️ Object Oriented Analysis and Design](donem8/object-oriented-analysis-and-design/README.md)
       - [📚 Ders İçeriği \| OOAaD](donem8/object-oriented-analysis-and-design/ders-icerigi/README.md)
