@@ -1,4 +1,9 @@
-# 🏗️ Proje Ödevi
+---
+description: >-
+  Uygulamalı Girişimcilik dersindeki proje ödevleri, proje konuları, içeriği veya notları
+---
+
+# 🏗️ Proje Ödevi \| UG
 
 
 ## 📋 Proje Ödevi Hakkında
