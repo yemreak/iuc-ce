@@ -2,6 +2,7 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 02/05/2020 - 19:53:20 - [🏢 Uygulamalı girişimcilik proje ödevi eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/3c67c947b29934347393bc5b929cb7e17a6f03c0?diff=split) ~ Yedhrab
 - 30/04/2020 - 16:25:39 - [🏗️ ITMaS proje ödevi eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/94b95c247876da293620259c7b36f342a3342518?diff=split) ~ Yedhrab
 - 16/04/2020 - 11:26:51 - [Merge pull request #11 from asmaamirkhan/master](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/52d9dd4a855de986f5cc526918d71aa1bff30090?diff=split) ~ Yunus Emre
 - 16/04/2020 - 10:55:28 - [🐞 Hatalı dosya değiştirildi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1a6ae71eb75798e5cd78f23886496c6b01816561?diff=split) ~ Asmaa Mirkhan
