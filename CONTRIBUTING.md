@@ -57,10 +57,10 @@ Açık kaynaklı projeye ders notların ile katkı sağlamak için:
 
 | ⭐ Örnek Dosya İsmi                     | 📁 Koyulması gereken yer                                        |
 | -------------------------------------- | --------------------------------------------------------------- |
-| `Final 2018 Notu BM ~ YEmreAk.pdf`     | `donem6\bilgisayar-mimarisi\ogrenci-notlari` |
-| `2018 Tam Calculus ~ Asma Mirkhan.pdf` | `donem1\calculus-1\ogrenci-notlari`      |
+| `Final 2018 BM ~ YEmreAk.pdf`     | `donem6\bilgisayar-mimarisi\ogrenci-notlari` |
+| `Tam 2018 Calculus ~ Asma Mirkhan.pdf` | `donem1\calculus-1\ogrenci-notlari`      |
 | `Final 2018 BM.pdf`                    | `donem6\bilgisayar-mimarisi\sinav-sorulari`  |
-| `BPG1- Giris.pdf` | `donem7\bilisim-proje-gelistirme\ders-icerigi\sunumlar` |
+| `Giriş 2020 BPG.pdf` | `donem7\bilisim-proje-gelistirme\ders-icerigi\sunumlar` |
 
 ## 🚀 Web Üzerinden Katkıda Bulunma <a name="web-uzerinden-katkida-bulunma"></a>
 
