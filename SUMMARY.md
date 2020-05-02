@@ -332,7 +332,7 @@
       - [📃 Sınav Soruları \| OOAaD](donem8/object-oriented-analysis-and-design/sinav-sorulari/README.md)
     - [⭐ Special Topics on Computer Networks](donem8/special-topics-on-computer-networks/README.md)
       - [🎲 Karma İçerikler \| SToCN](donem8/special-topics-on-computer-networks/karma-icerikler/README.md)
-    - [💰 Uygulamalı Girişimcilik](donem8/uygulamali-girisimcilik/README.md)
+    - [🏢 Uygulamalı Girişimcilik](donem8/uygulamali-girisimcilik/README.md)
       - [🎲 Karma İçerikler \| UG](donem8/uygulamali-girisimcilik/karma-icerikler/README.md)
   - [📚 Karışık Notlar](karisik/README.md)
 

@@ -1,2 +1,2 @@
-# 💰 Uygulamalı Girişimcilik
+# 🏢 Uygulamalı Girişimcilik
 
