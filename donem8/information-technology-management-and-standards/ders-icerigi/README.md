@@ -12,7 +12,8 @@ Günaydın arkadaşlar, ödev bilgileri aşağıdaki gibidir.
 > 📢 **Hocanın ağzından** yazılmıştır, bunları söyleyen kişi **ben değilim**.
 
 ## 📌 Genel kurallar
-Her iki ödev için de (dönem içi ve dönem sonu ödevleri) kurallar aynıdır
+
+Aynı ödevi hem dönem içi hem de final ödevi olarak kullanacağız
 
 1. Grup ödevi olarak yapılacak. Grup üyeleri min2 kişi , max 5 kişi olacak
 2. her bir grup için grup ismi (nickname) bulunacak ve grup ödevleri gönderilirken nick name şeklined gönedirilecek.
