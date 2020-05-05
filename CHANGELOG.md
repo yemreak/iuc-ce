@@ -2,6 +2,7 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 05/05/2020 - 21:06:50 - [👨‍🔧](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/2e6758a457e9ba8a05901364b2f2740710e3d0b1?diff=split) ~ Yunus Emre
 - 02/05/2020 - 20:06:40 - [Merge branch 'master' of https://github.com/YEmreAk/IstanbulUniversityCerrahpasa-CE](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1f816d4e2cdfc70ef4f7f26de3db7601a445df5e?diff=split) ~ Yedhrab
 - 02/05/2020 - 20:06:14 - [👨‍🔧 #12](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/7be3fa1332e308e99dcb623988ef9ded066bc912?diff=split) ~ Yedhrab
 - 02/05/2020 - 19:53:20 - [🏢 Uygulamalı girişimcilik proje ödevi eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/3c67c947b29934347393bc5b929cb7e17a6f03c0?diff=split) ~ Yedhrab
