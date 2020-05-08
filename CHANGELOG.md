@@ -2,6 +2,8 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 08/05/2020 - 23:12:18 - [Update README.md](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/162f11a734323efb41bb3cb40ffc8f82bc27d324?diff=split) ~ Yunus Emre
+- 08/05/2020 - 23:11:14 - [➕ Bitirme Projesi ders notları eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f127343401f426c8227dd0afeb12c13585507ec4?diff=split) ~ Yunus Emre
 - 05/05/2020 - 21:06:50 - [👨‍🔧](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/2e6758a457e9ba8a05901364b2f2740710e3d0b1?diff=split) ~ Yunus Emre
 - 02/05/2020 - 20:06:40 - [Merge branch 'master' of https://github.com/YEmreAk/IstanbulUniversityCerrahpasa-CE](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1f816d4e2cdfc70ef4f7f26de3db7601a445df5e?diff=split) ~ Yedhrab
 - 02/05/2020 - 20:06:14 - [👨‍🔧 #12](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/7be3fa1332e308e99dcb623988ef9ded066bc912?diff=split) ~ Yedhrab

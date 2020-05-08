@@ -319,6 +319,7 @@
       - [📚 Ders İçeriği \| BAG](donem8/bilgisayar-aglarinda-guvenlik/ders-icerigi/README.md)
       - [🎲 Karma İçerikler \| BAG](donem8/bilgisayar-aglarinda-guvenlik/karma-icerikler/README.md)
       - [📃 Sınav Soruları \| BAG](donem8/bilgisayar-aglarinda-guvenlik/sinav-sorulari/README.md)
+    - [💎 Bitirme Projesi | BP](donem8/bitirme-projesi/README.md)
     - [📈 Finansta Bilişim Teknolojileri](donem8/finansta-bilisim-teknolojileri/README.md)
       - [🎲 Karma İçerikler \| FBT](donem8/finansta-bilisim-teknolojileri/karma-icerikler/README.md)
     - [🔸 Information Technology Management and Standards](donem8/information-technology-management-and-standards/README.md)
