@@ -2,6 +2,7 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 31/05/2020 - 09:29:51 - [📚➕ Uygulamalı girişimcilik](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/6f23b5317764b1818d8d0cfc12b3278cbf6b2fe2?diff=split) ~ Yedhrab
 - 08/05/2020 - 23:12:18 - [Update README.md](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/162f11a734323efb41bb3cb40ffc8f82bc27d324?diff=split) ~ Yunus Emre
 - 08/05/2020 - 23:11:14 - [➕ Bitirme Projesi ders notları eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f127343401f426c8227dd0afeb12c13585507ec4?diff=split) ~ Yunus Emre
 - 05/05/2020 - 21:06:50 - [👨‍🔧](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/2e6758a457e9ba8a05901364b2f2740710e3d0b1?diff=split) ~ Yunus Emre

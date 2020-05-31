@@ -334,8 +334,9 @@
     - [⭐ Special Topics on Computer Networks](donem8/special-topics-on-computer-networks/README.md)
       - [🎲 Karma İçerikler \| SToCN](donem8/special-topics-on-computer-networks/karma-icerikler/README.md)
     - [🏢 Uygulamalı Girişimcilik](donem8/uygulamali-girisimcilik/README.md)
-      - [🎲 Karma İçerikler \| UG](donem8/uygulamali-girisimcilik/karma-icerikler/README.md)
+      - [📚 Ders İçeriği \| UG](donem8/uygulamali-girisimcilik/ders-icerigi/README.md)
       - [🏗️ Proje Ödevi \| UG](donem8/uygulamali-girisimcilik/proje-odevi/README.md)
+      - [📃 Sınav Soruları \| UG](donem8/uygulamali-girisimcilik/sinav-sorulari/README.md)
   - [📚 Karışık Notlar](karisik/README.md)
 
 

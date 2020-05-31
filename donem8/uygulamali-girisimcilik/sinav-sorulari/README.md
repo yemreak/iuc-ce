@@ -17,3 +17,9 @@ description: >-
 - 📧 AKSİS üzerinden sorun yaşanması durumunda sevgens@gmail.com adresine de cevaplar gönderilebilir. Sınav esnasında AKSİS veya ZOOM üzerinden soru sorabilirsiniz
 
 ## 📂 Dosyalar
+
+<!--Auto generated with YPackage Integration tool-->
+
+- [Final 2017 UG.pdf](Final%202017%20UG.pdf)
+
+<!--Auto generated with YPackage Integration tool-->
