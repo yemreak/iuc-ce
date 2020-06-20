@@ -7,8 +7,6 @@ description: >-
 
 <!--Auto generated with YPackage Integration tool-->
 
-- [driver.c](driver.c)
-- [ebbchar.c](ebbchar.c)
 - [Hello-2.c](Hello-2.c)
 - [Hello-3.c](Hello-3.c)
 - [Hello-5.c](Hello-5.c)
@@ -18,6 +16,8 @@ description: >-
 - [Helo-4.c](Helo-4.c)
 - [InputButton.c](InputButton.c)
 - [MakeFile.txt](MakeFile.txt)
+- [driver.c](driver.c)
+- [ebbchar.c](ebbchar.c)
 - [proc.c](proc.c)
 - [proc01.c](proc01.c)
 - [procfs2.c](procfs2.c)
