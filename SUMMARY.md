@@ -6,7 +6,7 @@
 - [🏫 İstanbul Üniversitesi - Cerrahpaşa Bilgisayar Mühendisliği](README.md)
   - [👀 Neler değişti](CHANGELOG.md)
   - [💖 Katkıda Bulunma Rehberi](CONTRIBUTING.md)
-  - [📋 Tüm İçerikler](SUMMARY.md)
+  - [Table of Contents](SUMMARY.md)
   - [🏫 Okul Hakkında Bilgiler](bilgiler/README.md)
     - [👨‍🏫 Akademik Kadro](bilgiler/akademik-kadro.md)
     - [📙 Ders Seçimi](bilgiler/ders-secimi.md)
