@@ -1,7 +1,4 @@
-# Table of Contents
-
-
-<!--Auto generated with YPackage Integration tool-->
+# 📋 Tüm İçerikler
 
 - [🏫 İstanbul Üniversitesi - Cerrahpaşa Bilgisayar Mühendisliği](README.md)
   - [👀 Neler değişti](CHANGELOG.md)
@@ -333,9 +330,6 @@
       - [🏗️ Proje Ödevi \| UG](donem8/uygulamali-girisimcilik/proje-odevi/README.md)
       - [📃 Sınav Soruları \| UG](donem8/uygulamali-girisimcilik/sinav-sorulari/README.md)
   - [📚 Karışık Notlar](karisik/README.md)
-
-
-<!--Auto generated with YPackage Integration tool-->
 
 ## Tüm Kişisel Notlarım
 
