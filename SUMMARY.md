@@ -1,4 +1,4 @@
-# 📋 Tüm İçerikler
+# Table of Contents
 
 
 <!--Auto generated with YPackage Integration tool-->
