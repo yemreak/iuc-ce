@@ -2,6 +2,7 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 10/09/2020 - 02:58:44 - [Update requirements.txt](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/8984bda57bcfe3121023d71d2d2f4db9273c088c?diff=split) ~ Yunus Emre
 - 09/09/2020 - 23:43:05 - [👨‍🔧](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9020c3910b9a4de387c792e7f67b90213d357ef7?diff=split) ~ Yunus Emre
 - 09/09/2020 - 23:32:39 - [👨‍🔬](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/28861eb9b130f136735ce5bd4315c3b060ed7447?diff=split) ~ Yunus Emre
 - 09/09/2020 - 23:28:44 - [👨‍🔬](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1608e947f3880df1e89cfc2eab02e520de2eb3c9?diff=split) ~ Yunus Emre
