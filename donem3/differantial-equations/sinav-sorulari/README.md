@@ -7,6 +7,6 @@ description: >-
 
 <!--Auto generated with YPackage Integration tool-->
 
-- [Karma DE.pdf](Karma%20DE.pdf)
+* [Karma DE.pdf](Karma%20DE.pdf)
 
 <!--Auto generated with YPackage Integration tool-->

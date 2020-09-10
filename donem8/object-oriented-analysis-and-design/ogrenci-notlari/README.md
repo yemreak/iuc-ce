@@ -7,6 +7,6 @@ description: >-
 
 <!--Auto generated with YPackage Integration tool-->
 
-- [Final Notları.pdf](Final%20Notlar%C4%B1.pdf)
+* [Final Notları.pdf](Final%20Notlar%C4%B1.pdf)
 
 <!--Auto generated with YPackage Integration tool-->

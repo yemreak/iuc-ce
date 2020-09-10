@@ -7,6 +7,6 @@ description: >-
 
 <!--Auto generated with YPackage Integration tool-->
 
-- [Final 2019 LDT Lab.pdf](Final%202019%20LDT%20Lab.pdf)
+* [Final 2019 LDT Lab.pdf](Final%202019%20LDT%20Lab.pdf)
 
 <!--Auto generated with YPackage Integration tool-->

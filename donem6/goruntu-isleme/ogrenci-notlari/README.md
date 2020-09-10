@@ -7,7 +7,7 @@ description: >-
 
 <!--Auto generated with YPackage Integration tool-->
 
-- [Vize Notu Gİ ~ YEmreAk.pdf](Vize%20Notu%20G%C4%B0%20~%20YEmreAk.pdf)
+* [Vize Notu Gİ ~ YEmreAk.pdf](Vize%20Notu%20G%C4%B0%20~%20YEmreAk.pdf)
 
 <!--Auto generated with YPackage Integration tool-->
 

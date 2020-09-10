@@ -7,6 +7,6 @@ description: >-
 
 <!--Auto generated with YPackage Integration tool-->
 
-- [Special Topics on Computer Networks.rar](Special%20Topics%20on%20Computer%20Networks.rar)
+* [Special Topics on Computer Networks.rar](Special%20Topics%20on%20Computer%20Networks.rar)
 
 <!--Auto generated with YPackage Integration tool-->

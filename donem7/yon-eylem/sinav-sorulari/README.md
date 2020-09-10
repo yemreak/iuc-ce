@@ -7,7 +7,7 @@ description: >-
 
 <!--Auto generated with YPackage Integration tool-->
 
-- [Final 2009 YA.pdf](Final%202009%20YA.pdf)
-- [Vize 2009 YA.pdf](Vize%202009%20YA.pdf)
+* [Final 2009 YA.pdf](Final%202009%20YA.pdf)
+* [Vize 2009 YA.pdf](Vize%202009%20YA.pdf)
 
 <!--Auto generated with YPackage Integration tool-->

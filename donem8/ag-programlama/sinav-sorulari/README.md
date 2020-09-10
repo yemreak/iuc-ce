@@ -7,8 +7,8 @@ description: >-
 
 <!--Auto generated with YPackage Integration tool-->
 
-- [Karma AP.pdf](Karma%20AP.pdf)
-- [Vize 2017 - 2 AP.pdf](Vize%202017%20-%202%20AP.pdf)
-- [Vize 2017 AP.pdf](Vize%202017%20AP.pdf)
+* [Karma AP.pdf](Karma%20AP.pdf)
+* [Vize 2017 - 2 AP.pdf](Vize%202017%20-%202%20AP.pdf)
+* [Vize 2017 AP.pdf](Vize%202017%20AP.pdf)
 
 <!--Auto generated with YPackage Integration tool-->

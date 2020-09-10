@@ -7,6 +7,6 @@ description: >-
 
 <!--Auto generated with YPackage Integration tool-->
 
-- [Çan 2018 SE.PNG](%C3%87an%202018%20SE.PNG)
+* [Çan 2018 SE.PNG](%C3%87an%202018%20SE.PNG)
 
 <!--Auto generated with YPackage Integration tool-->

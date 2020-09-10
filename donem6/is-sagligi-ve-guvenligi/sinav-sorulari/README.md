@@ -7,8 +7,8 @@ description: >-
 
 <!--Auto generated with YPackage Integration tool-->
 
-- [Final 2013 ISG.pdf](Final%202013%20ISG.pdf)
-- [Vize ISG.pdf](Vize%20ISG.pdf)
+* [Final 2013 ISG.pdf](Final%202013%20ISG.pdf)
+* [Vize ISG.pdf](Vize%20ISG.pdf)
 
 <!--Auto generated with YPackage Integration tool-->
 

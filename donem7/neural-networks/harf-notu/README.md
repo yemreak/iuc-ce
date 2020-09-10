@@ -15,6 +15,6 @@ description: >-
 
 <!--Auto generated with YPackage Integration tool-->
 
-- [NN Çan 2019 Bitirme.png](NN%20%C3%87an%202019%20Bitirme.png)
+* [NN Çan 2019 Bitirme.png](NN%20%C3%87an%202019%20Bitirme.png)
 
 <!--Auto generated with YPackage Integration tool-->

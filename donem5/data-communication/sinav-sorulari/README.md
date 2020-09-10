@@ -23,6 +23,6 @@ description: >-
 
 <!--Auto generated with YPackage Integration tool-->
 
-- [Final 2017 DC.pdf](Final%202017%20DC.pdf)
+* [Final 2017 DC.pdf](Final%202017%20DC.pdf)
 
 <!--Auto generated with YPackage Integration tool-->

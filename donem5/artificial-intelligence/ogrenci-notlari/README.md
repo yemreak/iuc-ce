@@ -7,10 +7,10 @@ description: >-
 
 <!--Auto generated with YPackage Integration tool-->
 
-- [Final 2018 Notları AI ~ YEmreAk.pdf](Final%202018%20Notlar%C4%B1%20AI%20~%20YEmreAk.pdf)
-- [Final 2019 Notları AI ~ Asmaa Mirkhan.pdf](Final%202019%20Notlar%C4%B1%20AI%20~%20Asmaa%20Mirkhan.pdf)
-- [Vize 2018 Notları AI ~ YEmreAk.pdf](Vize%202018%20Notlar%C4%B1%20AI%20~%20YEmreAk.pdf)
-- [Vize 2019 Notları AI ~ Asmaa Mirkhan.pdf](Vize%202019%20Notlar%C4%B1%20AI%20~%20Asmaa%20Mirkhan.pdf)
+* [Final 2018 Notları AI ~ YEmreAk.pdf](Final%202018%20Notlar%C4%B1%20AI%20~%20YEmreAk.pdf)
+* [Final 2019 Notları AI ~ Asmaa Mirkhan.pdf](Final%202019%20Notlar%C4%B1%20AI%20~%20Asmaa%20Mirkhan.pdf)
+* [Vize 2018 Notları AI ~ YEmreAk.pdf](Vize%202018%20Notlar%C4%B1%20AI%20~%20YEmreAk.pdf)
+* [Vize 2019 Notları AI ~ Asmaa Mirkhan.pdf](Vize%202019%20Notlar%C4%B1%20AI%20~%20Asmaa%20Mirkhan.pdf)
 
 <!--Auto generated with YPackage Integration tool-->
 

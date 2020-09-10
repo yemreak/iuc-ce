@@ -32,8 +32,8 @@ Arkadaşlar, benim aldığım notları okurken, ilgili slide'ı açıp, ilgili s
 
 <!--Auto generated with YPackage Integration tool-->
 
-- [Bulanık.pdf](Bulan%C4%B1k.pdf)
-- [Final Bulanık.pdf](Final%20Bulan%C4%B1k.pdf)
-- [Vize Bulanık.pdf](Vize%20Bulan%C4%B1k.pdf)
+* [Bulanık.pdf](Bulan%C4%B1k.pdf)
+* [Final Bulanık.pdf](Final%20Bulan%C4%B1k.pdf)
+* [Vize Bulanık.pdf](Vize%20Bulan%C4%B1k.pdf)
 
 <!--Auto generated with YPackage Integration tool-->

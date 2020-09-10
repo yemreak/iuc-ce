@@ -23,13 +23,13 @@ description: >-
 
 <!--Auto generated with YPackage Integration tool-->
 
-- [Final 2 Kriptoloji.pdf](Final%202%20Kriptoloji.pdf)
-- [Final 2015 Kripto ~ Fotokopici.pdf](Final%202015%20Kripto%20~%20Fotokopici.pdf)
-- [Final İÖ 2 Kriptoloji.pdf](Final%20%C4%B0%C3%96%202%20Kriptoloji.pdf)
-- [Final İÖ Kriptoloji.pdf](Final%20%C4%B0%C3%96%20Kriptoloji.pdf)
-- [Fİnal Kriptoloji.pdf](F%C4%B0nal%20Kriptoloji.pdf)
-- [Quiz 2019 Kripto.pdf](Quiz%202019%20Kripto.pdf)
-- [Vize 2017 Kripto.pdf](Vize%202017%20Kripto.pdf)
-- [Vize 2018 Kripto.pdf](Vize%202018%20Kripto.pdf)
+* [Final 2 Kriptoloji.pdf](Final%202%20Kriptoloji.pdf)
+* [Final 2015 Kripto ~ Fotokopici.pdf](Final%202015%20Kripto%20~%20Fotokopici.pdf)
+* [Final İÖ 2 Kriptoloji.pdf](Final%20%C4%B0%C3%96%202%20Kriptoloji.pdf)
+* [Final İÖ Kriptoloji.pdf](Final%20%C4%B0%C3%96%20Kriptoloji.pdf)
+* [Fİnal Kriptoloji.pdf](F%C4%B0nal%20Kriptoloji.pdf)
+* [Quiz 2019 Kripto.pdf](Quiz%202019%20Kripto.pdf)
+* [Vize 2017 Kripto.pdf](Vize%202017%20Kripto.pdf)
+* [Vize 2018 Kripto.pdf](Vize%202018%20Kripto.pdf)
 
 <!--Auto generated with YPackage Integration tool-->

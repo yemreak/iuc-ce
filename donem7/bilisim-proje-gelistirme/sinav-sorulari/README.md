@@ -7,6 +7,6 @@ description: >-
 
 <!--Auto generated with YPackage Integration tool-->
 
-- [Final 2017 BPG.pdf](Final%202017%20BPG.pdf)
+* [Final 2017 BPG.pdf](Final%202017%20BPG.pdf)
 
 <!--Auto generated with YPackage Integration tool-->

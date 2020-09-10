@@ -7,6 +7,6 @@ description: >-
 
 <!--Auto generated with YPackage Integration tool-->
 
-- [Information Technology Management and Standards.rar](Information%20Technology%20Management%20and%20Standards.rar)
+* [Information Technology Management and Standards.rar](Information%20Technology%20Management%20and%20Standards.rar)
 
 <!--Auto generated with YPackage Integration tool-->

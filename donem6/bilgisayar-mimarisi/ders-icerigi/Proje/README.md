@@ -7,6 +7,6 @@ description: >-
 
 <!--Auto generated with YPackage Integration tool-->
 
-- [Proje 2019 BM.pdf](Proje%202019%20BM.pdf)
+* [Proje 2019 BM.pdf](Proje%202019%20BM.pdf)
 
 <!--Auto generated with YPackage Integration tool-->

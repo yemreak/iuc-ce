@@ -7,7 +7,7 @@ description: >-
 
 <!--Auto generated with YPackage Integration tool-->
 
-- [2018 Tam LDT~ YEmreAk.pdf](2018%20Tam%20LDT~%20YEmreAk.pdf)
+* [2018 Tam LDT~ YEmreAk.pdf](2018%20Tam%20LDT~%20YEmreAk.pdf)
 
 <!--Auto generated with YPackage Integration tool-->
 

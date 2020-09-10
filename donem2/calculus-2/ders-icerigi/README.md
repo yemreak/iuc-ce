@@ -7,6 +7,6 @@ description: >-
 
 <!--Auto generated with YPackage Integration tool-->
 
-- [Ders Kitabı C2.pdf](Ders%20Kitab%C4%B1%20C2.pdf)
+* [Ders Kitabı C2.pdf](Ders%20Kitab%C4%B1%20C2.pdf)
 
 <!--Auto generated with YPackage Integration tool-->

@@ -7,6 +7,6 @@ description: >-
 
 <!--Auto generated with YPackage Integration tool-->
 
-- [Final 2018 OOAD.JPG](Final%202018%20OOAD.JPG)
+* [Final 2018 OOAD.JPG](Final%202018%20OOAD.JPG)
 
 <!--Auto generated with YPackage Integration tool-->

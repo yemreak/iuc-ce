@@ -9,7 +9,7 @@ description: >-
 
 <!--Auto generated with YPackage Integration tool-->
 
-- [Final 2020 OS.pdf](Final%202020%20OS.pdf)
+* [Final 2020 OS.pdf](Final%202020%20OS.pdf)
 
 <!--Auto generated with YPackage Integration tool-->
 

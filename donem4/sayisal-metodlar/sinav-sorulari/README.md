@@ -7,6 +7,6 @@ description: >-
 
 <!--Auto generated with YPackage Integration tool-->
 
-- [Eski Sorular.pdf](Eski%20Sorular.pdf)
+* [Eski Sorular.pdf](Eski%20Sorular.pdf)
 
 <!--Auto generated with YPackage Integration tool-->

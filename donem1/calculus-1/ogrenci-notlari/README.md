@@ -7,7 +7,7 @@ description: >-
 
 <!--Auto generated with YPackage Integration tool-->
 
-- [2018 Tam Calculus ~ Asma Mirkhan.pdf](2018%20Tam%20Calculus%20~%20Asma%20Mirkhan.pdf)
+* [2018 Tam Calculus ~ Asma Mirkhan.pdf](2018%20Tam%20Calculus%20~%20Asma%20Mirkhan.pdf)
 
 <!--Auto generated with YPackage Integration tool-->
 

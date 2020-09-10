@@ -7,6 +7,6 @@ description: >-
 
 <!--Auto generated with YPackage Integration tool-->
 
-- [Finansta Bilişim Teknolojileri.rar](Finansta%20Bili%C5%9Fim%20Teknolojileri.rar)
+* [Finansta Bilişim Teknolojileri.rar](Finansta%20Bili%C5%9Fim%20Teknolojileri.rar)
 
 <!--Auto generated with YPackage Integration tool-->

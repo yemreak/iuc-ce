@@ -7,7 +7,7 @@ description: >-
 
 <!--Auto generated with YPackage Integration tool-->
 
-- [Final BG.pdf](Final%20BG.pdf)
+* [Final BG.pdf](Final%20BG.pdf)
 
 <!--Auto generated with YPackage Integration tool-->
 

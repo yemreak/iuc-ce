@@ -7,12 +7,12 @@ description: >-
 
 <!--Auto generated with YPackage Integration tool-->
 
-- [Final 2019 YE ~ Ayşenur Kumbasar.pdf](Final%202019%20YE%20~%20Ay%C5%9Fenur%20Kumbasar.pdf)
-- [Final 2019 YE ~ Sezgin Otlak.pdf](Final%202019%20YE%20~%20Sezgin%20Otlak.pdf)
-- [Final 2019 YE ~ Sümeyra Kumbasar.pdf](Final%202019%20YE%20~%20S%C3%BCmeyra%20Kumbasar.pdf)
-- [Final 2019 Çalışma YE ~ YEmreAk.pdf](Final%202019%20%C3%87al%C4%B1%C5%9Fma%20YE%20~%20YEmreAk.pdf)
-- [Vize 2019 YE ~ Sezgin Otlak.pdf](Vize%202019%20YE%20~%20Sezgin%20Otlak.pdf)
-- [Vize 2019 Çalışma YE ~ YEmreAk.pdf](Vize%202019%20%C3%87al%C4%B1%C5%9Fma%20YE%20~%20YEmreAk.pdf)
+* [Final 2019 YE ~ Ayşenur Kumbasar.pdf](Final%202019%20YE%20~%20Ay%C5%9Fenur%20Kumbasar.pdf)
+* [Final 2019 YE ~ Sezgin Otlak.pdf](Final%202019%20YE%20~%20Sezgin%20Otlak.pdf)
+* [Final 2019 YE ~ Sümeyra Kumbasar.pdf](Final%202019%20YE%20~%20S%C3%BCmeyra%20Kumbasar.pdf)
+* [Final 2019 Çalışma YE ~ YEmreAk.pdf](Final%202019%20%C3%87al%C4%B1%C5%9Fma%20YE%20~%20YEmreAk.pdf)
+* [Vize 2019 YE ~ Sezgin Otlak.pdf](Vize%202019%20YE%20~%20Sezgin%20Otlak.pdf)
+* [Vize 2019 Çalışma YE ~ YEmreAk.pdf](Vize%202019%20%C3%87al%C4%B1%C5%9Fma%20YE%20~%20YEmreAk.pdf)
 
 <!--Auto generated with YPackage Integration tool-->
 

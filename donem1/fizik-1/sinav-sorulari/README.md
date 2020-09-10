@@ -10,7 +10,7 @@ description: >-
 
 <!--Auto generated with YPackage Integration tool-->
 
-- [Büt 2017 F1.pdf](B%C3%BCt%202017%20F1.pdf)
-- [Final 2019 F1.pdf](Final%202019%20F1.pdf)
+* [Büt 2017 F1.pdf](B%C3%BCt%202017%20F1.pdf)
+* [Final 2019 F1.pdf](Final%202019%20F1.pdf)
 
 <!--Auto generated with YPackage Integration tool-->

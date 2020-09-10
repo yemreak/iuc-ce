@@ -7,6 +7,6 @@ description: >-
 
 <!--Auto generated with YPackage Integration tool-->
 
-- [Ağ Programlama.rar](A%C4%9F%20Programlama.rar)
+* [Ağ Programlama.rar](A%C4%9F%20Programlama.rar)
 
 <!--Auto generated with YPackage Integration tool-->

@@ -7,7 +7,7 @@ description: >-
 
 <!--Auto generated with YPackage Integration tool-->
 
-- [Final 2018 BOTL~ YEmreAk.pdf](Final%202018%20BOTL~%20YEmreAk.pdf)
-- [Örnek 2018 BOTL.pdf](%C3%96rnek%202018%20BOTL.pdf)
+* [Final 2018 BOTL~ YEmreAk.pdf](Final%202018%20BOTL~%20YEmreAk.pdf)
+* [Örnek 2018 BOTL.pdf](%C3%96rnek%202018%20BOTL.pdf)
 
 <!--Auto generated with YPackage Integration tool-->

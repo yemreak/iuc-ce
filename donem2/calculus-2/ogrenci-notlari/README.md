@@ -7,6 +7,6 @@ description: >-
 
 <!--Auto generated with YPackage Integration tool-->
 
-- [Ders Notları ~ Asma Mirkhan.pdf](Ders%20Notlar%C4%B1%20~%20Asma%20Mirkhan.pdf)
+* [Ders Notları ~ Asma Mirkhan.pdf](Ders%20Notlar%C4%B1%20~%20Asma%20Mirkhan.pdf)
 
 <!--Auto generated with YPackage Integration tool-->
