@@ -69,7 +69,7 @@ description: İstanbul Üniversitesi - Cerrahpaşa Bilgisayar Mühendisliği tü
 
 ## 🤝 Katkı Sağlayanlar
 
-✨ Katkı sağlayan arkadaşlara ([collaborator](https://github.com/YEmreAk/IstanbulUniversity-CE/graphs/contributors)) çok teşekkürler (🏆🥇🥈🥉)
+✨ Katkı sağlayan [arkadaşlara](https://github.com/YEmreAk/IstanbulUniversity-CE/graphs/contributors) çok teşekkürler (🏆🥇🥈🥉)
 
 - 🏆 Asmaa Mirkhan
 - 🥇 Eda Nur Var
@@ -77,7 +77,7 @@ description: İstanbul Üniversitesi - Cerrahpaşa Bilgisayar Mühendisliği tü
 - 🥈 Yunus Karakaya
 - 🥈 Furkan Özbek
 
-> 📢 Burada adı olmayıp da yardımcı olan arkadaşlar vardır, iletişime geçmeleri halinde onları da eklemek isterim 😊
+> 📢 Bu alan katkıları git geçmişinde olmayan arkadaşları belirtmek amaçlı yapılmıştır
 
 ## 💖 Destek ve İletişim
 
