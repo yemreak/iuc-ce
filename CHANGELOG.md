@@ -2,6 +2,7 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 20/09/2020 - 13:24:01 - [📝➕ 2019 yılı lineer cebir dersinde tutulan notlar eklendi (#13)](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/23bbe8cfaf5b40e1de616c162f06e657adc779b3?diff=split) ~ Buse Dağıdır
 - 10/09/2020 - 03:36:14 - [Update requirements.txt](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/b16182f2aed1c14ade4062c39ae41f8836ec988d?diff=split) ~ Yunus Emre
 - 10/09/2020 - 02:58:44 - [Update requirements.txt](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/8984bda57bcfe3121023d71d2d2f4db9273c088c?diff=split) ~ Yunus Emre
 - 09/09/2020 - 23:43:05 - [👨‍🔧](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9020c3910b9a4de387c792e7f67b90213d357ef7?diff=split) ~ Yunus Emre
