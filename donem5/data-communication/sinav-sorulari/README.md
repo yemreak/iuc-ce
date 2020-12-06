@@ -24,5 +24,6 @@ description: >-
 <!--Auto generated with YPackage Integration tool-->
 
 * [Final 2017 DC.pdf](Final%202017%20DC.pdf)
+* [Vize 2020 DC.pdf](Vize%202020%20DC.pdf)
 
 <!--Auto generated with YPackage Integration tool-->
