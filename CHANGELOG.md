@@ -2,6 +2,7 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 06/12/2020 - 19:47:34 - [📕 Kablosuz haberleşme notları ilk 8 hafta eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e3980c484950ccafa9ed718a27d63e4392fe7be9?diff=split) ~ Yunus Emre
 - 20/09/2020 - 13:33:09 - [👨‍🔧](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/de6b977a6cbc007b8dc729c39594142783a38d50?diff=split) ~ Yunus Emre
 - 20/09/2020 - 13:30:11 - [🏗️✨ PR kalıbı sadeleştirildi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/6bbaa7ea6263ad2479916ffc72bfa2102721e605?diff=split) ~ Yunus Emre
 - 20/09/2020 - 13:24:01 - [📝➕ 2019 yılı lineer cebir dersinde tutulan notlar eklendi (#13)](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/23bbe8cfaf5b40e1de616c162f06e657adc779b3?diff=split) ~ Buse Dağıdır
