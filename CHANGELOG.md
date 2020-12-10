@@ -2,6 +2,9 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 11/12/2020 - 00:21:59 - [👨‍🔧 Ufak düzeltme yapıldı](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a20a8a18bb638007144d1b9f49597018ab1c4445?diff=split) ~ Yunus Emre
+- 11/12/2020 - 00:21:24 - [💦 Hatalı notlar temizlendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/6cd83e6c7340ebf4a387df16b1f5e30301936ba2?diff=split) ~ Yunus Emre
+- 11/12/2020 - 00:21:01 - [📝➕ BOT notları eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/199e0f70d0b947c1119fda9538c2d89880157f77?diff=split) ~ Yunus Emre
 - 10/12/2020 - 20:20:11 - [📝➕ BOT notları eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/9555e58100067a7bff8d141b9865a517fbdb79fa?diff=split) ~ Yunus Emre
 - 06/12/2020 - 20:06:19 - [💦](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/77427461411e0a193f5de27fac03a096ac6f7cf6?diff=split) ~ Yunus Emre
 - 06/12/2020 - 20:05:07 - [📃 Signal 2020 vizesi eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f0697086cae075d3534932b55957824e1b852373?diff=split) ~ Yunus Emre

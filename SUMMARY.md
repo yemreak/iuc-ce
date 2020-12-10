@@ -105,6 +105,7 @@
       * [📅 Final \| BOvT](donem4/bilgisayar-organizasyonu-ve-tasarimi/ders-icerigi/Final/README.md)
       * [📅 Vize \| BOvT](donem4/bilgisayar-organizasyonu-ve-tasarimi/ders-icerigi/Vize/README.md)
     * [🆎 Harf Notu \| BOvT](donem4/bilgisayar-organizasyonu-ve-tasarimi/harf-notu/README.md)
+    * [📕 Öğrenci Notları \| BOvT](donem4/bilgisayar-organizasyonu-ve-tasarimi/ogrenci-notlari/README.md)
     * [📃 Sınav Soruları \| BOvT](donem4/bilgisayar-organizasyonu-ve-tasarimi/sinav-sorulari/README.md)
   * [🗃️ File Organization](donem4/file-organization/README.md)
   * [➰ Formal Diller ve Otomatlar](donem4/formal-diller-ve-otomatlar/README.md)
