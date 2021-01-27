@@ -2,6 +2,7 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 27/01/2021 - 00:54:48 - [📃 Sınav Soruları eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/11e040bc12509199d5ea37d0dc2cd065606e35b8?diff=split) ~ Yunus Emre
 - 11/12/2020 - 00:21:59 - [👨‍🔧 Ufak düzeltme yapıldı](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a20a8a18bb638007144d1b9f49597018ab1c4445?diff=split) ~ Yunus Emre
 - 11/12/2020 - 00:21:24 - [💦 Hatalı notlar temizlendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/6cd83e6c7340ebf4a387df16b1f5e30301936ba2?diff=split) ~ Yunus Emre
 - 11/12/2020 - 00:21:01 - [📝➕ BOT notları eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/199e0f70d0b947c1119fda9538c2d89880157f77?diff=split) ~ Yunus Emre
