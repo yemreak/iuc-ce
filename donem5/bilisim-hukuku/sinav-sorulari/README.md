@@ -13,3 +13,8 @@ description: >-
 - Slaytları okursanız yeter büyük ihtimalle
 
 > 📣 3.Sınıf Grubu'ndan alıntıdır.
+<!--Auto generated with YPackage Integration tool-->
+
+* [Final 2020 BH.pdf](Final%202020%20BH.pdf)
+
+<!--Auto generated with YPackage Integration tool-->
