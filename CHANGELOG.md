@@ -2,6 +2,7 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 06/02/2021 - 14:16:02 - [📖✨](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/c4ce9a9d6120603bde2ae9d4cc6ad2b4f7931cda?diff=split) ~ Yunus Emre
 - 06/02/2021 - 12:38:35 - [2019 sınavlarının bazıları düzenlendi (#17)](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/0a39605c88d6fd5306a5888cceb927ab352421a5?diff=split) ~ ahembal
 - 04/02/2021 - 01:20:48 - [👨‍🔧 2020 finallerin konumları düzeltildi (#16)](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/6d0528778f4fcffa41fa9008dac4acddb16aa41a?diff=split) ~ ahembal
 - 27/01/2021 - 00:54:48 - [📃 Sınav Soruları eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/11e040bc12509199d5ea37d0dc2cd065606e35b8?diff=split) ~ Yunus Emre
