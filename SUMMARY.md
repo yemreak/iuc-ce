@@ -69,6 +69,7 @@
       * [👩‍🔬 Lab Notları \| DvS](donem3/devreler-ve-sistemler/ders-icerigi/Lab/README.md)
       * [📅 Vize \| DvS](donem3/devreler-ve-sistemler/ders-icerigi/Vize/README.md)
     * [📖 Genel Notlar \| DvS](donem3/devreler-ve-sistemler/genel-notlar/README.md)
+    * [sinav-sorulari](donem3/devreler-ve-sistemler/sinav-sorulari/README.md)
   * [➰ Differantial Equations](donem3/differantial-equations/README.md)
     * [📕 Öğrenci Notları \| DE](donem3/differantial-equations/ogrenci-notlari/README.md)
     * [📃 Sınav Soruları \| DE](donem3/differantial-equations/sinav-sorulari/README.md)
