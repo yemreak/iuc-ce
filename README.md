@@ -81,9 +81,9 @@ description: İstanbul Üniversitesi - Cerrahpaşa Bilgisayar Mühendisliği tü
 
 ## 💖 Destek ve İletişim
 
-​[​![Github](.github/assets/github_32px.png)​](https://github.com/yedhrab) [​![LinkedIn](.github/assets/linkedin_32px.png)​](https://www.linkedin.com/in/yemreak/) [​![Website](.github/assets/geography_32px.png)​](https://yemreak.com/) [​![Mail](.github/assets/gmail_32px.png)​](mailto:yemreak.com@gmail.com?subject=IstanbulUniversity%20%7C%20GitHub)​
+​[​![Github](.github/assets/github_32px.png)​](https://github.com/yemreak) [​![LinkedIn](.github/assets/linkedin_32px.png)​](https://www.linkedin.com/in/yemreak/) [​![Website](.github/assets/geography_32px.png)​](https://yemreak.com/) [​![Mail](.github/assets/gmail_32px.png)​](mailto:yemreak.com@gmail.com?subject=IstanbulUniversity%20%7C%20GitHub)​
 
-​[​![Patreon](.github/assets/become_a_patron_32px.png)](https://www.patreon.com/yemreak/)
+> 🤝 Katkı sağlamak için [💖 Katkıda Bulunma Rehberi](https://iuce.yemreak.com/contributing) sayfasına bakabilirsin, maddi katkıya **ihtiyaç yoktur** teşekkür ederim :)
 
 ## 🔏 Lisans
 
