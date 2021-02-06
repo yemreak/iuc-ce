@@ -1,4 +1,9 @@
-# sinav-sorulari
+---
+description: >-
+  Devreler ve Sistemler için nav-sorulari notları
+---
+
+# sinav-sorulari \| DvS
 
 <!--Auto generated with YPackage Integration tool-->
 
