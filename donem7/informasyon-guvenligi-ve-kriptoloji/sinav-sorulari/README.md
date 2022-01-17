@@ -31,5 +31,6 @@ description: >-
 * [Quiz 2019 Kripto.pdf](Quiz%202019%20Kripto.pdf)
 * [Vize 2017 Kripto.pdf](Vize%202017%20Kripto.pdf)
 * [Vize 2018 Kripto.pdf](Vize%202018%20Kripto.pdf)
+* [Vize 2021 Kriptoloji.pdf](Vize%202021%20Kriptoloji.pdf)
 
 <!--Auto generated with YPackage Integration tool-->
