@@ -362,4 +362,5 @@
     * [📃 Sınav Soruları \| UG](donem8/uygulamali-girisimcilik/sinav-sorulari/README.md)
 * [📚 Karışık Notlar](karisik/README.md)
 
+
 <!--Auto generated with YPackage Integration tool-->

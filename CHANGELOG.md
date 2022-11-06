@@ -2,6 +2,7 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 07/11/2022 - 01:13:55 - [🐛 README sorunları çözüldü](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/0547f9b885a969db321641aa7285cec0e883b504?diff=split) ~ yedhrab
 - 07/11/2022 - 01:02:41 - [🐛 README sorunu çözüldü](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1bb95e85ae241a12112dd28678f099498a85a807?diff=split) ~ yedhrab
 - 07/11/2022 - 00:59:02 - [🐛 Dosya indeks sorunları çözüldü](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/4e6d4856fbb75ffe85fe2708039dcde630cbde9b?diff=split) ~ yedhrab
 - 06/11/2022 - 17:51:52 - [🔥 Gereksizler temizlendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1496653389aafce17d57dc0396dea427253d2671?diff=split) ~ yedhrab
