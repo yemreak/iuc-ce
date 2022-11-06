@@ -1,0 +1,18 @@
+# 2022
+
+<!--Auto generated with YPackage Integration tool-->
+
+* [1-2 ALGORITHMS.pdf](1-2%20ALGORITHMS.pdf)
+* [1-2 ALGORİTMALAR.pdf](1-2%20ALGOR%C4%B0TMALAR.pdf)
+* [1-INTRODUCTION.pdf](1-INTRODUCTION.pdf)
+* [2- FUNDAMENTALS OF THE ANALYSIS OF ALGORITHM EFFICIENCY.pdf](2-%20FUNDAMENTALS%20OF%20THE%20ANALYSIS%20OF%20ALGORITHM%20EFFICIENCY.pdf)
+* [2-3 ALGORİTMA ANALİZİ VE BIG O.pdf](2-3%20ALGOR%C4%B0TMA%20ANAL%C4%B0Z%C4%B0%20VE%20BIG%20O.pdf)
+* [2-3 Algoritma Analizi.pdf](2-3%20Algoritma%20Analizi.pdf)
+* [2-3 BIG O.pdf](2-3%20BIG%20O.pdf)
+* [3- DIVIDE AND CONQUER.pdf](3-%20DIVIDE%20AND%20CONQUER.pdf)
+* [4- Transform-and-Conquer.pdf](4-%20Transform-and-Conquer.pdf)
+* [5- DYNAMIC PROGRAMMING.pdf](5-%20DYNAMIC%20PROGRAMMING.pdf)
+* [6- GREEDY ALGORITHMS.pdf](6-%20GREEDY%20ALGORITHMS.pdf)
+* [7- GREEDY ALGORITMS 2.pdf](7-%20GREEDY%20ALGORITMS%202.pdf)
+
+<!--Auto generated with YPackage Integration tool-->
