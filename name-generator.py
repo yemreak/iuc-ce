@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
-from ypackage.core.markdown import find_first_header_from_file
 
+from ypackage.core.markdown import find_first_header_from_file
 
 DESC_DERS = r"""---
 description: >-
