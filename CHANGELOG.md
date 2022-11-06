@@ -2,6 +2,10 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 06/11/2022 - 17:51:52 - [🔥 Gereksizler temizlendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1496653389aafce17d57dc0396dea427253d2671?diff=split) ~ yedhrab
+- 06/11/2022 - 14:48:58 - [GitBook: [#3] No subject](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/07b5559cb31adfb0f293a86f0a0b12f5ca1aec8d?diff=split) ~ Yunus Emre
+- 06/11/2022 - 17:45:21 - [🩹 Ufak başlık düzeltmesi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/885c6f250bae6f497c18bf2bc60c472956c56681?diff=split) ~ yedhrab
+- 06/11/2022 - 17:41:38 - [🩹 Ufak düzeltmeler yapıldı](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/29fdb02a41ecb9d20aa599a2bc7f5379777626fc?diff=split) ~ yedhrab
 - 06/11/2022 - 17:39:32 - [🐛 Yerleştirme sorunları giderildi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/c31c275cf2b0e90ddfbd2b74c54165285cd6ebad?diff=split) ~ yedhrab
 - 06/11/2022 - 17:28:25 - [✨ 2022 Olasılık notları eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f601e6cfb2614a75a923966cfa30e7cc2f309506?diff=split) ~ yedhrab
 - 06/11/2022 - 16:10:37 - [🩹 Ufak düzeltmeler](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a87af8154167ddbce6ee7f41ac77d7593b8a5888?diff=split) ~ yedhrab

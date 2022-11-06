@@ -83,3 +83,8 @@ description: >-
 * A dan 0
 * E den 1
 * F'teyiz, yani F = 01 (010 için)
+<!--Auto generated with YPackage Integration tool-->
+
+* [2018 Tam LDT~ YEmreAk.pdf](2018%20Tam%20LDT~%20YEmreAk.pdf)
+
+<!--Auto generated with YPackage Integration tool-->

@@ -13,3 +13,8 @@ description: Neural Networks için Harf Notu notları
 ![can\_nn1](../../../.github/assets/can\_nn1.png)
 
 * [NN Çan 2019 Bitirme.png](NN%20%C3%87an%202019%20Bitirme.png)
+<!--Auto generated with YPackage Integration tool-->
+
+* [NN Çan 2019 Bitirme.png](NN%20%C3%87an%202019%20Bitirme.png)
+
+<!--Auto generated with YPackage Integration tool-->
