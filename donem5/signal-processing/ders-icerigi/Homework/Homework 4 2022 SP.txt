@@ -1,0 +1,43 @@
+Signal Processing Homeworks 
+2022-2023 Fall 
+----------------------------
+HW-1 
+From you textbook, solve the following problems:
+
+1.42
+1.43
+1.44
+1.45
+1.46
+1.49
+1.78
+-----------------------------
+HW-2
+
+Solve the following problems from your book and sumbit a single PDF file of you solutions.
+
+1.51
+1.53
+1.54
+1.56 a, b, e, h, k
+1.57 a, c, e, g, h, i
+1.59
+-----------------------------
+HW-3
+
+Sorular (kitaptan)
+
+1.59
+1.60
+1.61
+1.63
+1.64 a, c, g, h
+1.66
+1.73
+1.76
+1.84
+------------------------------
+HW-4
+is uploaded into files.
+
+NOTE: You can use litsolutions.org for help.

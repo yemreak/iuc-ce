@@ -1,0 +1,48 @@
+use School
+db.dropDatabase()
+
+db.Department.insert({did:1,name:'Comp. Eng.',	comments:'Computer Eng. Department',     email:'ceng@fatih.edu.tr'});
+db.Department.insert({did:2,name:'Elec. Eng.',	comments:'Electronic Eng. Department',   email:'ee@fatih.edu.tr'  });
+db.Department.insert({did:3,name:'Env. Eng.',	comments:'Environmental Eng. Department',email:'env@fatih.edu.tr' });
+db.Department.insert({did:4,name:'Ind. Eng.',	comments:'Industrial Eng. Department',   email:'ie@fatih.edu.tr'  });
+db.Department.ensureIndex({"did":1, {unique:true}})
+
+db.Student.insert({sid:2,	fname:'Ahmet',	lname:'buyuk',	birthDate:'2-Jul-1979',		birthPlace:'ankara',	did:1, courses:[{cid:101, grade:70},{cid:202, grade:90}]});
+db.Student.insert({sid:3,	fname:'Leyla',	lname:'Sahin',	birthDate:'18-May-1982',	birthPlace:'izmir',		did:1, courses:[{cid:101, grade:80},{cid:202, grade:10}]});
+db.Student.insert({sid:4,	fname:'Can',	lname:'Turkog',	birthDate:'6-Nov-1985',		birthPlace:'manisa',	did:2, courses:[{cid:101, grade:90},{cid:202, grade:20}]});
+db.Student.insert({sid:5,	fname:'Aziz',	lname:'Keskin',	birthDate:'11-Dec-1978',	birthPlace:'istanbul',	did:2, courses:[{cid:101, grade:60},{cid:202, grade:30}]});
+db.Student.insert({sid:6,	fname:'Talat',	lname:'Sanli',	birthDate:'12-Dec-1983',	birthPlace:'izmir',		did:3, courses:[{cid:101, grade:50},{cid:202, grade:40}]});
+db.Student.insert({sid:7,	fname:'Kamuran',lname:'Kece',	birthDate:'26-Sep-1980',	birthPlace:'adana',		did:3, courses:[{cid:101, grade:40},{cid:202, grade:50}]});
+db.Student.insert({sid:8,	fname:'Turgut',	lname:'Cemal',	birthDate:'30-Oct-1977',	birthPlace:'bursa',		did:4, courses:[{cid:101, grade:30},{cid:202, grade:60}]});
+db.Student.insert({sid:9,	fname:'Oznur',	lname:'Gunes',	birthDate:'1-Aug-1979',		birthPlace:'bolu',		did:2, courses:[{cid:101, grade:20},{cid:202, grade:70}]});
+db.Student.insert({sid:10,	fname:'Pelin',	lname:'Tugay',	birthDate:'9-Mar-1980',		birthPlace:'izmir',		did:4, courses:[{cid:101, grade:10},{cid:202, grade:80}]});
+db.Student.insert({sid:11,	fname:'Savas',	lname:'Tan',	birthDate:'9-Mar-1980',		birthPlace:'izmir',		did:4, courses:[{cid:101, grade:70},{cid:202, grade:90}]});
+db.Student.ensureIndex({"sid":1, unique:true})
+
+db.Course.insert([
+{cid:1,	title:'database',	credits:3,	did:1},
+{cid:2, title:'operating',	credits:3,	did:1},
+{cid:3, title:'Programming',credits:4,	did:1},
+{cid:4, title:'electronic',	credits:2,	did:2},
+{cid:5, title:'statistic',	credits:4,	did:4},
+{cid:6,	title:'circuit',	credits:3,	did:2},
+{cid:7,	title:'environment',credits:3,	did:3},
+{cid:8, title:'operation',	credits:3,	did:4},
+{cid:9, title:'practice',	credits:2,	did:4},
+{cid:10,title:'practice',	credits:3,	did:3},
+{cid:11,title:'practice',	credits:3,	did:1},
+{cid:12,title:'practice',	credits:3,	did:2},
+])
+db.Course.ensureIndex({cid:1, unique:true})
+
+db.Teacher.insert([
+{tid:1,	fname:'Selami',	lname:'Durgun',	birthDate:'10-Nov-1970', birthDate'amasya',		did:1, courses:[{cid:101},{cid:202}]},
+{tid:2,	fname:'Cengiz',	lname:'Tahir',	birthDate:'21-Jul-1960', birthDate'istanbul',	did:1, courses:[{cid:101},{cid:202}]},
+{tid:3,	fname:'Derya',	lname:'Seckin',	birthDate:'15-May-1962', birthDate'mersin',		did:1, courses:[{cid:101},{cid:202}]},
+{tid:4,	fname:'Dogan',	lname:'Gedik',	birthDate:'16-Nov-1965', birthDate'istanbul',	did:2, courses:[{cid:101},{cid:202}]},
+{tid:5,	fname:'Ayten',	lname:'Deniz',	birthDate:'11-Dec-1968', birthDate'istanbul',	did:3, courses:[{cid:101},{cid:202}]},
+{tid:6,	fname:'Tahsin',	lname:'Ugur',	birthDate:'12-Dec-1963', birthDate'izmir',		did:4, courses:[{cid:101},{cid:202}]},
+{tid:7,	fname:'Selcuk',	lname:'Ozan',	birthDate:'30-Oct-1960', birthDate'amasya',		did:4, courses:[{cid:101},{cid:202}]},
+])                                                                                           
+db.Course.ensureIndex({tid:1, unique:true})                                                  
+                                                                                             
