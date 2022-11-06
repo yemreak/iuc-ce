@@ -2,6 +2,8 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 06/11/2022 - 17:39:32 - [🐛 Yerleştirme sorunları giderildi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/c31c275cf2b0e90ddfbd2b74c54165285cd6ebad?diff=split) ~ yedhrab
+- 06/11/2022 - 17:28:25 - [✨ 2022 Olasılık notları eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/f601e6cfb2614a75a923966cfa30e7cc2f309506?diff=split) ~ yedhrab
 - 06/11/2022 - 16:10:37 - [🩹 Ufak düzeltmeler](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a87af8154167ddbce6ee7f41ac77d7593b8a5888?diff=split) ~ yedhrab
 - 06/11/2022 - 15:53:34 - [🐛 Gitbook entegras sorunları çözüldü](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/b6273002a717c858c562beab623c1e88392f1a68?diff=split) ~ yedhrab
 - 06/11/2022 - 15:46:54 - [🚀 Yeni ders notları!](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d497858266ae40b1a8f37623f42e1127aa39397e?diff=split) ~ yedhrab
