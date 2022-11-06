@@ -2,6 +2,8 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 06/11/2022 - 16:10:37 - [🩹 Ufak düzeltmeler](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/a87af8154167ddbce6ee7f41ac77d7593b8a5888?diff=split) ~ yedhrab
+- 06/11/2022 - 15:53:34 - [🐛 Gitbook entegras sorunları çözüldü](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/b6273002a717c858c562beab623c1e88392f1a68?diff=split) ~ yedhrab
 - 06/11/2022 - 15:46:54 - [🚀 Yeni ders notları!](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/d497858266ae40b1a8f37623f42e1127aa39397e?diff=split) ~ yedhrab
 - 06/11/2022 - 15:45:56 - [🚀 Yeni ders notları ile temiz yapı](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/53fecb328fe74b26399417730a489d54b27e14bc?diff=split) ~ yedhrab
 - 18/01/2022 - 01:52:40 - [🐞👨‍🔧 Gitbook entegrasyonu için ufak düzeltme](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/02a0b4024552b54816d4938f8287f62e1d676aa2?diff=split) ~ Yunus Emre
