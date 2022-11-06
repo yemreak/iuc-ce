@@ -1,6 +1,4 @@
-# 📕 2022 \| AA
-
-<!--Auto generated with YPackage Integration tool-->
+# 2022 | AA
 
 * [1-2 ALGORITHMS.pdf](1-2%20ALGORITHMS.pdf)
 * [1-2 ALGORİTMALAR.pdf](1-2%20ALGOR%C4%B0TMALAR.pdf)
@@ -14,5 +12,3 @@
 * [5- DYNAMIC PROGRAMMING.pdf](5-%20DYNAMIC%20PROGRAMMING.pdf)
 * [6- GREEDY ALGORITHMS.pdf](6-%20GREEDY%20ALGORITHMS.pdf)
 * [7- GREEDY ALGORITMS 2.pdf](7-%20GREEDY%20ALGORITMS%202.pdf)
-
-<!--Auto generated with YPackage Integration tool-->

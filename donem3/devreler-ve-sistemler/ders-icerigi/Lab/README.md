@@ -1,16 +1,15 @@
 ---
-description: >-
-  Devreler ve Sistemler için 🔬 Lab Notları notları
+description: Devreler ve Sistemler için 🔬 Lab Notları notları
 ---
 
-# 👩‍🔬 Lab Notları \| DvS
+# 👩‍🔬 Lab Notları | DvS
 
 ## 👩‍🔬 Lab Bilgileri
 
 Lab dersinde **LTspice** uygulaması kullanılmaktadır.
 
-- Resmi sitesi için [buraya][LTspice Website] bakabilir
-- [Windows][LTspice Windows] ve [MAC][LTspice MAC] için linklerden indirme yapabilirsin.
+* Resmi sitesi için [buraya](http://www.linear.com/designtools/software/) bakabilir
+* [Windows](http://ltspice.linear-tech.com/software/LTspiceXVII.exe) ve [MAC](http://ltspice.linear-tech.com/LTspiceIV.dmg) için linklerden indirme yapabilirsin.
 
 ### 👩‍🔬 Lab-1 Notları
 
@@ -18,9 +17,9 @@ Lab dersinde **LTspice** uygulaması kullanılmaktadır.
 
 #### Yapılacaklar
 
-- R1, R2 üzerinden geçen akım
-- A, B, C noktaları arasındaki gerilim
-- tran analiz ve dc anazliz şeklinde hesaplanacak.
+* R1, R2 üzerinden geçen akım
+* A, B, C noktaları arasındaki gerilim
+* tran analiz ve dc anazliz şeklinde hesaplanacak.
 
 #### Teslim Şekli
 
@@ -30,15 +29,15 @@ Lab dersinde **LTspice** uygulaması kullanılmaktadır.
 
 `Simulate -> Edit Simulation CMD -> Dc Swift` açılarak alttaki resimdeki değerler girilmeli ve devranın herhangi bir kenarındaki boş yere eklenmeli (devre üstüne değil)
 
-![dc_ayarlama](../../../../.github/assets/dc%20ayarlanma.png)
+![dc\_ayarlama](<../../../../.github/assets/dc ayarlanma (1).png>)
 
 R1 R2 akım değerleri:
 
-![Akım R1,R2](../../../../.github/assets/Ak%C4%B1m%20R1,R2.png)
+![Akım R1,R2](<../../../../.github/assets/Akım R1,R2.png>)
 
 A, B, C arasındaki gerilim:
 
-![Volt A,B,C](../../../../.github/assets/Volt%20A,B,C.png)
+![Volt A,B,C](<../../../../.github/assets/Volt A,B,C (1).png>)
 
 #### Transient Analiz
 
@@ -48,31 +47,16 @@ A, B, C arasındaki gerilim:
 
 R1 R2 akım değerleri:
 
-![trans_r1_r2](../../../../.github/assets/trans_r1_r2.png)
+![trans\_r1\_r2](../../../../.github/assets/trans\_r1\_r2.png)
 
 A, B, C arasındaki gerilim:
 
-![trans_a_b_volt](../../../../.github/assets/trans_a_b_vold.png)
+![trans\_a\_b\_volt](<../../../../.github/assets/trans\_a\_b\_vold (1).png>)
 
 ### 👩‍🔬 Lab-2 Notları
 
->⚠ Aşağıdaki resimler labda yapılanlarla alakalıdır, ödevin kendisi değildir.
+> ⚠ Aşağıdaki resimler labda yapılanlarla alakalıdır, ödevin kendisi değildir.
 
 Adım adım devreninin çizilimi için aşağıdaki resimleri takip edebilirsin (💡 soldan sağa doğru ilerler):
 
-![lab2_1.adım](../../../../.github/assets/lab2_1.adım.jpg)
-![lab2_2.adım](../../../../.github/assets/lab2_2.adım.png)
-![lab2_3.adım](../../../../.github/assets/lab2_3.adım.png)
-![lab2_4.adım](../../../../.github/assets/lab2_4.adım.png)
-![lab2_5.adım](../../../../.github/assets/lab2_5.adım.png)
-![lab2_6.adım](../../../../.github/assets/lab2_6.adım.png)
-![lab2_7.adım](../../../../.github/assets/lab2_7.adım.png)
-![lab2_8.adım](../../../../.github/assets/lab2_8.adım.png)
-![lab2_9.adım](../../../../.github/assets/lab2_9.adım.png)
-![lab2_10.adım](../../../../.github/assets/lab2_10_adim.png)
-![lab2_11.adım](../../../../.github/assets/lab2_11.adim.png)
-![lab2_12.adım](../../../../.github/assets/lab2_12.adım.png)
-
-[LTspice Website]: http://www.linear.com/designtools/software/
-[LTspice Windows]: http://ltspice.linear-tech.com/software/LTspiceXVII.exe
-[LTspice MAC]: http://ltspice.linear-tech.com/LTspiceIV.dmg
+![lab2\_1.adım](<../../../../.github/assets/lab2\_1.adım (1).jpg>) ![lab2\_2.adım](../../../../.github/assets/lab2\_2.adım.png) ![lab2\_3.adım](<../../../../.github/assets/lab2\_3.adım (1).png>) ![lab2\_4.adım](<../../../../.github/assets/lab2\_4.adım (1).png>) ![lab2\_5.adım](../../../../.github/assets/lab2\_5.adım.png) ![lab2\_6.adım](<../../../../.github/assets/lab2\_6.adım (1).png>) ![lab2\_7.adım](<../../../../.github/assets/lab2\_7.adım (1).png>) ![lab2\_8.adım](<../../../../.github/assets/lab2\_8.adım (1).png>) ![lab2\_9.adım](../../../../.github/assets/lab2\_9.adım.png) ![lab2\_10.adım](<../../../../.github/assets/lab2\_10\_adim (1).png>) ![lab2\_11.adım](<../../../../.github/assets/lab2\_11.adim (1).png>) ![lab2\_12.adım](../../../../.github/assets/lab2\_12.adım.png)
