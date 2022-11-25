@@ -611,7 +611,7 @@
 - 03/09/2019 - 23:59:51 - [✨ Ufak güzelleştirme](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/aac8e2b1fab588b39d3652098157208a4acfc73f?diff=split) ~ Yunus Emre
 - 03/09/2019 - 20:37:27 - [Ufak düzeltme ✨](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/64436f8a36a886dc14efec5fd04d248360b74650?diff=split) ~ Yunus Emre
 - 03/09/2019 - 20:37:20 - [Staj Bitiminde Gerekli Olan Belgeler eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/858e273dd7b4a910ea4d3054f32259a2064f5b37?diff=split) ~ Yunus Emre
-- 03/09/2019 - 20:27:19 - [iuce.yemreak.com'a aktarıldı 🚙](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/6d3b1408f5265bef1526d6a5c67940cf32319cd3?diff=split) ~ Yunus Emre
+- 03/09/2019 - 20:27:19 - [iucce.yemreak.com'a aktarıldı 🚙](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/6d3b1408f5265bef1526d6a5c67940cf32319cd3?diff=split) ~ Yunus Emre
 - 03/09/2019 - 18:55:41 - [Yapılacaklar yapıldı ✔](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/dc8dd62dba067561e02cb5a777fa9beb69f1bcd5?diff=split) ~ Yunus Emre
 - 03/09/2019 - 18:52:21 - [Gereksizler kaldırıldı 🧹](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/bf81ec94604b12bf06bbca21174e09923a84d349?diff=split) ~ Yunus Emre
 - 03/09/2019 - 18:45:25 - [GitBook 📖 entegrasyonu](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e34c005250b6ee30365bea7d15414a2bdbebc85e?diff=split) ~ Yunus Emre

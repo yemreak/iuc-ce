@@ -6,7 +6,10 @@ description: İstanbul Üniversitesi - Cerrahpaşa Bilgisayar Mühendisliği tü
 
 ## 🙋‍♂️ Hoş Geldin
 
-- **[🔍 Arama Buton](https://iuce.yemreak.com/?q=)'nu kullanmayı asla ama asla ihmal etme**
+- 💡 Domain adresindeki `iucce` metni `Istanbul University Cerrahpasha Computer Engineering` anlamına gelmektedir.
+  - 💁‍♂️ Üniversite ismi sonradan `- Cerrahpaşa` son ekini aldığından eski domain değiştirildi
+  - 🤗 Uyum sağlamak adına domaini `iuce` subdomaini `iucce` olarak güncelledim
+- **[🔍 Arama Buton](https://iucce.yemreak.com/?q=)'nu kullanmayı asla ama asla ihmal etme**
   - 👨‍🏫 Hocaların ve derslerin adları, ders konuları vs. aratabilirsin
     - 💎 Dersleri kısaltmaları ile arayabilirsin (Atatürk İlkeleri ve İnkılap = Aİvİ)
     - ⭐ "calculus 1 ders", "c1 ders", "fizik 2 sınav", "f2 sınav" ...
@@ -15,12 +18,10 @@ description: İstanbul Üniversitesi - Cerrahpaşa Bilgisayar Mühendisliği tü
 - [🏫 Okul Hakkında Bilgiler](./bilgiler/README.md) alanına göz atmayı unutma
 - 🤝 Her sayfanın en altında bulunan memnuniyet anketi ile ✨ gelişime ortak olabilirsin.
 
-> 💡 Domain adresindeki `iuce` metni `Istanbul University - Computer Engineering` anlamına gelmektedir.
-
 ## 👀 Değişiklikleri Görme
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/yemreak/IstanbulUniversity-CE?label=Son%20g%C3%BCncelleme&style=for-the-badge)](https://iuce.yemreak.com/changelog)
-[![Github commit activity](https://img.shields.io/github/commit-activity/w/yemreak/IstanbulUniversity-CE?label=G%C3%BCncelleme%20S%C4%B1kl%C4%B1%C4%9F%C4%B1&style=for-the-badge)](https://iuce.yemreak.com/changelog)
+[![GitHub last commit](https://img.shields.io/github/last-commit/yemreak/IstanbulUniversity-CE?label=Son%20g%C3%BCncelleme&style=for-the-badge)](https://iucce.yemreak.com/changelog)
+[![Github commit activity](https://img.shields.io/github/commit-activity/w/yemreak/IstanbulUniversity-CE?label=G%C3%BCncelleme%20S%C4%B1kl%C4%B1%C4%9F%C4%B1&style=for-the-badge)](https://iucce.yemreak.com/changelog)
 
 - **⌚ Sayfanın en altında, en son ne zaman güncellendiği yazmaktadır**
 - 📋 Sitedeki tüm değişiklik **raporlanmaktadır**
@@ -83,11 +84,10 @@ description: İstanbul Üniversitesi - Cerrahpaşa Bilgisayar Mühendisliği tü
 
 ​[​![Github](.github/assets/github_32px.png)​](https://github.com/yemreak) [​![LinkedIn](.github/assets/linkedin_32px.png)​](https://www.linkedin.com/in/yemreak/) [​![Website](.github/assets/geography_32px.png)​](https://yemreak.com/) [​![Mail](.github/assets/gmail_32px.png)​](mailto:yemreak.com@gmail.com?subject=IstanbulUniversity%20%7C%20GitHub)​
 
-> 🤝 Katkı sağlamak için [💖 Katkıda Bulunma Rehberi](https://iuce.yemreak.com/contributing) sayfasına bakabilirsin, maddi katkıya **ihtiyaç yoktur** teşekkür ederim :)
+> 🤝 Katkı sağlamak için [💖 Katkıda Bulunma Rehberi](https://iucce.yemreak.com/contributing) sayfasına bakabilirsin, maddi katkıya **ihtiyaç yoktur** teşekkür ederim :)
 
 ## 🔏 Lisans
 
 **The** [**Apache 2.0 License**](https://choosealicense.com/licenses/apache-2.0/) **©️ Yunus Emre Ak**
 
 ![YEmreAk](.github/assets/ysigniture-trans.png)
-

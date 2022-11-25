@@ -1,7 +1,7 @@
 <!-- 🙋‍♂️ Selam, yardımın ve desteğin için çok teşekkür ederiz 😊 -->
 
 <!--
-- [ ] [💖 Katkıda Bulunma Rehberi](https://iuce.yemreak.com/contributing) yazısını okuyunuz
+- [ ] [💖 Katkıda Bulunma Rehberi](https://iucce.yemreak.com/contributing) yazısını okuyunuz
 - [ ] 👮‍♂️ Adlandırma ve dosya konumlandırma kurallarına uygun yerleştiriniz
 - [ ] 👀 İsteğinize 1 tane reviewer atayınız
 - [ ] 💁‍♂️ Kısa bir özetle yaptığınız değişiklikleri anlatın
