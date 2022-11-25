@@ -15,5 +15,6 @@ description: >-
 * [Vize 2014 DM.pdf](Vize%202014%20DM.pdf)
 * [Vize 20142 DM.pdf](Vize%2020142%20DM.pdf)
 * [Vize 2015 DM.pdf](Vize%202015%20DM.pdf)
+* [Vize 2022 DM.pdf](Vize%202022%20DM.pdf)
 
 <!--Auto generated with YPackage Integration tool-->

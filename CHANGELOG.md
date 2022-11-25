@@ -2,6 +2,8 @@
 
 ## 📋 Tüm Değişiklikler
 
+- 25/11/2022 - 13:20:41 - [📜 2022 Discrete matematik vizesi eklendi](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/0aed63b23c067d363783d33966a6ed1fb3bdc535?diff=split) ~ yedhrab
+- 07/11/2022 - 01:25:19 - [✨ YGitbookIntegration yapılandırması](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/e2448b1e214be7a91ea079baaf4085336acfbc66?diff=split) ~ yedhrab
 - 07/11/2022 - 01:13:55 - [🐛 README sorunları çözüldü](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/0547f9b885a969db321641aa7285cec0e883b504?diff=split) ~ yedhrab
 - 07/11/2022 - 01:02:41 - [🐛 README sorunu çözüldü](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/1bb95e85ae241a12112dd28678f099498a85a807?diff=split) ~ yedhrab
 - 07/11/2022 - 00:59:02 - [🐛 Dosya indeks sorunları çözüldü](https://github.com/YEmreAk/IstanbulUniversity-CE/commit/4e6d4856fbb75ffe85fe2708039dcde630cbde9b?diff=split) ~ yedhrab
