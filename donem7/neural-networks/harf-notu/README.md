@@ -6,15 +6,11 @@ description: Neural Networks için Harf Notu notları
 
 ## 📅 2018 - 2019
 
-![can\_nn2](<../../../.github/assets/can\_nn2 (1).png>)
+![can\_nn2](../../../.github/assets/can\_nn2.png)
 
 ## 📅 2017 - 2018
 
-![can\_nn1](../../../.github/assets/can\_nn1.png)
+![can\_nn1](<../../../.github/assets/can\_nn1 (1).png>)
 
 * [NN Çan 2019 Bitirme.png](NN%20%C3%87an%202019%20Bitirme.png)
-<!--Auto generated with YPackage Integration tool-->
-
 * [NN Çan 2019 Bitirme.png](NN%20%C3%87an%202019%20Bitirme.png)
-
-<!--Auto generated with YPackage Integration tool-->

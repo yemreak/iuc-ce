@@ -21,7 +21,7 @@ description: >-
 
 > ⚠ Hatalı bilgi içerebilir.
 
-![lojik\_state\_diagram](<../../../.github/assets/lojik\_state\_diagram (1).png>) ![lojik\_state\_diagram\_answer](<../../../.github/assets/lojik\_state\_diagram\_answer (1).png>)
+![lojik\_state\_diagram](../../../.github/assets/lojik\_state\_diagram.png) ![lojik\_state\_diagram\_answer](../../../.github/assets/lojik\_state\_diagram\_answer.png)
 
 * İlk A B C D istenen durum için tasarlanıyor.
 * 101 için A B C D
@@ -83,8 +83,4 @@ description: >-
 * A dan 0
 * E den 1
 * F'teyiz, yani F = 01 (010 için)
-<!--Auto generated with YPackage Integration tool-->
-
-* [2018 Tam LDT~ YEmreAk.pdf](2018%20Tam%20LDT~%20YEmreAk.pdf)
-
-<!--Auto generated with YPackage Integration tool-->
+* [2018 Tam LDT\~ YEmreAk.pdf](2018%20Tam%20LDT\~%20YEmreAk.pdf)

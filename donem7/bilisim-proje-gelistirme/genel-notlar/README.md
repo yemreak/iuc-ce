@@ -21,8 +21,8 @@ description: >-
 
 ## 💯 Puanlama Sistemi
 
-![](<../../../.github/assets/bpg puanlama sistemi.jpeg>)
+![](<../../../.github/assets/bpg puanlama sistemi (1).jpeg>)
 
 ## ⏰ Ödev Teslim Takvimi
 
-![](<../../../.github/assets/bpg\_homework (1).png>)
+![](../../../.github/assets/bpg\_homework.png)

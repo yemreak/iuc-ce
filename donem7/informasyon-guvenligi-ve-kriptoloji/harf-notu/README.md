@@ -1,16 +1,11 @@
 ---
-description: >-
-  İnformasyon Güvenliği ve Kriptoloji için Harf Notu Dağılımı notları
+description: İnformasyon Güvenliği ve Kriptoloji için Harf Notu Dağılımı notları
 ---
 
-# 🆎 Harf Notu Dağılımı \| İGvK
+# 🆎 Harf Notu Dağılımı | İGvK
 
 ## 🔔 Çan Bilgisi
 
-![can_kripto](../../../.github/assets/can_kripto.jpeg)
-
-<!--Auto generated with YPackage Integration tool-->
+![can\_kripto](<../../../.github/assets/can\_kripto (1).jpeg>)
 
 * [Kripto Çan 2019 Bitirme.png](Kripto%20%C3%87an%202019%20Bitirme.png)
-
-<!--Auto generated with YPackage Integration tool-->

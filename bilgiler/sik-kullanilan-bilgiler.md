@@ -16,7 +16,7 @@
 
 ## 📞 Öğrenci İşleri Telefon Numaraları
 
-![](../.github/assets/ogrenci\_isleri.png)
+![](<../.github/assets/ogrenci\_isleri (1).png>)
 
 ## 📕 Ders Bilgileri
 

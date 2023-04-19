@@ -13,7 +13,7 @@ Lab dersinde **LTspice** uygulaması kullanılmaktadır.
 
 ### 👩‍🔬 Lab-1 Notları
 
-![devre](../../../../.github/assets/devre.png)
+![devre](<../../../../.github/assets/devre (1).png>)
 
 #### Yapılacaklar
 
@@ -29,29 +29,29 @@ Lab dersinde **LTspice** uygulaması kullanılmaktadır.
 
 `Simulate -> Edit Simulation CMD -> Dc Swift` açılarak alttaki resimdeki değerler girilmeli ve devranın herhangi bir kenarındaki boş yere eklenmeli (devre üstüne değil)
 
-![dc\_ayarlama](<../../../../.github/assets/dc ayarlanma (1).png>)
+![dc\_ayarlama](<../../../../.github/assets/dc ayarlanma.png>)
 
 R1 R2 akım değerleri:
 
-![Akım R1,R2](<../../../../.github/assets/Akım R1,R2.png>)
+![Akım R1,R2](<../../../../.github/assets/Akım R1,R2 (1).png>)
 
 A, B, C arasındaki gerilim:
 
-![Volt A,B,C](<../../../../.github/assets/Volt A,B,C (1).png>)
+![Volt A,B,C](<../../../../.github/assets/Volt A,B,C.png>)
 
 #### Transient Analiz
 
 `Simulate -> Edit Simulation CMD -> Transient` açılarak alttaki resimdeki değerler girilmeli ve devranın herhangi bir kenarındaki boş yere eklenmeli (devre üstüne değil)
 
-![transient1](../../../../.github/assets/transient1.png)
+![transient1](<../../../../.github/assets/transient1 (1).png>)
 
 R1 R2 akım değerleri:
 
-![trans\_r1\_r2](../../../../.github/assets/trans\_r1\_r2.png)
+![trans\_r1\_r2](<../../../../.github/assets/trans\_r1\_r2 (1).png>)
 
 A, B, C arasındaki gerilim:
 
-![trans\_a\_b\_volt](<../../../../.github/assets/trans\_a\_b\_vold (1).png>)
+![trans\_a\_b\_volt](../../../../.github/assets/trans\_a\_b\_vold.png)
 
 ### 👩‍🔬 Lab-2 Notları
 
@@ -59,4 +59,4 @@ A, B, C arasındaki gerilim:
 
 Adım adım devreninin çizilimi için aşağıdaki resimleri takip edebilirsin (💡 soldan sağa doğru ilerler):
 
-![lab2\_1.adım](<../../../../.github/assets/lab2\_1.adım (1).jpg>) ![lab2\_2.adım](../../../../.github/assets/lab2\_2.adım.png) ![lab2\_3.adım](<../../../../.github/assets/lab2\_3.adım (1).png>) ![lab2\_4.adım](<../../../../.github/assets/lab2\_4.adım (1).png>) ![lab2\_5.adım](../../../../.github/assets/lab2\_5.adım.png) ![lab2\_6.adım](<../../../../.github/assets/lab2\_6.adım (1).png>) ![lab2\_7.adım](<../../../../.github/assets/lab2\_7.adım (1).png>) ![lab2\_8.adım](<../../../../.github/assets/lab2\_8.adım (1).png>) ![lab2\_9.adım](../../../../.github/assets/lab2\_9.adım.png) ![lab2\_10.adım](<../../../../.github/assets/lab2\_10\_adim (1).png>) ![lab2\_11.adım](<../../../../.github/assets/lab2\_11.adim (1).png>) ![lab2\_12.adım](../../../../.github/assets/lab2\_12.adım.png)
+![lab2\_1.adım](../../../../.github/assets/lab2\_1.adım.jpg) ![lab2\_2.adım](<../../../../.github/assets/lab2\_2.adım (1).png>) ![lab2\_3.adım](../../../../.github/assets/lab2\_3.adım.png) ![lab2\_4.adım](../../../../.github/assets/lab2\_4.adım.png) ![lab2\_5.adım](<../../../../.github/assets/lab2\_5.adım (1).png>) ![lab2\_6.adım](../../../../.github/assets/lab2\_6.adım.png) ![lab2\_7.adım](../../../../.github/assets/lab2\_7.adım.png) ![lab2\_8.adım](../../../../.github/assets/lab2\_8.adım.png) ![lab2\_9.adım](<../../../../.github/assets/lab2\_9.adım (1).png>) ![lab2\_10.adım](../../../../.github/assets/lab2\_10\_adim.png) ![lab2\_11.adım](../../../../.github/assets/lab2\_11.adim.png) ![lab2\_12.adım](<../../../../.github/assets/lab2\_12.adım (1).png>)

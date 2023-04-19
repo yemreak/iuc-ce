@@ -1,14 +1,13 @@
 ---
-description: >-
-  Derleyici Tasarımı için Harf Notu Dağılımı notları
+description: Derleyici Tasarımı için Harf Notu Dağılımı notları
 ---
 
-# 🆎 Harf Notu Dağılımı \| DT
+# 🆎 Harf Notu Dağılımı | DT
 
 ### 📅 2017 - 2018
 
-![](../../../.github/assets/can_derleyici.png)
+![](<../../../.github/assets/can\_derleyici (1).png>)
 
 ### 📅 2018 - 2019
 
-![](../../../.github/assets/can_derleyici2.png)
+![](<../../../.github/assets/can\_derleyici2 (1).png>)
